@@ -11,6 +11,7 @@ struct MixerView: View {
     @StateObject private var slaapTimer = SlaapTimer()
     @StateObject private var abonnement = AbonnementManager()
     @State private var toontPremium = false
+    @State private var toontScreensaver = false
 
     var body: some View {
         NavigationStack {
@@ -31,6 +32,17 @@ struct MixerView: View {
                                 }
                             }
                         }
+                    }
+
+                    if !mixer.actieveOpties.isEmpty {
+                        Button {
+                            toontScreensaver = true
+                        } label: {
+                            Label("Schaapjes-screensaver", systemImage: "moon.stars.fill")
+                                .frame(maxWidth: .infinity)
+                        }
+                        .buttonStyle(.borderedProminent)
+                        .tint(.indigo)
                     }
 
                     SlaapTimerKaart(timer: slaapTimer, mixer: mixer)
@@ -57,6 +69,9 @@ struct MixerView: View {
         }
         .sheet(isPresented: $toontPremium) {
             PremiumView(abonnement: abonnement)
+        }
+        .fullScreenCover(isPresented: $toontScreensaver) {
+            SchapenScreensaverView(onSluiten: { toontScreensaver = false })
         }
     }
 }
