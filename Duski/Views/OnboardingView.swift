@@ -8,7 +8,7 @@ struct OnboardingView: View {
     var body: some View {
         VStack(spacing: 32) {
             VStack(spacing: 8) {
-                Text("Slaap App")
+                Text("Duski")
                     .font(.system(.largeTitle, design: .rounded, weight: .bold))
                 Text("Voor wie is dit toestel?")
                     .font(.title3)

@@ -77,16 +77,16 @@
           "localizations" : [
             {
               "description" : "Alle geluidslagen, geen limieten.",
-              "displayName" : "Slaap App Premium",
+              "displayName" : "Duski Premium",
               "locale" : "nl_NL"
             },
             {
               "description" : "All sound layers, no limits.",
-              "displayName" : "Slaap App Premium",
+              "displayName" : "Duski Premium",
               "locale" : "en_US"
             }
           ],
-          "productID" : "info.cafferata.slaapapp.premium.maandelijks",
+          "productID" : "info.cafferata.duski.premium.maandelijks",
           "recurringSubscriptionPeriod" : "P1M",
           "referenceName" : "Premium Maandelijks",
           "subscriptionGroupID" : "3B1A2C4D-0002-4A11-9E11-000000000002",

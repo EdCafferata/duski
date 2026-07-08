@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		DDEAE1CB2FA53D2900A6BB6A /* SlaapApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = SlaapApp.app; path = SlaapApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDEAE1CB2FA53D2900A6BB6A /* Duski.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Duski.app; path = Duski.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DDEAE1CD2FA53D2900A6BB6A /* SlaapApp */ = {
+		DDEAE1CD2FA53D2900A6BB6A /* Duski */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 			);
-			path = SlaapApp;
+			path = Duski;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -34,7 +34,7 @@
 		DDEAE1C22FA53D2900A6BB6A = {
 			isa = PBXGroup;
 			children = (
-				DDEAE1CD2FA53D2900A6BB6A /* SlaapApp */,
+				DDEAE1CD2FA53D2900A6BB6A /* Duski */,
 				DDEAE1CC2FA53D2900A6BB6A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -42,7 +42,7 @@
 		DDEAE1CC2FA53D2900A6BB6A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DDEAE1CB2FA53D2900A6BB6A /* SlaapApp.app */,
+				DDEAE1CB2FA53D2900A6BB6A /* Duski.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -50,9 +50,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DDEAE1CA2FA53D2900A6BB6A /* SlaapApp */ = {
+		DDEAE1CA2FA53D2900A6BB6A /* Duski */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DDEAE1EC2FA53D2C00A6BB6A /* Build configuration list for PBXNativeTarget "SlaapApp" */;
+			buildConfigurationList = DDEAE1EC2FA53D2C00A6BB6A /* Build configuration list for PBXNativeTarget "Duski" */;
 			buildPhases = (
 				DDEAE1C72FA53D2900A6BB6A /* Sources */,
 				DDEAE1C82FA53D2900A6BB6A /* Frameworks */,
@@ -63,11 +63,11 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DDEAE1CD2FA53D2900A6BB6A /* SlaapApp */,
+				DDEAE1CD2FA53D2900A6BB6A /* Duski */,
 			);
-			name = SlaapApp;
-			productName = SlaapApp;
-			productReference = DDEAE1CB2FA53D2900A6BB6A /* SlaapApp.app */;
+			name = Duski;
+			productName = Duski;
+			productReference = DDEAE1CB2FA53D2900A6BB6A /* Duski.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DDEAE1C62FA53D2900A6BB6A /* Build configuration list for PBXProject "SlaapApp" */;
+			buildConfigurationList = DDEAE1C62FA53D2900A6BB6A /* Build configuration list for PBXProject "Duski" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DDEAE1CA2FA53D2900A6BB6A /* SlaapApp */,
+				DDEAE1CA2FA53D2900A6BB6A /* Duski */,
 			);
 		};
 /* End PBXProject section */
@@ -263,7 +263,7 @@
 				ENABLE_RESOURCE_ACCESS_PRINTING = NO;
 				ENABLE_RESOURCE_ACCESS_USB = NO;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Slaap App";
+				INFOPLIST_KEY_CFBundleDisplayName = Duski;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -278,8 +278,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.slaapapp;
-				PRODUCT_NAME = SlaapApp;
+				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.duski;
+				PRODUCT_NAME = Duski;
 				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -314,7 +314,7 @@
 				ENABLE_RESOURCE_ACCESS_PRINTING = NO;
 				ENABLE_RESOURCE_ACCESS_USB = NO;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Slaap App";
+				INFOPLIST_KEY_CFBundleDisplayName = Duski;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -329,8 +329,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.slaapapp;
-				PRODUCT_NAME = SlaapApp;
+				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.duski;
+				PRODUCT_NAME = Duski;
 				SDKROOT = auto;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -346,7 +346,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DDEAE1C62FA53D2900A6BB6A /* Build configuration list for PBXProject "SlaapApp" */ = {
+		DDEAE1C62FA53D2900A6BB6A /* Build configuration list for PBXProject "Duski" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DDEAE1EA2FA53D2C00A6BB6A /* Debug */,
@@ -355,7 +355,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DDEAE1EC2FA53D2C00A6BB6A /* Build configuration list for PBXNativeTarget "SlaapApp" */ = {
+		DDEAE1EC2FA53D2C00A6BB6A /* Build configuration list for PBXNativeTarget "Duski" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DDEAE1ED2FA53D2C00A6BB6A /* Debug */,

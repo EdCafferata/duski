@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DDEAE1CA2FA53D2900A6BB6A"
-               BuildableName = "SlaapApp.app"
-               BlueprintName = "SlaapApp"
-               ReferencedContainer = "container:SlaapApp.xcodeproj">
+               BuildableName = "Duski.app"
+               BlueprintName = "Duski"
+               ReferencedContainer = "container:Duski.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -39,16 +39,16 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      storeKitConfigurationFileReference = "container:SlaapApp/Configuration.storekit"
+      storeKitConfigurationFileReference = "container:Duski/Configuration.storekit"
       allowLocationSimulation = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DDEAE1CA2FA53D2900A6BB6A"
-            BuildableName = "SlaapApp.app"
-            BlueprintName = "SlaapApp"
-            ReferencedContainer = "container:SlaapApp.xcodeproj">
+            BuildableName = "Duski.app"
+            BlueprintName = "Duski"
+            ReferencedContainer = "container:Duski.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,9 +63,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DDEAE1CA2FA53D2900A6BB6A"
-            BuildableName = "SlaapApp.app"
-            BlueprintName = "SlaapApp"
-            ReferencedContainer = "container:SlaapApp.xcodeproj">
+            BuildableName = "Duski.app"
+            BlueprintName = "Duski"
+            ReferencedContainer = "container:Duski.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

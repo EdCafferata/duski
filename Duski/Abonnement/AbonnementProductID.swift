@@ -8,7 +8,7 @@ import Foundation
 /// bundle-ID overal consistent worden hernoemd vóórdat het product in App
 /// Store Connect wordt aangemaakt (product-ID's zijn daarna niet meer te wijzigen).
 enum AbonnementProductID {
-    static let premiumMaandelijks = "info.cafferata.slaapapp.premium.maandelijks"
+    static let premiumMaandelijks = "info.cafferata.duski.premium.maandelijks"
 
     static let alle: [String] = [premiumMaandelijks]
 }

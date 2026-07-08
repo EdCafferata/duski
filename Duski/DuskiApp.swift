@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct SlaapApp: App {
+struct DuskiApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

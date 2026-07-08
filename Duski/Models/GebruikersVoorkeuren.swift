@@ -2,7 +2,7 @@ import Foundation
 
 /// Bewaart de leeftijdsgroep-keuze (onboarding) in UserDefaults.
 enum GebruikersVoorkeuren {
-    private static let leeftijdsGroepKey = "slaapapp-leeftijdsgroep"
+    private static let leeftijdsGroepKey = "duski-leeftijdsgroep"
 
     static var leeftijdsGroep: LeeftijdsGroep? {
         get {
