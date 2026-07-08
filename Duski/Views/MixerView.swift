@@ -11,31 +11,32 @@ struct MixerView: View {
     @StateObject private var slaapTimer = SlaapTimer()
     @StateObject private var abonnement = AbonnementManager()
     @State private var toontPremium = false
+    @State private var geselecteerdeCategorie = GeluidCategorie.allCases[0]
 
     var body: some View {
         NavigationStack {
-            ScrollView {
-                VStack(alignment: .leading, spacing: 28) {
-                    if leeftijdsGroep == .baby {
-                        VeiligheidsBanner()
-                    }
-
-                    ForEach(GeluidCategorie.allCases) { categorie in
-                        VStack(alignment: .leading, spacing: 12) {
-                            Text(categorie.titel)
-                                .font(.title3.weight(.semibold))
-
-                            LazyVGrid(columns: [GridItem(.adaptive(minimum: 140), spacing: 12)], spacing: 12) {
-                                ForEach(categorie.opties) { optie in
-                                    GeluidTegel(optie: optie, mixer: mixer)
-                                }
-                            }
-                        }
-                    }
-
-                    SlaapTimerKaart(timer: slaapTimer, mixer: mixer)
+            VStack(spacing: 20) {
+                if leeftijdsGroep == .baby {
+                    VeiligheidsBanner()
+                        .padding(.horizontal)
+                        .padding(.top, 12)
                 }
-                .padding()
+
+                TabView(selection: $geselecteerdeCategorie) {
+                    ForEach(GeluidCategorie.allCases) { categorie in
+                        CategoriePagina(categorie: categorie, mixer: mixer)
+                            .tag(categorie)
+                    }
+                }
+                .tabViewStyle(.page(indexDisplayMode: .always))
+                .indexViewStyle(.page(backgroundDisplayMode: .always))
+                .frame(height: 380)
+
+                SlaapTimerKaart(timer: slaapTimer, mixer: mixer)
+                    .padding(.horizontal)
+                    .padding(.bottom, 12)
+
+                Spacer(minLength: 0)
             }
             .navigationTitle("\(leeftijdsGroep.emoji) \(leeftijdsGroep.titel)")
             .toolbar {
@@ -58,6 +59,37 @@ struct MixerView: View {
         .sheet(isPresented: $toontPremium) {
             PremiumView(abonnement: abonnement)
         }
+    }
+}
+
+/// Eén swipebare pagina per categorie: titel altijd op één regel, en een vaste
+/// 2-koloms grid zodat alle geluidstegels van die categorie op één scherm
+/// passen — geen scrollen nodig.
+private struct CategoriePagina: View {
+    let categorie: GeluidCategorie
+    @ObservedObject var mixer: GeluidsMixer
+
+    private let kolommen = [GridItem(.flexible(), spacing: 12), GridItem(.flexible(), spacing: 12)]
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 16) {
+            Spacer(minLength: 0)
+
+            Text(categorie.titel)
+                .font(.title3.weight(.semibold))
+                .lineLimit(1)
+                .minimumScaleFactor(0.7)
+
+            LazyVGrid(columns: kolommen, spacing: 12) {
+                ForEach(categorie.opties) { optie in
+                    GeluidTegel(optie: optie, mixer: mixer)
+                }
+            }
+
+            Spacer(minLength: 0)
+        }
+        .padding(.horizontal)
+        .padding(.bottom, 32)
     }
 }
 
