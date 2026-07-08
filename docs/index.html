@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Duski — val sneller in slaap, wetenschappelijk onderbouwd</title>
+<meta name="description" content="Duski is een wereldwijde slaapgeluiden-app: 100% zelf gegenereerde audio, geen opnames, geen rechtenrisico. Witte/roze/bruine ruis, regen, hartslag, baarmoedergeluiden en meer — met een veilige babymodus.">
+<style>
+  :root {
+    --achtergrond: #0b0e1a;
+    --achtergrond-kaart: #141830;
+    --accent: #f5c46b;
+    --tekst: #eef0fa;
+    --tekst-zacht: #a7adc7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: radial-gradient(ellipse at top, #1a1f3d 0%, var(--achtergrond) 60%);
+    color: var(--tekst);
+    line-height: 1.6;
+  }
+  .wrapper { max-width: 880px; margin: 0 auto; padding: 0 24px; }
+  header { padding: 100px 0 60px; text-align: center; }
+  .maan { font-size: 64px; margin-bottom: 16px; }
+  h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin: 0 0 16px;
+    letter-spacing: -0.02em;
+  }
+  .subtitel {
+    font-size: 1.25rem;
+    color: var(--tekst-zacht);
+    max-width: 560px;
+    margin: 0 auto 32px;
+  }
+  .badge {
+    display: inline-block;
+    background: rgba(245, 196, 107, 0.15);
+    color: var(--accent);
+    padding: 8px 18px;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  section { padding: 48px 0; }
+  h2 { font-size: 1.75rem; margin-bottom: 24px; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+  }
+  .kaart {
+    background: var(--achtergrond-kaart);
+    border-radius: 20px;
+    padding: 28px;
+    border: 1px solid rgba(255,255,255,0.06);
+  }
+  .kaart .emoji { font-size: 2rem; margin-bottom: 12px; display: block; }
+  .kaart h3 { margin: 0 0 8px; font-size: 1.1rem; }
+  .kaart p { margin: 0; color: var(--tekst-zacht); font-size: 0.95rem; }
+  .wetenschap {
+    background: var(--achtergrond-kaart);
+    border-radius: 20px;
+    padding: 32px;
+    border: 1px solid rgba(255,255,255,0.06);
+  }
+  .wetenschap ul { margin: 16px 0 0; padding-left: 20px; color: var(--tekst-zacht); }
+  .wetenschap li { margin-bottom: 8px; }
+  .prijs {
+    text-align: center;
+    background: linear-gradient(135deg, rgba(245,196,107,0.12), rgba(245,196,107,0.02));
+    border-radius: 24px;
+    padding: 48px 24px;
+    border: 1px solid rgba(245,196,107,0.2);
+  }
+  .prijs .bedrag { font-size: 2.5rem; font-weight: 800; color: var(--accent); margin: 12px 0; }
+  footer {
+    text-align: center;
+    padding: 60px 0 40px;
+    color: var(--tekst-zacht);
+    font-size: 0.85rem;
+  }
+  footer a { color: var(--tekst-zacht); }
+</style>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <div class="maan">🌙</div>
+      <span class="badge">Binnenkort in de App Store</span>
+      <h1>Duski</h1>
+      <p class="subtitel">Val sneller in slaap met geluiden die 100% on-device worden gegenereerd —
+      geen opnames, geen streaming, gewoon wetenschappelijk onderbouwde audio die precies bij jouw leeftijd past.</p>
+    </header>
+
+    <section>
+      <h2>Voor elke leeftijd, veilig ingesteld</h2>
+      <div class="grid">
+        <div class="kaart">
+          <span class="emoji">👶</span>
+          <h3>Baby</h3>
+          <p>Ingebouwde volumelimiet en zichtbare veiligheidsrichtlijnen — onderzoek toont dat losse witte-ruismachines op vol volume vaak te hard staan.</p>
+        </div>
+        <div class="kaart">
+          <span class="emoji">🧒</span>
+          <h3>Kind</h3>
+          <p>Rustige, kortere geluidslagen zonder binaurale beats of andere content die niet voor kinderen is onderzocht.</p>
+        </div>
+        <div class="kaart">
+          <span class="emoji">🧑</span>
+          <h3>Tiener &amp; volwassene</h3>
+          <p>De volledige bibliotheek: van klassieke witte ruis tot klankschalen en binaurale beats — met eerlijke uitleg over wat wetenschappelijk bewezen is.</p>
+        </div>
+        <div class="kaart">
+          <span class="emoji">🧓</span>
+          <h3>Oudere</h3>
+          <p>Grotere bediening en content zoals roze ruis, waar onderzoek specifiek positieve effecten bij oudere volwassenen laat zien.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Mix je eigen geluid</h2>
+      <div class="grid">
+        <div class="kaart"><span class="emoji">📻</span><h3>Witte, roze &amp; bruine ruis</h3><p>Elk digitaal gesynthetiseerd, niet opgenomen.</p></div>
+        <div class="kaart"><span class="emoji">🌧️</span><h3>Regen, golven, wind &amp; vuur</h3><p>Natuurgeluiden die live worden berekend, nooit een lus die je hoort herhalen.</p></div>
+        <div class="kaart"><span class="emoji">❤️</span><h3>Hartslag &amp; baarmoedergeluiden</h3><p>Rustgevend ritme rond rusthartslag — precies het tempo dat onderzoek als meest effectief aanwijst.</p></div>
+        <div class="kaart"><span class="emoji">🎐</span><h3>Klankschaal</h3><p>Additieve synthese van boventonen voor een zachte, zwevende meditatieklank.</p></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Eerlijk over de wetenschap</h2>
+      <div class="wetenschap">
+        <p>We baseren Duski op onderzoek van AASM, WHO, Harvard Medical School en meerdere peer-reviewed studies — en zijn net zo duidelijk over wat <em>niet</em> onderbouwd is:</p>
+        <ul>
+          <li>✅ Witte/roze ruis: aangetoond effect op inslaaptijd, vooral bij baby's en in rumoerige omgevingen</li>
+          <li>✅ Consistente bedtijdroutine + koelere kamer: stevig onderbouwd</li>
+          <li>❌ "528 Hz geneest je DNA": pseudowetenschap, geen peer-reviewed bewijs</li>
+          <li>❌ 40 Hz als slaaphulp: dat is juist een alertheidsfrequentie, het tegenovergestelde</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <div class="prijs">
+        <h2 style="margin-bottom:8px;">30 dagen gratis</h2>
+        <div class="bedrag">daarna het laagste tarief voor jouw land</div>
+        <p style="color:var(--tekst-zacht)">Geen verborgen limieten tijdens de proefperiode. Op te zeggen wanneer je wilt.</p>
+      </div>
+    </section>
+
+    <footer>
+      <p>Duski wordt gemaakt door The IT Crowd. Vragen? <a href="mailto:edcafferata@icloud.com">edcafferata@icloud.com</a></p>
+      <p><a href="https://github.com/EdCafferata/duski">Volg de ontwikkeling op GitHub</a></p>
+    </footer>
+  </div>
+</body>
+</html>
