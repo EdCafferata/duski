@@ -9,11 +9,9 @@ import SwiftUI
 struct SchapenScreensaverView: View {
     let onSluiten: () -> Void
 
-    /// Elk schaap heeft een eigen snelheid/fase zodat ze niet synchroon lopen.
+    /// Eén rustig wandelend schaap.
     private let schapen: [(snelheid: Double, faseVerschuiving: Double)] = [
-        (snelheid: 70, faseVerschuiving: 0.0),
-        (snelheid: 95, faseVerschuiving: 1.4),
-        (snelheid: 55, faseVerschuiving: 2.8),
+        (snelheid: 24, faseVerschuiving: 0.0),
     ]
 
     var body: some View {
@@ -22,7 +20,7 @@ struct SchapenScreensaverView: View {
 
             GeometryReader { geo in
                 let grondLijnY = geo.size.height - 160
-                let hekX = geo.size.width * 0.68
+                let hekX = geo.size.width * 0.5
 
                 ZStack {
                     LinearGradient(
