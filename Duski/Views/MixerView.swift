@@ -26,10 +26,13 @@ struct MixerView: View {
                             Text(categorie.titel)
                                 .font(.title3.weight(.semibold))
 
-                            LazyVGrid(columns: [GridItem(.adaptive(minimum: 140), spacing: 12)], spacing: 12) {
-                                ForEach(categorie.opties) { optie in
-                                    GeluidTegel(optie: optie, mixer: mixer)
+                            ScrollView(.horizontal, showsIndicators: false) {
+                                HStack(spacing: 12) {
+                                    ForEach(categorie.opties) { optie in
+                                        GeluidTegel(optie: optie, mixer: mixer)
+                                    }
                                 }
+                                .padding(.horizontal, 2)
                             }
                         }
                     }
@@ -81,6 +84,8 @@ private struct GeluidTegel: View {
     let optie: GeluidOptie
     @ObservedObject var mixer: GeluidsMixer
 
+    private let breedte: CGFloat = 148
+
     var body: some View {
         let actief = mixer.isActief(optie)
 
@@ -95,7 +100,7 @@ private struct GeluidTegel: View {
                         .lineLimit(1)
                         .minimumScaleFactor(0.6)
                 }
-                .frame(maxWidth: .infinity)
+                .frame(width: breedte)
                 .padding(.horizontal, 6)
                 .padding(.vertical, 14)
             }
@@ -109,10 +114,11 @@ private struct GeluidTegel: View {
                     ),
                     in: 0...1
                 )
-                .padding(.horizontal, 10)
+                .frame(width: breedte - 20)
                 .padding(.bottom, 8)
             }
         }
+        .frame(width: breedte)
         .background(actief ? AnyShapeStyle(.tint.opacity(0.25)) : AnyShapeStyle(.thinMaterial), in: .rect(cornerRadius: 18))
     }
 }
