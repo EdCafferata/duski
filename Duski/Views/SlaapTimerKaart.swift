@@ -25,10 +25,19 @@ struct SlaapTimerKaart: View {
             } else {
                 HStack(spacing: 10) {
                     ForEach(opties, id: \.self) { minuten in
-                        Button("\(minuten) min") {
+                        Button {
                             timer.start(minuten: minuten, mixer: mixer)
+                        } label: {
+                            VStack(spacing: 0) {
+                                Text("\(minuten)")
+                                    .font(.system(.body, design: .rounded, weight: .bold))
+                                Text("min")
+                                    .font(.caption2)
+                            }
+                            .frame(width: 60, height: 60)
+                            .background(Color(.systemGray5), in: .circle)
                         }
-                        .buttonStyle(.bordered)
+                        .buttonStyle(.plain)
                     }
                 }
             }
