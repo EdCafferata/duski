@@ -84,25 +84,25 @@ private struct GeluidTegel: View {
     let optie: GeluidOptie
     @ObservedObject var mixer: GeluidsMixer
 
-    private let breedte: CGFloat = 148
+    private let breedte: CGFloat = 104
 
     var body: some View {
         let actief = mixer.isActief(optie)
 
-        VStack(spacing: 10) {
+        VStack(spacing: 7) {
             Button {
                 mixer.schakel(optie)
             } label: {
-                VStack(spacing: 6) {
-                    Text(optie.emoji).font(.system(size: 32))
+                VStack(spacing: 4) {
+                    Text(optie.emoji).font(.system(size: 24))
                     Text(optie.titel)
-                        .font(.caption.weight(.medium))
+                        .font(.caption2.weight(.medium))
                         .lineLimit(1)
                         .minimumScaleFactor(0.6)
                 }
                 .frame(width: breedte)
-                .padding(.horizontal, 6)
-                .padding(.vertical, 14)
+                .padding(.horizontal, 4)
+                .padding(.vertical, 10)
             }
             .buttonStyle(.plain)
 
@@ -114,12 +114,12 @@ private struct GeluidTegel: View {
                     ),
                     in: 0...1
                 )
-                .frame(width: breedte - 20)
-                .padding(.bottom, 8)
+                .frame(width: breedte - 14)
+                .padding(.bottom, 6)
             }
         }
         .frame(width: breedte)
-        .background(actief ? AnyShapeStyle(.tint.opacity(0.25)) : AnyShapeStyle(.thinMaterial), in: .rect(cornerRadius: 18))
+        .background(actief ? AnyShapeStyle(.tint.opacity(0.25)) : AnyShapeStyle(.thinMaterial), in: .rect(cornerRadius: 14))
     }
 }
 
