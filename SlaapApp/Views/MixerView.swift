@@ -9,6 +9,8 @@ struct MixerView: View {
 
     @StateObject private var mixer = GeluidsMixer()
     @StateObject private var slaapTimer = SlaapTimer()
+    @StateObject private var abonnement = AbonnementManager()
+    @State private var toontPremium = false
 
     var body: some View {
         NavigationStack {
@@ -37,6 +39,11 @@ struct MixerView: View {
             }
             .navigationTitle("\(leeftijdsGroep.emoji) \(leeftijdsGroep.titel)")
             .toolbar {
+                ToolbarItem(placement: .topBarLeading) {
+                    if !abonnement.heeftPremium {
+                        Button("Premium") { toontPremium = true }
+                    }
+                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button("Wijzig", action: {
                         mixer.stopAlles()
@@ -47,6 +54,9 @@ struct MixerView: View {
         }
         .onAppear {
             mixer.stelMaximaalVolumeIn(leeftijdsGroep.maximaalVolume)
+        }
+        .sheet(isPresented: $toontPremium) {
+            PremiumView(abonnement: abonnement)
         }
     }
 }

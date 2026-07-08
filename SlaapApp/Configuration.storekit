@@ -1,0 +1,102 @@
+{
+  "identifier" : "3B1A2C4D-0001-4A11-9E11-000000000001",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_applicationInternalID" : "0",
+    "_developerTeamID" : "9J2S23WJH3",
+    "_failTransactionsEnabled" : false,
+    "_locale" : "nl_NL",
+    "_storefront" : "NLD",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "3B1A2C4D-0002-4A11-9E11-000000000002",
+      "localizations" : [],
+      "name" : "Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "3B1A2C4D-0003-4A11-9E11-000000000003",
+          "introductoryOffer" : {
+            "internalID" : "3B1A2C4D-0004-4A11-9E11-000000000004",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P30D"
+          },
+          "localizations" : [
+            {
+              "description" : "Alle geluidslagen, geen limieten.",
+              "displayName" : "Slaap App Premium",
+              "locale" : "nl_NL"
+            },
+            {
+              "description" : "All sound layers, no limits.",
+              "displayName" : "Slaap App Premium",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "info.cafferata.slaapapp.premium.maandelijks",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Premium Maandelijks",
+          "subscriptionGroupID" : "3B1A2C4D-0002-4A11-9E11-000000000002",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
