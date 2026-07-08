@@ -14,6 +14,10 @@ struct MixerView: View {
         NavigationStack {
             ScrollView {
                 VStack(alignment: .leading, spacing: 28) {
+                    if leeftijdsGroep == .baby {
+                        VeiligheidsBanner()
+                    }
+
                     ForEach(GeluidCategorie.allCases) { categorie in
                         VStack(alignment: .leading, spacing: 12) {
                             Text(categorie.titel)

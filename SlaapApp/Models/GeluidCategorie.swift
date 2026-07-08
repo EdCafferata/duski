@@ -32,6 +32,8 @@ enum GeluidCategorie: String, CaseIterable, Codable, Identifiable {
             return [
                 GeluidOptie(id: "regen", titel: "Regen", emoji: "🌧️", type: .regen),
                 GeluidOptie(id: "golven", titel: "Golven", emoji: "🌊", type: .golven),
+                GeluidOptie(id: "wind", titel: "Wind", emoji: "🍃", type: .wind),
+                GeluidOptie(id: "vuur", titel: "Kampvuur", emoji: "🔥", type: .vuur),
             ]
         case .lichaam:
             return [
@@ -58,6 +60,8 @@ enum GeluidType: Codable, Hashable {
     case ruis(RuisKleur)
     case regen
     case golven
+    case wind
+    case vuur
     case hartslag
     case baarmoeder
     case klankschaal

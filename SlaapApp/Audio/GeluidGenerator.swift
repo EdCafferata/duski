@@ -16,6 +16,10 @@ enum GeluidGeneratorFabriek {
             return RegenGenerator()
         case .golven:
             return GolvenGenerator()
+        case .wind:
+            return WindGenerator()
+        case .vuur:
+            return VuurGenerator()
         case .hartslag:
             return HartslagGenerator()
         case .baarmoeder:
