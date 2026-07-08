@@ -7,14 +7,20 @@ struct OnboardingView: View {
 
     var body: some View {
         VStack(spacing: 32) {
-            VStack(spacing: 8) {
+            VStack(spacing: 12) {
+                Image("DuskiLogo")
+                    .resizable()
+                    .scaledToFit()
+                    .frame(width: 96, height: 96)
+                    .clipShape(.rect(cornerRadius: 22))
+
                 Text("Duski")
                     .font(.system(.largeTitle, design: .rounded, weight: .bold))
                 Text("Voor wie is dit toestel?")
                     .font(.title3)
                     .foregroundStyle(.secondary)
             }
-            .padding(.top, 60)
+            .padding(.top, 40)
 
             VStack(spacing: 14) {
                 ForEach(LeeftijdsGroep.allCases) { groep in
