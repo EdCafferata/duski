@@ -4,7 +4,11 @@ import SwiftUI
 /// de door ziekenhuizen aanbevolen geluidsniveaus overschreden (zie
 /// onderzoek/01_demografie_wetenschap_appstore.md). Deze banner maakt de
 /// ingebouwde volumelimiet zichtbaar in plaats van een verborgen instelling.
+/// Verdwijnt na een minuut vanzelf (via `onVerlopen`) zodat de lange tekst niet
+/// blijvend de uitlijning van de rest van het scherm verstoort.
 struct VeiligheidsBanner: View {
+    let onVerlopen: () -> Void
+
     var body: some View {
         HStack(alignment: .top, spacing: 12) {
             Image(systemName: "ear.badge.waveform")
@@ -19,9 +23,13 @@ struct VeiligheidsBanner: View {
         }
         .padding()
         .background(.orange.opacity(0.12), in: .rect(cornerRadius: 16))
+        .task {
+            try? await Task.sleep(for: .seconds(60))
+            onVerlopen()
+        }
     }
 }
 
 #Preview {
-    VeiligheidsBanner()
+    VeiligheidsBanner(onVerlopen: {})
 }

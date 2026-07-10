@@ -12,13 +12,17 @@ struct MixerView: View {
     @StateObject private var abonnement = AbonnementManager()
     @State private var toontPremium = false
     @State private var toontScreensaver = false
+    @State private var toontVeiligheidsBanner = true
 
     var body: some View {
         NavigationStack {
             ScrollView {
                 VStack(alignment: .leading, spacing: 28) {
-                    if leeftijdsGroep == .baby {
-                        VeiligheidsBanner()
+                    if leeftijdsGroep == .baby && toontVeiligheidsBanner {
+                        VeiligheidsBanner(onVerlopen: {
+                            withAnimation { toontVeiligheidsBanner = false }
+                        })
+                        .transition(.opacity.combined(with: .move(edge: .top)))
                     }
 
                     ForEach(GeluidCategorie.allCases) { categorie in
