@@ -36,10 +36,15 @@ final class GeluidsMixer: ObservableObject {
         actieveOpties.contains(optie.id)
     }
 
+    /// Slechts één geluid tegelijk actief: een nieuwe keuze stopt eerst alle
+    /// andere lagen, zodat altijd de laatste keuze overblijft.
     func schakel(_ optie: GeluidOptie) {
         if isActief(optie) {
-            stopLaag(optie)
+            stopLaag(id: optie.id)
         } else {
+            for id in Array(actieveOpties) {
+                stopLaag(id: id)
+            }
             startLaag(optie)
         }
     }
@@ -78,13 +83,13 @@ final class GeluidsMixer: ObservableObject {
         actieveOpties.insert(optie.id)
     }
 
-    private func stopLaag(_ optie: GeluidOptie) {
-        guard let node = nodes[optie.id] else { return }
+    private func stopLaag(id: String) {
+        guard let node = nodes[id] else { return }
         engine.disconnectNodeOutput(node)
         engine.detach(node)
-        nodes[optie.id] = nil
-        generators[optie.id] = nil
-        actieveOpties.remove(optie.id)
+        nodes[id] = nil
+        generators[id] = nil
+        actieveOpties.remove(id)
 
         if actieveOpties.isEmpty {
             engine.stop()

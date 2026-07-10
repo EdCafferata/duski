@@ -1,8 +1,11 @@
 import Foundation
 
-/// Genereert witte, roze of bruine ruis. Roze via Paul Kellet's bekende
-/// "economy"-filtercascade (publiek algoritme, geen licentie nodig); bruine ruis via
-/// een lekkende integrator van witte ruis.
+/// Genereert witte, roze, bruine, grijze of blauwe ruis. Roze via Paul Kellet's
+/// bekende "economy"-filtercascade (publiek algoritme, geen licentie nodig);
+/// bruine ruis via een lekkende integrator van witte ruis; grijze ruis via een
+/// smal middenband-filter (het gebied waar het gehoor het gevoeligst is); blauwe
+/// ruis via een eerste-orde verschil (het spiegelbeeld van bruine ruis: meer
+/// energie in de hoge tonen in plaats van de lage).
 final class RuisGenerator: GeluidGenerator {
     private let kleur: RuisKleur
 
@@ -11,6 +14,13 @@ final class RuisGenerator: GeluidGenerator {
 
     // Toestand voor bruine ruis (lekkende integrator).
     private var bruinToestand: Float = 0
+
+    // Toestand voor grijze ruis (bandfilter: hoogdoorlaat gevolgd door laagdoorlaat).
+    private var grijsHoogToestand: Float = 0
+    private var grijsLaagToestand: Float = 0
+
+    // Toestand voor blauwe ruis (eerste-orde verschilfilter).
+    private var blauwVorige: Float = 0
 
     init(kleur: RuisKleur) {
         self.kleur = kleur
@@ -33,6 +43,17 @@ final class RuisGenerator: GeluidGenerator {
         case .bruin:
             bruinToestand = (bruinToestand + (0.02 * wit)) / 1.02
             return bruinToestand * 3.5
+
+        case .grijs:
+            grijsHoogToestand += 0.35 * (wit - grijsHoogToestand)
+            let hoog = wit - grijsHoogToestand
+            grijsLaagToestand += 0.5 * (hoog - grijsLaagToestand)
+            return grijsLaagToestand * 1.8
+
+        case .blauw:
+            let blauw = wit - blauwVorige
+            blauwVorige = wit
+            return blauw * 0.5
         }
     }
 }

@@ -37,18 +37,12 @@ struct MixerView: View {
                         }
                     }
 
-                    if !mixer.actieveOpties.isEmpty {
-                        Button {
-                            toontScreensaver = true
-                        } label: {
-                            Label("Schaapjes-screensaver", systemImage: "moon.stars.fill")
-                                .frame(maxWidth: .infinity)
-                        }
-                        .buttonStyle(.borderedProminent)
-                        .tint(.indigo)
-                    }
-
-                    SlaapTimerKaart(timer: slaapTimer, mixer: mixer)
+                    SlaapTimerKaart(
+                        timer: slaapTimer,
+                        mixer: mixer,
+                        toontScreensaverKnop: !mixer.actieveOpties.isEmpty,
+                        onScreensaver: { toontScreensaver = true }
+                    )
                 }
                 .padding()
             }
@@ -74,7 +68,7 @@ struct MixerView: View {
             PremiumView(abonnement: abonnement)
         }
         .fullScreenCover(isPresented: $toontScreensaver) {
-            SchapenScreensaverView(onSluiten: { toontScreensaver = false })
+            ScreensaverKiezerView(onSluiten: { toontScreensaver = false })
         }
     }
 }
@@ -124,5 +118,5 @@ private struct GeluidTegel: View {
 }
 
 #Preview {
-    MixerView(leeftijdsGroep: .tienerVolwassene, onWijzigGroep: {})
+    MixerView(leeftijdsGroep: .volwassene, onWijzigGroep: {})
 }

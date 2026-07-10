@@ -20,12 +20,40 @@ enum GeluidGeneratorFabriek {
             return WindGenerator()
         case .vuur:
             return VuurGenerator()
+        case .beek:
+            return BeekGenerator()
         case .hartslag:
             return HartslagGenerator()
         case .baarmoeder:
             return BaarmoederGenerator()
+        case .ademhaling:
+            return AdemhalingGenerator()
+        case .sussen:
+            return SussenGenerator()
+        case .fohn:
+            return FohnGenerator()
         case .klankschaal:
             return KlankschaalGenerator()
+        case .ventilator:
+            return VentilatorGenerator()
+        case .trein:
+            return TreinGenerator()
+        case .klok:
+            return KlokGenerator()
+        case .vliegtuigcabine:
+            return VliegtuigcabineGenerator()
+        case .autorijden:
+            return AutorijdenGenerator()
+        case .bachPrelude:
+            return BachPreludeGenerator()
+        case .bachAir:
+            return BachAirGenerator()
+        case .canon:
+            return CanonGenerator()
+        case .gymnopedie:
+            return GymnopedieGenerator()
+        case .clairDeLune:
+            return ClairDeLuneGenerator()
         }
     }
 }

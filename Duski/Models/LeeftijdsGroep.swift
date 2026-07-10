@@ -6,7 +6,8 @@ import Foundation
 enum LeeftijdsGroep: String, CaseIterable, Codable, Identifiable {
     case baby
     case kind
-    case tienerVolwassene
+    case tiener
+    case volwassene
     case oudere
 
     var id: String { rawValue }
@@ -15,8 +16,9 @@ enum LeeftijdsGroep: String, CaseIterable, Codable, Identifiable {
         switch self {
         case .baby: return "Baby (0-1 jaar)"
         case .kind: return "Kind (1-12 jaar)"
-        case .tienerVolwassene: return "Tiener / Volwassene"
-        case .oudere: return "Oudere (65+)"
+        case .tiener: return "Tiener (13-17 jaar)"
+        case .volwassene: return "Volwassene (18-64 jaar)"
+        case .oudere: return "Oudere (65+ jaar)"
         }
     }
 
@@ -24,7 +26,8 @@ enum LeeftijdsGroep: String, CaseIterable, Codable, Identifiable {
         switch self {
         case .baby: return "👶"
         case .kind: return "🧒"
-        case .tienerVolwassene: return "🧑"
+        case .tiener: return "🧑"
+        case .volwassene: return "🧑"
         case .oudere: return "🧓"
         }
     }
