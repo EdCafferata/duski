@@ -12,7 +12,7 @@
      gepost), de tekst zelf. -->
 
 ## 2026-07-12 — Duski
-**Status:** klaargezet in composer (nog niet verzonden door Ed)
+**Status:** geannuleerd — Ed gaf aan dat de landingspagina (https://edcafferata.github.io/duski/) niet werkt, dus de post is niet gepost. Tekst hieronder bewaard als referentie/basis voor een latere post zodra de landingspagina weer werkt.
 
 Een paar weken geleden begon ik aan een simpel idee: een slaap-app waarvan alle geluiden 100% op je eigen toestel worden gegenereerd — geen opnames, geen streaming, geen gedoe met rechten.
 
