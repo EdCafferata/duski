@@ -5,6 +5,12 @@
 > een betaal-optie erin: Duski (maandelijks abonnement) en Dicom Viewer (Tip
 > Jar). Elke week wordt hier de klaargezette post gelogd, zodat de routine kan
 > afwisselen tussen apps en niet twee keer hetzelfde post.
+>
+> **Belangrijk:** Duski wordt niet gepromoot op LinkedIn totdat de app
+> daadwerkelijk live staat in de App Store (besluit Ed, 2026-07-15). Zolang dat
+> nog niet zo is, slaat de routine Duski over en gaat de beurt automatisch naar
+> Dicom Viewer (geen afwisseling nodig — gewoon elke week Dicom Viewer totdat
+> Duski live is).
 
 ## Log
 
@@ -12,7 +18,7 @@
      gepost), de tekst zelf. -->
 
 ## 2026-07-15 — Duski
-**Status:** klaargezet in composer (nog niet verzonden door Ed) — landingspagina (https://edcafferata.github.io/duski/) staat nog steeds offline (GitHub Pages niet geconfigureerd), dus deze post laat de link bewust weg en meldt dat expliciet in plaats van een dode link te delen.
+**Status:** geannuleerd — Ed heeft besloten dat Duski niet gepromoot wordt totdat de app daadwerkelijk live staat in de App Store. Post was al klaargezet in de LinkedIn-composer maar niet verzonden; op verzoek van Ed niet doorgezet. Tekst hieronder bewaard als referentie voor zodra de app live is.
 
 Een paar weken geleden begon ik aan een idee: een slaap-app waarvan alle geluiden 100% op je eigen toestel worden gegenereerd — geen opnames, geen streaming, geen rechtenrisico.
 
