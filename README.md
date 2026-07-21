@@ -1,6 +1,6 @@
 # Duski
 
-🔒 Laatste security check: 2026-07-20 23:00 CEST
+🔒 Laatste security check: 2026-07-21 23:00 CEST
 
 **Duski** is een native iOS-app (SwiftUI) met slaapgeluiden en witte ruis, gericht op een wereldwijd publiek. Alle geluiden worden 100% op het toestel zelf gegenereerd via `AVAudioEngine` — geen opnames, geen streaming, geen rechtenrisico.
 
