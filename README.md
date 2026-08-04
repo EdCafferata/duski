@@ -6,7 +6,7 @@
 
 ## Functies
 
-- 🎚️ **Geluidsmixer** — losse geluidslagen mixen, elk met eigen volumeslider, gegroepeerd per categorie:
+- 🎚️ **Geluidenkiezer** — losse geluiden met eigen volumeslider, gegroepeerd per categorie (één geluid tegelijk actief, kiezen wisselt automatisch):
   - **Ruis** — wit, roze, bruin, grijs en blauw
   - **Natuur** — regen, golven, wind, kampvuur, kabbelende beek
   - **Lichaam & baby** — hartslag, baarmoedergeluiden, ademhaling, sussen (shhh), föhn
