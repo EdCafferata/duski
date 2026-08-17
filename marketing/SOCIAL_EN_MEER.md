@@ -58,9 +58,9 @@ weinig kans zonder pers-contact — kandidaat voor een volgende onderzoeksronde.
 
 ## Checklist
 
-- [ ] TapSmart — tomjrolfe@intelligenti.com
-- [ ] Indie Dev Monday — lookatme@indiedevmonday.com
-- [ ] Springboard App Picks — springboard@darylbaxter.com
+- [x] TapSmart — tomjrolfe@intelligenti.com — 17 augustus 2026, verzonden via iCloud Mail
+- [x] Indie Dev Monday — lookatme@indiedevmonday.com — 17 augustus 2026, verzonden via iCloud Mail
+- [x] Springboard App Picks — springboard@darylbaxter.com — 17 augustus 2026, verzonden via iCloud Mail
 - [ ] r/IndieAppNews — "App Introduction"-post
 - [ ] Indie App Catalog — webform (checken of Android-only toegestaan is)
 - [ ] 9to5Mac Indie App Spotlight — **wachten tot Duski ook op iOS live is**
