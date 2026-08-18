@@ -44,6 +44,40 @@ Grote, gezaghebbende Engelstalige "beste slaap-apps"-vergelijkingen
 contact/indieningsproces opgezocht. Waarschijnlijk grote redacties met needs
 weinig kans zonder pers-contact — kandidaat voor een volgende onderzoeksronde.
 
+### mindful.technology ✅ nieuw gevonden (17 augustus 2026), geen e-mail — alleen webformulier
+Persoonlijk gecureerde meditatie-/mindfulness-app-lijst (mindful.technology/
+meditation-apps/). Nodigt expliciet uit tot suggesties ("Are we missing a great
+meditation app that you can recommend?") en tot app-reviewaanvragen via het
+contactformulier ("if you are interested in... a review of your app"). Expliciet
+géén advertenties/betaalde vermeldingen: "we believe that advertisements have no
+place in meditation apps... we have opted not to include them." Geen
+zelfpromotie- of AI-verbod gevonden. Alleen een contactformulier
+(mindful.technology/contact/, velden: naam/e-mail/onderwerp/bericht), geen los
+e-mailadres — dus voorbereiden en door Ed zelf laten verzenden, niet
+automatisch (zelfde regel als andere webformulieren).
+
+**Kant-en-klare tekst (voor het contactformulier):**
+
+Onderwerp: App review request — Duski (screen-free sleep sounds, Android)
+
+```
+Hi,
+
+I'd like to suggest Duski for your meditation apps list, or ask if you'd be
+interested in reviewing it: a free Android app with calming, screen-free
+sleep sounds — nature sounds, white/pink/brown noise, generated classical
+pieces, and soothing options for babies — all 100% generated on-device (no
+recordings, no streaming, no ads).
+
+Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
+
+Happy to answer any questions. Thanks for considering it!
+
+Best,
+Ed Cafferata — The IT Crowd
+edcafferata@icloud.com
+```
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
@@ -63,6 +97,7 @@ weinig kans zonder pers-contact — kandidaat voor een volgende onderzoeksronde.
 - [x] Springboard App Picks — springboard@darylbaxter.com — 17 augustus 2026, verzonden via iCloud Mail
 - [ ] r/IndieAppNews — "App Introduction"-post
 - [ ] Indie App Catalog — webform (checken of Android-only toegestaan is)
+- [ ] mindful.technology — webformulier voorbereid, wacht op verzending door Ed (geen e-mailadres beschikbaar)
 - [ ] 9to5Mac Indie App Spotlight — **wachten tot Duski ook op iOS live is**
 
 ---
