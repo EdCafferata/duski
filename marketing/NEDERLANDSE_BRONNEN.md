@@ -27,9 +27,18 @@ pagina gaf een 403 bij geautomatiseerd ophalen; nog geen contact gevonden. Kandi
 voor een volgende zoekronde (via browser handmatig, of zoeken naar een los
 redactie-e-mailadres).
 
+### Nieuwe vondst (18 augustus 2026) — Ouders van Nu ✅ gemaild
+Grote Nederlandse zwangerschap-/babysite (onderdeel van Pijper Media), met
+slaapcoach-content. Redactie-e-mail gevonden: **redactie@oudersvannu.nl**.
+Geen zelfpromotie- of AI-verbod gevonden. Gemaild in de algemene NL-pitch-stijl.
+**Gemaild 18 augustus 2026.**
+
+### De Moeder De Vrouw — contactpagina blijft ontoegankelijk (18 augustus 2026)
+Opnieuw geprobeerd (demoederdevrouw.nl/contact/), blokkeert nog steeds
+geautomatiseerde toegang (403). Geen redactie-e-mailadres gevonden via
+websearch. Blijft "on hold" — kandidaat voor handmatig opzoeken door Ed.
+
 ## Nog te onderzoeken (volgende rondes)
-- Ouders van Nu (oudersvannu.nl) — heeft slaapcoach-content, contact nog niet
-  opgezocht
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek
 - Nederlandse "beste baby-apps"/"beste ouder-apps"-roundup-sites (nog niet
@@ -45,7 +54,10 @@ redactie-e-mailadres).
   beschikbaar)
 - [ ] Oppasland.nl — support@oppasland.nl (lage prioriteit, verkeerde ingang
   waarschijnlijk)
-- [ ] De Moeder De Vrouw — contact nog niet gevonden
+- [ ] De Moeder De Vrouw — contact nog niet gevonden (contactpagina blokkeert
+  geautomatiseerde toegang, 403 bij herhaalde poging 18 augustus 2026)
+- [x] Ouders van Nu — redactie@oudersvannu.nl — 18 augustus 2026, verzonden via
+  iCloud Mail
 
 ---
 

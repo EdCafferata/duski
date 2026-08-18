@@ -96,7 +96,10 @@ edcafferata@icloud.com
 - [x] Indie Dev Monday — lookatme@indiedevmonday.com — 17 augustus 2026, verzonden via iCloud Mail
 - [x] Springboard App Picks — springboard@darylbaxter.com — 17 augustus 2026, verzonden via iCloud Mail
 - [ ] r/IndieAppNews — "App Introduction"-post
-- [ ] Indie App Catalog — webform (checken of Android-only toegestaan is)
+- [x] Indie App Catalog — onderzocht (18 augustus 2026) → ⛔ vereist App Store
+  (iOS)-aanwezigheid ("Your app needs to be on the US App Store because
+  that's where our API pulls info from"), geen Android-only ondersteund.
+  Blijft geblokkeerd tot Duski ook op iOS live is, zelfde als 9to5Mac hierboven
 - [ ] mindful.technology — webformulier voorbereid, wacht op verzending door Ed (geen e-mailadres beschikbaar)
 - [ ] 9to5Mac Indie App Spotlight — **wachten tot Duski ook op iOS live is**
 
