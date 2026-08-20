@@ -59,9 +59,13 @@ Gemaild in de algemene NL-pitch-stijl. **Gemaild 20 augustus 2026.**
 - [ ] Slaaptipsvoorbabys.nl — contactformulier klaarzetten voor Ed (geen e-mail
   beschikbaar)
 - [ ] Oppasland.nl — support@oppasland.nl (lage prioriteit, verkeerde ingang
-  waarschijnlijk)
+  waarschijnlijk); opnieuw onderzocht 20 augustus 2026, nog steeds geen aparte
+  redactie-ingang gevonden. Blijft kandidaat om over te slaan tenzij een beter
+  contact opduikt
 - [ ] De Moeder De Vrouw — contact nog niet gevonden (contactpagina blokkeert
-  geautomatiseerde toegang, 403 bij herhaalde poging 18 augustus 2026)
+  geautomatiseerde toegang, 403 bij herhaalde poging 18 augustus 2026; opnieuw
+  gezocht 20 augustus 2026, geen los redactie-e-mailadres via websearch
+  gevonden, blijft "on hold" voor handmatig opzoeken door Ed)
 - [x] Ouders van Nu — redactie@oudersvannu.nl — 18 augustus 2026, verzonden via
   iCloud Mail
 - [x] Baby portaal — info@babyportaal.nl — 20 augustus 2026, verzonden via
