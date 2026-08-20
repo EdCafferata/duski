@@ -38,6 +38,12 @@ Opnieuw geprobeerd (demoederdevrouw.nl/contact/), blokkeert nog steeds
 geautomatiseerde toegang (403). Geen redactie-e-mailadres gevonden via
 websearch. Blijft "on hold" — kandidaat voor handmatig opzoeken door Ed.
 
+### Nieuwe vondst (20 augustus 2026) — Baby portaal ✅ gemaild
+Nederlands baby-informatieportaal (babyportaal.nl) met dagelijkse artikelen
+en een expliciete "Tip voor de redactie"-categorie in het contactformulier.
+Gratis, geen zelfpromotie- of AI-verbod gevonden. Contact: **info@babyportaal.nl**.
+Gemaild in de algemene NL-pitch-stijl. **Gemaild 20 augustus 2026.**
+
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek
@@ -57,6 +63,8 @@ websearch. Blijft "on hold" — kandidaat voor handmatig opzoeken door Ed.
 - [ ] De Moeder De Vrouw — contact nog niet gevonden (contactpagina blokkeert
   geautomatiseerde toegang, 403 bij herhaalde poging 18 augustus 2026)
 - [x] Ouders van Nu — redactie@oudersvannu.nl — 18 augustus 2026, verzonden via
+  iCloud Mail
+- [x] Baby portaal — info@babyportaal.nl — 20 augustus 2026, verzonden via
   iCloud Mail
 
 ---

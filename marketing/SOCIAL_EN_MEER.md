@@ -78,6 +78,47 @@ Ed Cafferata — The IT Crowd
 edcafferata@icloud.com
 ```
 
+### liveworksleep.com ✅ nieuw gevonden (20 augustus 2026), geen e-mail — alleen webformulier
+Onafhankelijke Engelstalige sleep-/calm-tech-reviewblog (Sleep Science, Bedroom,
+Calm-Tech, Sleep Tech-rubrieken), o.a. artikelen over baby-slaapgeluid-apparaten
+(Hatch Rest vs Hatch Restore) — goede doelgroep-match voor Duski als
+app-alternatief. Contactpagina nodigt expliciet uit: "Brands, partners, and
+media are also welcome to reach out through this form for collaboration or
+interview enquiries." Geen zelfpromotie- of AI-verbod gevonden, geen betaalmuur.
+Alleen een contactformulier (liveworksleep.com/contact-liveworksleep/, velden:
+naam/e-mail/bericht), geen los e-mailadres — dus voorbereid (20 augustus 2026,
+tekst hieronder) en klaargezet, niet verzonden. Webformulier moet door Ed zelf
+verzonden worden.
+
+**Kant-en-klare tekst (voor het contactformulier):**
+
+```
+Hi, I'm Ed Cafferata from The IT Crowd. I noticed your baby sleep and
+calm-tech coverage (e.g. Hatch Rest vs Hatch Restore) and thought Duski
+might be a good fit for your readers: a free Android app with calming,
+screen-free sleep sounds - nature sounds, white/pink/brown noise, and
+soothing options for babies (heartbeat, womb sound) - all 100% generated
+on-device (no recordings, no streaming, no ads).
+
+The app adapts to who's listening: pick an age group from baby to older
+adult and Duski automatically caps the volume at a safe level. No account
+needed, works fully offline, no data collection.
+
+Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
+
+Happy to answer any questions or send more details. Thanks for considering it!
+
+Best,
+Ed Cafferata - The IT Crowd
+```
+
+Ook onderzocht: mindfulsuite.com (persoonlijke blog van Terry Xu, "Best
+Soundscape Apps"-artikel) — geen apart contactformulier gevonden (/contact
+redirect terug naar /about), auteur runt zelf een eigen product; niet
+gebruikt deze ronde. slonoise.com — bleek zelf een concurrerende
+white-noise-webapp (vergelijkbaar met Momental/Sonora eerder), dus content
+marketing voor zichzelf, geen outreach-doelwit.
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
@@ -87,6 +128,7 @@ edcafferata@icloud.com
   kanalen hierboven)
 - r/sleep, r/whitenoise, r/insomnia — regels nog checken zodra Reddit weer
   bereikbaar is (browser blokkeerde reddit.com deze sessie)
+- Sleep Foundation / Forbes Vetted — nog te onderzoeken op contact/indieningsproces
 
 ---
 
@@ -102,6 +144,7 @@ edcafferata@icloud.com
   Blijft geblokkeerd tot Duski ook op iOS live is, zelfde als 9to5Mac hierboven
 - [ ] mindful.technology — webformulier voorbereid, wacht op verzending door Ed (geen e-mailadres beschikbaar)
 - [ ] 9to5Mac Indie App Spotlight — **wachten tot Duski ook op iOS live is**
+- [ ] liveworksleep.com — webformulier voorbereid (20 augustus 2026), wacht op verzending door Ed (geen e-mailadres beschikbaar)
 
 ---
 
