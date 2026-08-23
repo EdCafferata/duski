@@ -119,6 +119,14 @@ gebruikt deze ronde. slonoise.com — bleek zelf een concurrerende
 white-noise-webapp (vergelijkbaar met Momental/Sonora eerder), dus content
 marketing voor zichzelf, geen outreach-doelwit.
 
+### spacerrapps.com ⚠️ nieuw gevonden (23 augustus 2026), vereist account
+Gratis app-directory ("submit your app free — a listing, a write-up and 2
+permanent followed links"). Submissieproces vereist echter inloggen (Google-
+of e-mailaccount) vóórdat de regels/het formulier zichtbaar worden — geen
+zelfpromotie-/AI-beleid kunnen verifiëren zonder in te loggen. Accounts
+aanmaken doet Claude niet zelf; kandidaat voor Ed om zelf te bekijken en in
+te loggen als hij wil.
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
