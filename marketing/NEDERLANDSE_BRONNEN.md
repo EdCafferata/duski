@@ -44,16 +44,15 @@ en een expliciete "Tip voor de redactie"-categorie in het contactformulier.
 Gratis, geen zelfpromotie- of AI-verbod gevonden. Contact: **info@babyportaal.nl**.
 Gemaild in de algemene NL-pitch-stijl. **Gemaild 20 augustus 2026.**
 
-### Nieuwe vondst (23 augustus 2026) — Kek Mama ⏳ klaar om te mailen
+### Nieuwe vondst (23 augustus 2026) — Kek Mama ✅ gemaild 27 augustus 2026
 Grote Nederlandse moeder-/lifestyle-glossy (Kek Mama, onderdeel van hetzelfde
 mediahuis als Libelle/Margriet), miljoenen maandelijkse online bezoekers, heeft
 al een eigen artikel "Deze apps voor ouders zijn ideaal" en slaapexpert-content
 — sterke doelgroep-match. Redactie-e-mail gevonden op de contactpagina:
 **redactie@kekmama.nl** (reageert binnen 5 werkdagen). Geen zelfpromotie- of
-AI-verbod gevonden op de contactpagina. **Nog niet gemaild** — de
-claude-in-chrome-browserextensie was deze run niet verbonden (kon niet
-inloggen op iCloud Mail), dus verzenden overgeslagen. Klaar voor de eerstvolgende
-run met werkende browserverbinding.
+AI-verbod gevonden op de contactpagina. **Gemaild 27 augustus 2026** via de
+Apple Mail-desktop met de identiteit The IT Crowd (the-it-crowd@cafferata.info),
+algemene NL-pitch.
 
 ### Onderzocht 27 augustus 2026 — Droomritme.nl & Babyslaapje.nl ⛔ geen outreach-doelwit
 Beide kwamen op als NL baby-slaap-kandidaten, maar bij nader onderzoek zijn het
@@ -89,9 +88,8 @@ app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact 
   iCloud Mail
 - [x] Baby portaal — info@babyportaal.nl — 20 augustus 2026, verzonden via
   iCloud Mail
-- [ ] Kek Mama — redactie@kekmama.nl — gevonden 23 augustus 2026, tekst klaar
-  (algemene NL-pitch), kon niet verzonden worden (browserextensie niet
-  verbonden deze run)
+- [x] Kek Mama — redactie@kekmama.nl — 27 augustus 2026, verzonden via Apple Mail
+  (the-it-crowd@cafferata.info), algemene NL-pitch
 
 ---
 
