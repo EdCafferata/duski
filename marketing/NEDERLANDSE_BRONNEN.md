@@ -55,6 +55,14 @@ claude-in-chrome-browserextensie was deze run niet verbonden (kon niet
 inloggen op iCloud Mail), dus verzenden overgeslagen. Klaar voor de eerstvolgende
 run met werkende browserverbinding.
 
+### Onderzocht 27 augustus 2026 — Droomritme.nl & Babyslaapje.nl ⛔ geen outreach-doelwit
+Beide kwamen op als NL baby-slaap-kandidaten, maar bij nader onderzoek zijn het
+**concurrerende producten, geen redactionele kanalen** (zelfde val als
+Momental/Sonora internationaal): **Babyslaapje.nl** afficheert zichzelf als "De
+slimme AI Slaapcoach" (eigen AI-app), **Droomritme.nl** is een slaapcoach-/
+opleidingsbedrijf met eigen methode/AI en boeken. Geen onafhankelijke redactie of
+app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact opduikt.
+
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek
