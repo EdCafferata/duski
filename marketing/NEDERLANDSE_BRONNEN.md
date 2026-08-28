@@ -54,6 +54,18 @@ AI-verbod gevonden op de contactpagina. **Gemaild 27 augustus 2026** via de
 Apple Mail-desktop met de identiteit The IT Crowd (the-it-crowd@cafferata.info),
 algemene NL-pitch.
 
+### Nieuwe vondst (28 augustus 2026) — Happinez ✅ redactiecontact gevonden
+Nederlands mindstyle-tijdschrift (spiritualiteit, geluk, mindfulness, bewust
+leven) — goede doelgroep-match met Duski's ontspannings-/mindfulness-hoek.
+Redactiecontact: **info@happinez.nl** (tips/suggesties voor de redactie zijn
+expliciet welkom, reactie niet gegarandeerd wegens volume). Geen zelfpromotie-
+of AI-verbod gevonden. Tekst voorbereid (algemene NL-pitch), **nog niet
+verzonden deze run** — Apple Mail-toegang was niet beschikbaar tijdens deze
+geplande, onbeheerde run (computer-use-toegang tot Mail kan niet worden
+goedgekeurd tijdens een scheduled run zonder Ed's interactieve bevestiging).
+Klaar om te versturen in een volgende (interactieve of met Mail-toegang
+ingeschakelde) run.
+
 ### Onderzocht 27 augustus 2026 — Droomritme.nl & Babyslaapje.nl ⛔ geen outreach-doelwit
 Beide kwamen op als NL baby-slaap-kandidaten, maar bij nader onderzoek zijn het
 **concurrerende producten, geen redactionele kanalen** (zelfde val als
@@ -90,6 +102,8 @@ app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact 
   iCloud Mail
 - [x] Kek Mama — redactie@kekmama.nl — 27 augustus 2026, verzonden via Apple Mail
   (the-it-crowd@cafferata.info), algemene NL-pitch
+- [ ] Happinez — info@happinez.nl — tekst klaar (algemene NL-pitch), kon niet
+  verzonden worden deze run (geen Mail-toegang tijdens geplande run)
 
 ---
 

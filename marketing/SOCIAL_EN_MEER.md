@@ -38,11 +38,44 @@ marketing van de apps zelf** (Momental promoot vooral zichzelf, geen
 onafhankelijke redactie, geen indieningsproces voor andere apps). Niet
 gebruiken.
 
-### Sleep Foundation / Forbes Vetted ⚠️ nog te onderzoeken
-Grote, gezaghebbende Engelstalige "beste slaap-apps"-vergelijkingen
-(sleepfoundation.org, forbes.com) — sterke potentiële vermelding, maar nog geen
-contact/indieningsproces opgezocht. Waarschijnlijk grote redacties met needs
-weinig kans zonder pers-contact — kandidaat voor een volgende onderzoeksronde.
+### Sleep Foundation ✅ persmailadres gevonden (28 augustus 2026), Forbes Vetted ⛔ betaald
+**Forbes Vetted Best Product Awards** bleek bij onderzoek (28 augustus 2026) een
+**betaald** indieningsproces: non-refundable entry fee van $295 (vroege deadline
+30 september 2026) tot $395 (algemene deadline 20 november 2026) — voldoet niet
+aan de "geen betaalde kanalen"-regel, niet gebruiken.
+
+**Sleep Foundation** heeft wel een gratis persmailadres: **press@sleepfoundation.org**
+(gevonden via hun moederorganisatie thensf.org/media-center). Geen indicatie van
+een betaalmuur voor deze route. Tekst voorbereid (Engelstalige pitch, hieronder),
+**nog niet verzonden deze run** — Apple Mail-toegang was niet beschikbaar tijdens
+deze geplande, onbeheerde run.
+
+**Kant-en-klare tekst (voor press@sleepfoundation.org):**
+
+Onderwerp: Story idea — Duski, a free Android app with 100%-generated, screen-free sleep sounds
+
+```
+Hi Sleep Foundation team,
+
+I'm Ed Cafferata, an independent Android developer. I built Duski, a free
+Android app with calming, screen-free sleep sounds — nature sounds,
+white/pink/brown noise, generated classical pieces, and soothing options for
+babies (heartbeat, womb sound) — all 100% generated on-device, no recordings,
+no streaming, no ads.
+
+The app adapts to who's listening: pick an age group from baby to older adult
+and Duski automatically caps the volume at a safe level. No account needed,
+works fully offline, no data collection.
+
+Given your coverage of sleep apps, I thought this might be worth a mention or
+review. Happy to answer any questions or send more details.
+
+Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
+
+Best,
+Ed Cafferata — The IT Crowd
+edcafferata@icloud.com
+```
 
 ### mindful.technology ✅ nieuw gevonden (17 augustus 2026), geen e-mail — alleen webformulier
 Persoonlijk gecureerde meditatie-/mindfulness-app-lijst (mindful.technology/
@@ -153,6 +186,8 @@ te loggen als hij wil.
 - [ ] mindful.technology — webformulier voorbereid, wacht op verzending door Ed (geen e-mailadres beschikbaar)
 - [ ] 9to5Mac Indie App Spotlight — **wachten tot Duski ook op iOS live is**
 - [ ] liveworksleep.com — webformulier voorbereid (20 augustus 2026), wacht op verzending door Ed (geen e-mailadres beschikbaar)
+- [x] Forbes Vetted onderzocht (28 augustus 2026) → ⛔ betaald indieningsproces ($295-395 entry fee), niet gebruiken
+- [ ] Sleep Foundation — press@sleepfoundation.org — tekst klaar, kon niet verzonden worden deze run (geen Mail-toegang tijdens geplande run)
 
 ---
 
