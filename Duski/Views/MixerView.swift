@@ -33,7 +33,12 @@ struct MixerView: View {
                             ScrollView(.horizontal, showsIndicators: false) {
                                 HStack(spacing: 12) {
                                     ForEach(categorie.opties) { optie in
-                                        GeluidTegel(optie: optie, mixer: mixer)
+                                        GeluidTegel(
+                                            optie: optie,
+                                            mixer: mixer,
+                                            vergrendeld: optie.isPremium && !abonnement.heeftPremium,
+                                            onVergrendeldTikken: { toontPremium = true }
+                                        )
                                     }
                                 }
                                 .padding(.horizontal, 2)
@@ -68,6 +73,18 @@ struct MixerView: View {
         .onAppear {
             mixer.stelMaximaalVolumeIn(leeftijdsGroep.maximaalVolume)
         }
+        .onChange(of: abonnement.heeftPremium) { _, heeftPremium in
+            // Stopt een lopend premium-geluid zodra het abonnement verloopt
+            // (bv. opgezegd terwijl de app op de achtergrond draaide).
+            guard !heeftPremium else { return }
+            let alleOpties = GeluidCategorie.allCases.flatMap(\.opties)
+            for id in mixer.actieveOpties {
+                if alleOpties.first(where: { $0.id == id })?.isPremium == true {
+                    mixer.stopAlles()
+                    break
+                }
+            }
+        }
         .sheet(isPresented: $toontPremium) {
             PremiumView(abonnement: abonnement)
         }
@@ -78,21 +95,36 @@ struct MixerView: View {
 }
 
 /// Eén tegel voor een geluidslaag: aan/uit + volumeslider zodra actief.
+/// Premium-geluiden tonen een slotje en openen de paywall in plaats van te spelen.
 private struct GeluidTegel: View {
     let optie: GeluidOptie
     @ObservedObject var mixer: GeluidsMixer
+    let vergrendeld: Bool
+    let onVergrendeldTikken: () -> Void
 
     private let breedte: CGFloat = 104
 
     var body: some View {
-        let actief = mixer.isActief(optie)
+        let actief = !vergrendeld && mixer.isActief(optie)
 
         VStack(spacing: 7) {
             Button {
-                mixer.schakel(optie)
+                if vergrendeld {
+                    onVergrendeldTikken()
+                } else {
+                    mixer.schakel(optie)
+                }
             } label: {
                 VStack(spacing: 4) {
-                    Text(optie.emoji).font(.system(size: 24))
+                    ZStack(alignment: .topTrailing) {
+                        Text(optie.emoji).font(.system(size: 24))
+                        if vergrendeld {
+                            Image(systemName: "lock.fill")
+                                .font(.system(size: 10))
+                                .foregroundStyle(.secondary)
+                                .offset(x: 8, y: -4)
+                        }
+                    }
                     Text(optie.titel)
                         .font(.caption2.weight(.medium))
                         .lineLimit(1)
@@ -101,6 +133,7 @@ private struct GeluidTegel: View {
                 .frame(width: breedte)
                 .padding(.horizontal, 4)
                 .padding(.vertical, 10)
+                .opacity(vergrendeld ? 0.6 : 1)
             }
             .buttonStyle(.plain)
 

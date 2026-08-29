@@ -98,13 +98,35 @@ in de eerste plaats een **rechten-oplossing**, met generatieve variatie als bonu
 
 ## Pricing
 
-- Eerste 30 dagen: volledig gratis, geen beperkingen (StoreKit 2 introductory offer /
-  free trial op het abonnement).
-- Daarna: laagste door Apple toegestane prijstier per land/regio (App Store Connect
-  prijstabellen doen dit automatisch per territory zodra het abonnementsproduct is
-  aangemaakt — vereist dat het Apple Developer-account-verificatieprobleem is opgelost,
-  zie project_apple_developer_account.md, dit is een blokkerende afhankelijkheid voor
-  de daadwerkelijke App Store Connect-configuratie, niet voor de code zelf).
+**Update 30 augustus 2026 — freemium in plaats van alles-of-niets:** het
+oorspronkelijke plan (hele app 30 dagen gratis, daarna moet je betalen om
+Duski nog te kunnen gebruiken) is vervangen door een freemium-knip, om
+organische groei (downloads/reviews) niet te laten kapotmaken door gebruikers
+die de app na een maand kwijtraken. Motivatie: Ed wil rond de App Store-/Play
+Store-lancering veel marketing uitsturen voor snelle downloadgroei — een harde
+paywall werkt daar tegenin.
+
+- **Gratis, voor altijd, geen account**: precies één geluid per categorie —
+  Witte ruis, Regen, Hartslag, Klankschaal — plus alle niet-geluid-features
+  (sleeptimer, leeftijdsgroep-veilige volumelimiet, screensavers). Dit dekt de
+  kernbelofte per doelgroep (ruis voor slaapproblemen, hartslag voor
+  ouders/baby's) zodat de app op zichzelf al bruikbaar en deelbaar is.
+- **Premium (abonnement)**: de overige 22 geluiden/arrangementen (4 extra
+  ruistinten, 4 extra natuurgeluiden, 4 extra lichaam/baby-geluiden, en alle
+  11 in "Overige" inclusief de 5 klassieke arrangementen). 30 dagen gratis
+  proefperiode op het abonnement zelf, daarna het laagste door Apple/Google
+  toegestane prijstier per land/regio.
+- Implementatie: `GeluidOptie.isPremium` (iOS: `Duski/Models/GeluidCategorie.swift`,
+  Android: het Kotlin-equivalent) bepaalt per geluid of het abonnement nodig
+  is; `MixerView`/de Compose-tegel toont een slotje en opent de paywall bij een
+  tik op een premium-geluid in plaats van af te spelen.
+- App Store Connect-/Play Console-prijstabellen doen de per-land-vertaling
+  automatisch zodra het abonnementsproduct is aangemaakt. Op iOS blijft dat
+  vereisen dat het Apple Developer-account-verificatieprobleem is opgelost
+  (zie project_apple_developer_account.md) — een blokkerende afhankelijkheid
+  voor de App Store Connect-configuratie, niet voor de code zelf. Op Android
+  is er nog geen abonnementsproduct aangemaakt in Play Console (wél al
+  gepubliceerd als gratis app) — dat kan al, onafhankelijk van de iOS-blokkade.
 
 ## Stroombesparing tijdens gebruik
 

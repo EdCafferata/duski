@@ -13,10 +13,10 @@ struct PremiumView: View {
             VStack(spacing: 24) {
                 Text("🌙").font(.system(size: 64))
 
-                Text("30 dagen gratis")
+                Text("Ontgrendel alle geluiden")
                     .font(.system(.title, design: .rounded, weight: .bold))
 
-                Text("Daarna het laagste tarief voor jouw land. Elk moment op te zeggen.")
+                Text("22 extra geluiden en arrangementen, in elke categorie — 30 dagen gratis, daarna het laagste tarief voor jouw land. Elk moment op te zeggen.")
                     .font(.subheadline)
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
