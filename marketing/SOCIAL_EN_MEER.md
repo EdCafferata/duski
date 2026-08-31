@@ -160,16 +160,52 @@ zelfpromotie-/AI-beleid kunnen verifiëren zonder in te loggen. Accounts
 aanmaken doet Claude niet zelf; kandidaat voor Ed om zelf te bekijken en in
 te loggen als hij wil.
 
+### AndroidGuys ✅ nieuw gevonden (31 augustus 2026), Android-specifieke reviewsite
+Android-nieuws-/reviewsite sinds 2007 (androidguys.com) met een specifieke
+"Request App or Game Review"-pagina (androidguys.com/request-app-review/) —
+expliciet gericht op onafhankelijke ontwikkelaars die hun app onder de
+aandacht willen brengen, geen betaalmuur vermeld. Los contact-e-mailadres
+gevonden via onderzoek: **reviews@androidguys.com** (productreviews, apart
+van press@androidguys.com voor persberichten). Geen zelfpromotie- of
+AI-verbod gevonden. Precies het "Android-specifieke directory/showcase"-type
+kanaal dat hieronder als openstaand punt stond.
+
+**Kant-en-klare tekst (voor reviews@androidguys.com):**
+
+Onderwerp: App review request — Duski (screen-free sleep sounds, Android)
+
+```
+Hi AndroidGuys team,
+
+I'm Ed Cafferata, an independent Android developer. I built Duski, a free
+Android app with calming, screen-free sleep sounds — nature sounds,
+white/pink/brown noise, generated classical pieces, and soothing options for
+babies (heartbeat, womb sound) — all 100% generated on-device, no
+recordings, no streaming, no ads.
+
+The app adapts to who's listening: pick an age group from baby to older
+adult and Duski automatically caps the volume at a safe level. No account
+needed, works fully offline, no data collection.
+
+Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
+
+Happy to send more details or answer any questions. Thanks for considering it!
+
+Best,
+Ed Cafferata — The IT Crowd
+edcafferata@icloud.com
+```
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
   LAUNCH_KIT.md-aanpak bij Dicom Viewer — zelfde open-directory-aanpak
-  toepasbaar op Duski)
-- Android-specifieke app-directories/showcases (los van de iOS-gerichte
-  kanalen hierboven)
+  toepasbaar op Duski, vereist een account dat 7 dagen moet "rijpen" bij
+  AlternativeTo voordat indienen kan — Ed moet dit zelf aanmaken)
+- Phandroid — contactformulier gevonden (phandroid.com/contact/) maar site
+  wordt niet meer actief onderhouden, lage prioriteit
 - r/sleep, r/whitenoise, r/insomnia — regels nog checken zodra Reddit weer
   bereikbaar is (browser blokkeerde reddit.com deze sessie)
-- Sleep Foundation / Forbes Vetted — nog te onderzoeken op contact/indieningsproces
 
 ---
 
@@ -188,6 +224,7 @@ te loggen als hij wil.
 - [ ] liveworksleep.com — webformulier voorbereid (20 augustus 2026), wacht op verzending door Ed (geen e-mailadres beschikbaar)
 - [x] Forbes Vetted onderzocht (28 augustus 2026) → ⛔ betaald indieningsproces ($295-395 entry fee), niet gebruiken
 - [ ] Sleep Foundation — press@sleepfoundation.org — tekst klaar, kon niet verzonden worden deze run (geen Mail-toegang tijdens geplande run)
+- [ ] AndroidGuys — reviews@androidguys.com — nieuw gevonden 31 augustus 2026, tekst klaar, kon niet verzonden worden deze run (geen Mail-toegang tijdens geplande run)
 
 ---
 
