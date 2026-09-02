@@ -77,17 +77,27 @@ app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact 
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek
-- Nederlandse "beste baby-apps"/"beste ouder-apps"-roundup-sites (nog niet
-  gezocht)
-- Nederlandse mindfulness-/wellness-pers (Happinez, Mind, e.d.) — nog niet
-  gezocht op contact/regels
+- Nederlandse "beste baby-apps"/"beste ouder-apps"-roundup-sites — eerste
+  zoekronde 1 september 2026 leverde kandidaten op: KidsDealGids.nl
+  ("Beste apps met een newborn"), Webwijzer.nl (baby-apps overzicht),
+  Zozwanger.nl, How About Mom. Nog geen van allen benaderd — contactpagina's
+  moeten nog handmatig geverifieerd worden (KidsDealGids.nl's contactpagina
+  gaf bij geautomatiseerd ophalen een placeholder-e-mailadres terug, dus niet
+  te vertrouwen zonder handmatige check)
+- Nederlandse mindfulness-/wellness-pers (Mind, e.d.) — Happinez is inmiddels
+  gevonden en zit hieronder in de checklist; Mind nog niet gezocht op
+  contact/regels
 
 ---
 
 ## Checklist
 
 - [ ] Slaaptipsvoorbabys.nl — contactformulier klaarzetten voor Ed (geen e-mail
-  beschikbaar)
+  beschikbaar). Tekst: hergebruik de algemene NL-pitch hierboven, met één
+  toegevoegde zin voor positionering t.o.v. hun eigen app: "Duski is generieker
+  bedoeld dan coaching-apps als Slaaptips+ — puur een geluidsgenerator zonder
+  account, dus eerder een aanvullende tip voor jullie lezers dan concurrentie."
+  Klaar om in te vullen op slaaptipsvoorbabys.nl/contact/, wacht op Ed
 - [ ] Oppasland.nl — support@oppasland.nl (lage prioriteit, verkeerde ingang
   waarschijnlijk); opnieuw onderzocht 20 augustus 2026, nog steeds geen aparte
   redactie-ingang gevonden. Blijft kandidaat om over te slaan tenzij een beter
