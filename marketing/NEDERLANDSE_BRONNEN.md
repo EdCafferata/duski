@@ -112,8 +112,8 @@ app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact 
   iCloud Mail
 - [x] Kek Mama — redactie@kekmama.nl — 27 augustus 2026, verzonden via Apple Mail
   (the-it-crowd@cafferata.info), algemene NL-pitch
-- [ ] Happinez — info@happinez.nl — tekst klaar (algemene NL-pitch), kon niet
-  verzonden worden deze run (geen Mail-toegang tijdens geplande run)
+- [x] Happinez — info@happinez.nl — 2 september 2026, verzonden via Apple Mail
+  (the-it-crowd@cafferata.info), algemene NL-pitch
 
 ---
 

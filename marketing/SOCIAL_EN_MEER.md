@@ -223,8 +223,8 @@ edcafferata@icloud.com
 - [ ] 9to5Mac Indie App Spotlight — **wachten tot Duski ook op iOS live is**
 - [ ] liveworksleep.com — webformulier voorbereid (20 augustus 2026), wacht op verzending door Ed (geen e-mailadres beschikbaar)
 - [x] Forbes Vetted onderzocht (28 augustus 2026) → ⛔ betaald indieningsproces ($295-395 entry fee), niet gebruiken
-- [ ] Sleep Foundation — press@sleepfoundation.org — tekst klaar, kon niet verzonden worden deze run (geen Mail-toegang tijdens geplande run)
-- [ ] AndroidGuys — reviews@androidguys.com — nieuw gevonden 31 augustus 2026, tekst klaar, kon niet verzonden worden deze run (geen Mail-toegang tijdens geplande run)
+- [x] Sleep Foundation — press@sleepfoundation.org — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
+- [x] AndroidGuys — reviews@androidguys.com — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
 
 ---
 
