@@ -196,6 +196,30 @@ Ed Cafferata — The IT Crowd
 edcafferata@icloud.com
 ```
 
+### r/IndieAppNews — tekst voorbereid (3 september 2026)
+Regels al gevalideerd bij Dicom Viewer hierboven (subreddit specifiek voor
+indie-app-introducties, "App Introduction"-flair, geen zelfpromotie-/AI-verbod).
+Tekst hieronder voorbereid; **niet zelf gepost** — posten op Reddit is een
+onomkeerbare publieke actie die Ed zelf moet doen (of expliciet vrijgeven), net
+als bij de webformulieren hieronder.
+
+**Titel:** Duski — a free Android app with 100%-generated sleep sounds (no recordings, no streaming)
+
+```
+Duski is an Android app I built for screen-free sleep sounds — nature sounds,
+white/pink/brown noise, and a few generated classical pieces, plus soothing
+options for babies (heartbeat, womb sound). Everything is generated on-device
+in real time (AVAudioEngine-style synthesis, no audio samples), so there's no
+licensing risk and it works fully offline.
+
+It adapts to who's listening — pick an age group and it caps the volume at a
+safe level for babies. No account, no ads, no data collection.
+
+Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
+
+Feedback welcome, especially on the sound selection.
+```
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
@@ -214,7 +238,8 @@ edcafferata@icloud.com
 - [x] TapSmart — tomjrolfe@intelligenti.com — 17 augustus 2026, verzonden via iCloud Mail
 - [x] Indie Dev Monday — lookatme@indiedevmonday.com — 17 augustus 2026, verzonden via iCloud Mail
 - [x] Springboard App Picks — springboard@darylbaxter.com — 17 augustus 2026, verzonden via iCloud Mail
-- [ ] r/IndieAppNews — "App Introduction"-post
+- [ ] r/IndieAppNews — "App Introduction"-post — tekst voorbereid (3 september
+  2026, zie boven), wacht op posten door Ed zelf
 - [x] Indie App Catalog — onderzocht (18 augustus 2026) → ⛔ vereist App Store
   (iOS)-aanwezigheid ("Your app needs to be on the US App Store because
   that's where our API pulls info from"), geen Android-only ondersteund.

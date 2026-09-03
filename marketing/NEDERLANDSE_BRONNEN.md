@@ -66,6 +66,17 @@ goedgekeurd tijdens een scheduled run zonder Ed's interactieve bevestiging).
 Klaar om te versturen in een volgende (interactieve of met Mail-toegang
 ingeschakelde) run.
 
+### Nieuwe vondst (3 september 2026) — How About Mom ✅ contact gevonden, klaar om te versturen
+Nederlandse moederschap-lifestylesite (howaboutmom.nl, ook een eigen app/boeken/
+cursussen voor zwangeren en moeders), zoekt actief gastbijdragen en deelt tips voor
+lezers. Contact: **app@howaboutmom.nl** (algemeen, reactie binnen 1-2 werkdagen);
+voor commerciële/media-samenwerking is er ook anna@howaboutmom.nl, maar voor een
+gratis app-tip is app@howaboutmom.nl de juiste ingang. Geen zelfpromotie- of
+AI-verbod gevonden op de contactpagina. Tekst voorbereid (algemene NL-pitch),
+**nog niet verzonden** — deze geplande run had geen toegang tot Apple Mail
+(computer-use voor macOS Mail is niet beschikbaar in dit sessietype). Klaar om
+in een volgende run (of door Ed zelf) te versturen.
+
 ### Onderzocht 27 augustus 2026 — Droomritme.nl & Babyslaapje.nl ⛔ geen outreach-doelwit
 Beide kwamen op als NL baby-slaap-kandidaten, maar bij nader onderzoek zijn het
 **concurrerende producten, geen redactionele kanalen** (zelfde val als
@@ -77,13 +88,14 @@ app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact 
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek
-- Nederlandse "beste baby-apps"/"beste ouder-apps"-roundup-sites — eerste
-  zoekronde 1 september 2026 leverde kandidaten op: KidsDealGids.nl
-  ("Beste apps met een newborn"), Webwijzer.nl (baby-apps overzicht),
-  Zozwanger.nl, How About Mom. Nog geen van allen benaderd — contactpagina's
-  moeten nog handmatig geverifieerd worden (KidsDealGids.nl's contactpagina
-  gaf bij geautomatiseerd ophalen een placeholder-e-mailadres terug, dus niet
-  te vertrouwen zonder handmatige check)
+- Nederlandse "beste baby-apps"/"beste ouder-apps"-roundup-sites — vervolgcheck
+  3 september 2026: KidsDealGids.nl's contactpagina geeft nog steeds een
+  placeholder-e-mailadres terug (niet bruikbaar zonder handmatige check door Ed).
+  Webwijzer.nl nog niet gecontroleerd. Zozwanger.nl heeft alleen een contactformulier
+  (geen los e-mailadres) — kandidaat voor een webformulier-voorbereiding, nog niet
+  klaargezet. How About Mom is inmiddels gevonden en verzet naar "Onderzocht"
+  hieronder.
+- Webwijzer.nl (baby-apps overzicht) — nog niet gecontroleerd op contact/regels
 - Nederlandse mindfulness-/wellness-pers (Mind, e.d.) — Happinez is inmiddels
   gevonden en zit hieronder in de checklist; Mind nog niet gezocht op
   contact/regels
@@ -114,6 +126,8 @@ app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact 
   (the-it-crowd@cafferata.info), algemene NL-pitch
 - [x] Happinez — info@happinez.nl — 2 september 2026, verzonden via Apple Mail
   (the-it-crowd@cafferata.info), algemene NL-pitch
+- [ ] How About Mom — app@howaboutmom.nl — tekst klaar (algemene NL-pitch), nog
+  niet verzonden (geen Apple Mail-toegang in deze geplande run, 3 september 2026)
 
 ---
 
