@@ -134,11 +134,10 @@ benaderd. Geen ander nieuw geschikt kanaal gevonden deze ronde.
   (the-it-crowd@cafferata.info), algemene NL-pitch
 - [x] Happinez — info@happinez.nl — 2 september 2026, verzonden via Apple Mail
   (the-it-crowd@cafferata.info), algemene NL-pitch
-- [ ] How About Mom — app@howaboutmom.nl — tekst klaar (algemene NL-pitch), nog
-  niet verzonden (geen Apple Mail-toegang in deze geplande run, 3 september 2026;
-  opnieuw bevestigd 4 september 2026, deze sessietype heeft geen computer-use
-  voor macOS Mail). Klaar om in een volgende run (met Mail-toegang) of door Ed
-  zelf te versturen
+- [x] How About Mom — app@howaboutmom.nl — 4 september 2026, verzonden via het
+  nieuwe SMTP-script (`~/.claude/scripts/send-mail.py`, zie geheugen
+  `reference_cafferata_smtp_automation`) — werkt ook in geplande/onbeheerde runs
+  zonder Mail.app-toegang
 
 ---
 
