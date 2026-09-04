@@ -85,6 +85,14 @@ slimme AI Slaapcoach" (eigen AI-app), **Droomritme.nl** is een slaapcoach-/
 opleidingsbedrijf met eigen methode/AI en boeken. Geen onafhankelijke redactie of
 app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact opduikt.
 
+### Nieuwe zoektocht (4 september 2026) — geen nieuw geschikt kanaal gevonden
+Gezocht naar aanvullende Nederlandse mindfulness-/slaapredacties naast Happinez.
+**Tiny Tweaks** (tinytweaks.nl, contact nienke@tinytweaks.nl) kwam naar boven met
+een "5x de beste meditatie-apps"-blogartikel, maar blijkt bij nader onderzoek een
+teamontwikkeling-/leiderschapscoachingbedrijf te zijn — geen onafhankelijke
+redactie/pers-ingang, dus geen goede match voor een koude app-pitch. Niet
+benaderd. Geen ander nieuw geschikt kanaal gevonden deze ronde.
+
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek
@@ -127,7 +135,10 @@ app-suggestie-ingang. Niet benaderen tenzij later een puur redactioneel contact 
 - [x] Happinez — info@happinez.nl — 2 september 2026, verzonden via Apple Mail
   (the-it-crowd@cafferata.info), algemene NL-pitch
 - [ ] How About Mom — app@howaboutmom.nl — tekst klaar (algemene NL-pitch), nog
-  niet verzonden (geen Apple Mail-toegang in deze geplande run, 3 september 2026)
+  niet verzonden (geen Apple Mail-toegang in deze geplande run, 3 september 2026;
+  opnieuw bevestigd 4 september 2026, deze sessietype heeft geen computer-use
+  voor macOS Mail). Klaar om in een volgende run (met Mail-toegang) of door Ed
+  zelf te versturen
 
 ---
 

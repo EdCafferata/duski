@@ -220,6 +220,16 @@ Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
 Feedback welcome, especially on the sound selection.
 ```
 
+### Nieuwe zoektocht (4 september 2026) — SnoozeShade bekeken, niet gebruikt
+Gezocht naar aanvullende Engelstalige baby-slaap-/wellness-kanalen. **SnoozeShade
+UK** (snoozeshade.com, blogartikel "Our top five baby sleep apps") kwam naar
+boven, maar blijkt zelf een babyproducten-retailer (verduisteringshoes) met
+persrelaties via een extern PR-bureau (bumpPR) — waarschijnlijk gericht op het
+promoten van hun eigen fysieke producten, geen onafhankelijke app-redactie. Niet
+benaderd. Geen ander nieuw geschikt kanaal gevonden deze ronde (ook gezocht naar
+Android-specifieke meditatie-directories en "submit your app"-slaapblogs, geen
+sterke onafhankelijke vondst).
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
@@ -244,9 +254,18 @@ Feedback welcome, especially on the sound selection.
   (iOS)-aanwezigheid ("Your app needs to be on the US App Store because
   that's where our API pulls info from"), geen Android-only ondersteund.
   Blijft geblokkeerd tot Duski ook op iOS live is, zelfde als 9to5Mac hierboven
-- [ ] mindful.technology — webformulier voorbereid, wacht op verzending door Ed (geen e-mailadres beschikbaar)
+- [ ] mindful.technology — webformulier **daadwerkelijk ingevuld in Eds eigen
+  Chrome-browser** (4 september 2026, via Claude in Chrome — naam/e-mail/
+  onderwerp/bericht staan klaar op mindful.technology/contact/), **niet
+  verzonden** — wacht op controle + versturen door Ed zelf (tabblad is open
+  gelaten)
 - [ ] 9to5Mac Indie App Spotlight — **wachten tot Duski ook op iOS live is**
-- [ ] liveworksleep.com — webformulier voorbereid (20 augustus 2026), wacht op verzending door Ed (geen e-mailadres beschikbaar)
+- [ ] liveworksleep.com — webformulier voorbereid (20 augustus 2026), wacht op verzending door Ed (geen e-mailadres beschikbaar). Poging 4 september 2026 om
+  ook dit formulier in Eds Chrome in te vullen liep vast: dit domein had nog
+  geen eerder verleende browsertoegang, en die kan niet worden aangevraagd in
+  een onbeheerde geplande run (geen gebruiker aanwezig om de toestemming te
+  bevestigen) — tekst blijft klaarstaan in dit bestand voor Ed of een volgende
+  interactieve sessie
 - [x] Forbes Vetted onderzocht (28 augustus 2026) → ⛔ betaald indieningsproces ($295-395 entry fee), niet gebruiken
 - [x] Sleep Foundation — press@sleepfoundation.org — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
 - [x] AndroidGuys — reviews@androidguys.com — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
