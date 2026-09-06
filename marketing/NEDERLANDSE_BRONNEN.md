@@ -93,20 +93,35 @@ teamontwikkeling-/leiderschapscoachingbedrijf te zijn — geen onafhankelijke
 redactie/pers-ingang, dus geen goede match voor een koude app-pitch. Niet
 benaderd. Geen ander nieuw geschikt kanaal gevonden deze ronde.
 
+### Nieuwe vondst (6 september 2026) — Webwijzer.nl ✅ gemaild
+Onafhankelijke Nederlandse "gids voor het digitale tijdperk" (sinds 2006), met
+een eigen overzichtspagina "De beste gratis baby-apps" (webwijzer.nl/ehealth/
+baby-apps.html) — directe doelgroep-match. Contact: **info@webwijzer.nl**
+(correcties/tips-ingang, geen apart webformulier). Geen zelfpromotie- of
+AI-verbod gevonden. **Gemaild 6 september 2026** via het SMTP-script.
+
+### Nieuwe zoektocht (6 september 2026) — Mind (tijdschrift) en Eindelijk Slapen, geen bruikbaar resultaat
+**Mind** (Nederlands mindfulness-tijdschrift) leverde geen vindbare
+redactie-/tip-contactgegevens op via websearch — alleen internationale
+gelijknamige publicaties (Mindful.org, Mindfulness Magazine) kwamen naar boven.
+**Eindelijk Slapen** (eindelijkslapen.nl) blokkeert geautomatiseerde toegang tot
+de contactpagina (403), net als eerder De Moeder De Vrouw. Beide blijven
+kandidaat voor een volgende ronde (handmatig opzoeken door Ed, of zodra de
+403 niet meer optreedt).
+
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
-  eerder een partner-achtige mention dan een redactionele plek
+  eerder een partner-achtige mention dan een redactionele plek; contactpagina blokkeert
+  geautomatiseerde toegang (403, opnieuw geconstateerd 6 september 2026)
 - Nederlandse "beste baby-apps"/"beste ouder-apps"-roundup-sites — vervolgcheck
   3 september 2026: KidsDealGids.nl's contactpagina geeft nog steeds een
   placeholder-e-mailadres terug (niet bruikbaar zonder handmatige check door Ed).
-  Webwijzer.nl nog niet gecontroleerd. Zozwanger.nl heeft alleen een contactformulier
-  (geen los e-mailadres) — kandidaat voor een webformulier-voorbereiding, nog niet
-  klaargezet. How About Mom is inmiddels gevonden en verzet naar "Onderzocht"
-  hieronder.
-- Webwijzer.nl (baby-apps overzicht) — nog niet gecontroleerd op contact/regels
+  Zozwanger.nl heeft alleen een contactformulier (geen los e-mailadres) — kandidaat
+  voor een webformulier-voorbereiding, nog niet klaargezet. How About Mom en
+  Webwijzer.nl zijn inmiddels gevonden en gemaild, zie "Onderzocht" hierboven.
 - Nederlandse mindfulness-/wellness-pers (Mind, e.d.) — Happinez is inmiddels
-  gevonden en zit hieronder in de checklist; Mind nog niet gezocht op
-  contact/regels
+  gevonden en zit hierboven in de checklist; Mind nog geen vindbaar
+  redactiecontact via websearch (6 september 2026)
 
 ---
 
@@ -138,6 +153,7 @@ benaderd. Geen ander nieuw geschikt kanaal gevonden deze ronde.
   nieuwe SMTP-script (`~/.claude/scripts/send-mail.py`, zie geheugen
   `reference_cafferata_smtp_automation`) — werkt ook in geplande/onbeheerde runs
   zonder Mail.app-toegang
+- [x] Webwijzer.nl — info@webwijzer.nl — 6 september 2026, verzonden via het SMTP-script
 
 ---
 
