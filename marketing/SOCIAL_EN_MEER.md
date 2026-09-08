@@ -230,6 +230,31 @@ benaderd. Geen ander nieuw geschikt kanaal gevonden deze ronde (ook gezocht naar
 Android-specifieke meditatie-directories en "submit your app"-slaapblogs, geen
 sterke onafhankelijke vondst).
 
+### AndroidB.com ✅ nieuw gevonden (7 september 2026), gratis Android-appreview-directory
+Android-specifieke appreview-/directorysite (androidb.com) met een aparte
+gratis submissieroute naast hun betaalde ASO-diensten. Submissiepagina
+(androidb.com/contact/submit-android-app/) vraagt alleen naam, e-mail,
+appnaam en app-URL — geen account nodig. Enige voorwaarde: "we only publish
+apps/games that adhere to the Google Play Developer Program Policies and/or
+are listed in Google Play" (Duski voldoet). Geen expliciet zelfpromotie- of
+AI-verbod gevonden, geen garantie op plaatsing. Alleen een webformulier, geen
+los e-mailadres — dus voorbereid en klaargezet, **niet zelf ingediend**
+(webformulier-regel: Ed moet zelf op verzenden klikken).
+
+**Kant-en-klare tekst (voor het formulier, appnaam + URL apart invullen)::**
+
+```
+App: Duski
+URL: https://play.google.com/store/apps/details?id=info.cafferata.duski
+
+Duski is a free Android app with calming, screen-free sleep sounds — nature
+sounds, white/pink/brown noise, generated classical pieces, and soothing
+options for babies (heartbeat, womb sound) — all 100% generated on-device,
+no recordings, no streaming, no ads. It adapts to who's listening: pick an
+age group from baby to older adult and Duski automatically caps the volume
+at a safe level. No account needed, works fully offline, no data collection.
+```
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
@@ -269,6 +294,7 @@ sterke onafhankelijke vondst).
 - [x] Forbes Vetted onderzocht (28 augustus 2026) → ⛔ betaald indieningsproces ($295-395 entry fee), niet gebruiken
 - [x] Sleep Foundation — press@sleepfoundation.org — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
 - [x] AndroidGuys — reviews@androidguys.com — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
+- [ ] AndroidB.com — webformulier voorbereid (7 september 2026, zie boven), wacht op verzending door Ed (geen e-mailadres beschikbaar)
 
 ---
 

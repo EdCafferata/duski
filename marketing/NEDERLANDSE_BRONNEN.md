@@ -109,6 +109,14 @@ de contactpagina (403), net als eerder De Moeder De Vrouw. Beide blijven
 kandidaat voor een volgende ronde (handmatig opzoeken door Ed, of zodra de
 403 niet meer optreedt).
 
+### Nieuwe zoektocht (7 september 2026) — geen nieuw geschikt kanaal gevonden
+Opnieuw gezocht naar een redactie-e-mailadres voor **De Moeder De Vrouw**: nog
+steeds niets vindbaar via websearch, contactpagina blijft de bekende blokkade
+geven. **Eindelijk Slapen** (eindelijkslapen.nl) bekeken: blijkt een betaalde
+kinderslaapcoach-praktijk (Ewelina de Groot) te zijn, geen redactioneel/
+tips-kanaal — zelfde categorie als de eerder afgewezen Droomritme/Babyslaapje.
+Niet benaderd. Geen ander nieuw NL-kanaal gevonden deze ronde.
+
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek; contactpagina blokkeert
