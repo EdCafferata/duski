@@ -23,7 +23,13 @@ struct PremiumView: View {
                     .padding(.horizontal)
 
                 if let fout = abonnement.laadFout {
-                    Text(fout).font(.caption).foregroundStyle(.red)
+                    VStack(spacing: 12) {
+                        Text(fout).font(.caption).foregroundStyle(.red)
+                        Button("Opnieuw proberen") {
+                            Task { await abonnement.laadProducten() }
+                        }
+                        .buttonStyle(.bordered)
+                    }
                 }
 
                 ForEach(abonnement.producten) { product in

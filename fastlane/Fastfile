@@ -17,16 +17,19 @@ platform :ios do
   desc "Build en upload naar TestFlight"
   lane :beta do
     increment_build_number(xcodeproj: PROJECT)
+    # Automatic signing + cloud-managed distribution via de Admin-key 5R3497VHF5
+    # (Apple maakt/beheert het profiel automatisch). Vervangt de oude `match`-opzet,
+    # waarvan het profiel na de Mac-herinstallatie niet meer geïnstalleerd was.
     build_app(
       project:           PROJECT,
       scheme:            SCHEME,
       configuration:     "Release",
       export_method:     "app-store",
-      export_options: {
-        provisioningProfiles: {
-          BUNDLE_ID => "match AppStore #{BUNDLE_ID}"
-        }
-      }
+      xcargs: "-allowProvisioningUpdates " \
+              "-authenticationKeyPath #{Dir.home}/.appstoreconnect/private_keys/AuthKey_5R3497VHF5.p8 " \
+              "-authenticationKeyID 5R3497VHF5 " \
+              "-authenticationKeyIssuerID 69a6de7f-a9c3-47e3-e053-5b8c7c11a4d1",
+      export_options: { signingStyle: "automatic", teamID: "9J2S23WJH3" }
     )
     upload_to_testflight(
       api_key: API_KEY,
