@@ -117,6 +117,16 @@ kinderslaapcoach-praktijk (Ewelina de Groot) te zijn, geen redactioneel/
 tips-kanaal — zelfde categorie als de eerder afgewezen Droomritme/Babyslaapje.
 Niet benaderd. Geen ander nieuw NL-kanaal gevonden deze ronde.
 
+### Nieuwe zoektocht (17 september 2026) — geen nieuw geschikt kanaal gevonden
+Internationaal gezocht naar witte-ruis-/slaapgeluiden-app-directories en
+parentingblogs met een "app of the week"-ingang. Resultaten wezen vooral naar
+concurrerende apps zelf (Momental, myNoise, Deep Sleep Sounds — content over hun
+eigen product, geen onafhankelijke redactie) of naar reviewsites zonder duidelijke
+gratis submissieroute. Eén kandidaat (asuffolkmum.co.uk, Engelse parenting-blog met
+een baby-tracking-apps-artikel) bleek deze sessie niet bereikbaar (404/lege pagina
+bij zowel de homepage als een gegokte contactpagina) — niet verder onderzocht.
+Geen nieuw kanaal deze ronde.
+
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek; contactpagina blokkeert
@@ -135,12 +145,13 @@ Niet benaderd. Geen ander nieuw NL-kanaal gevonden deze ronde.
 
 ## Checklist
 
-- [ ] Slaaptipsvoorbabys.nl — contactformulier klaarzetten voor Ed (geen e-mail
-  beschikbaar). Tekst: hergebruik de algemene NL-pitch hierboven, met één
-  toegevoegde zin voor positionering t.o.v. hun eigen app: "Duski is generieker
-  bedoeld dan coaching-apps als Slaaptips+ — puur een geluidsgenerator zonder
-  account, dus eerder een aanvullende tip voor jullie lezers dan concurrentie."
-  Klaar om in te vullen op slaaptipsvoorbabys.nl/contact/, wacht op Ed
+- [ ] Slaaptipsvoorbabys.nl — contactformulier daadwerkelijk ingevuld (17 september
+  2026, via Claude's ingebouwde browser: naam/e-mail/bericht staan klaar op
+  slaaptipsvoorbabys.nl/contact/ met de positionerings-tekst t.o.v. Slaaptips+),
+  **niet verzonden** — dit is Claude's eigen geïsoleerde browserpane, niet Eds
+  Chrome, dus de tab blijft niet vanzelf open voor Ed. Tekst staat hieronder klaar
+  om handmatig in te vullen of desnoods opnieuw te laten voorbereiden in een
+  sessie met toegang tot Eds eigen browser
 - [ ] Oppasland.nl — support@oppasland.nl (lage prioriteit, verkeerde ingang
   waarschijnlijk); opnieuw onderzocht 20 augustus 2026, nog steeds geen aparte
   redactie-ingang gevonden. Blijft kandidaat om over te slaan tenzij een beter
