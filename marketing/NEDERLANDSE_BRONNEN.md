@@ -127,6 +127,42 @@ een baby-tracking-apps-artikel) bleek deze sessie niet bereikbaar (404/lege pagi
 bij zowel de homepage als een gegokte contactpagina) — niet verder onderzocht.
 Geen nieuw kanaal deze ronde.
 
+### Nieuwe vondst (18 september 2026) — Zozwanger.nl ✅ contactformulier bevestigd, klaargezet
+Grote Nederlandse zwangerschap-/babyinformatiesite (zozwanger.nl, dagelijks door
+duizenden bezoekers geraadpleegd). Heeft een aparte betaalde advertentiepagina
+("Adverteren op ZoZwanger.nl") én een los, gratis algemeen contactformulier op
+zozwanger.nl/vragen/ (velden: naam, e-mail, onderwerp, bericht, CAPTCHA) — geen
+zelfpromotie- of AI-verbod gevonden op de contactpagina zelf. Alleen het
+webformulier, geen los redactie-e-mailadres gevonden. Tekst hieronder klaargezet
+voor Ed om zelf in te vullen en te versturen (CAPTCHA aanwezig, dus niet iets wat
+Claude zelf kan afronden).
+
+**Kant-en-klare tekst (voor het contactformulier zozwanger.nl/vragen/):**
+
+Onderwerp: Tip voor jullie lezers — Duski, gratis Android-app met slaapgeluiden
+
+```
+Beste redactie,
+
+Ik ben Ed Cafferata van The IT Crowd. Ik heb Duski ontwikkeld: een gratis
+Android-app met rustgevende, schermvrije slaapgeluiden — natuurgeluiden, witte
+ruis en voor baby's een hartslag- of baarmoedergeluid, allemaal 100% op het
+toestel zelf gegenereerd (geen opnames, geen streaming).
+
+De app past zich aan wie er luistert: van baby tot oudere, met een automatisch
+veilig volumeniveau voor de kleintjes. Geen account nodig, alles werkt offline,
+geen dataverzameling.
+
+Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
+
+Ik deel 'm graag als tip voor jullie lezers. Laat het weten als er nog iets
+nodig is.
+
+Met vriendelijke groet,
+Ed Cafferata — The IT Crowd
+edcafferata@icloud.com
+```
+
 ## Nog te onderzoeken (volgende rondes)
 - Eindelijk Slapen (eindelijkslapen.nl) — professionele slaapcoach-service, mogelijk
   eerder een partner-achtige mention dan een redactionele plek; contactpagina blokkeert
@@ -145,6 +181,8 @@ Geen nieuw kanaal deze ronde.
 
 ## Checklist
 
+- [ ] Zozwanger.nl — contactformulier bevestigd + tekst klaargezet (18 september
+  2026, zie boven), wacht op invullen/verzenden door Ed (CAPTCHA aanwezig)
 - [ ] Slaaptipsvoorbabys.nl — contactformulier daadwerkelijk ingevuld (17 september
   2026, via Claude's ingebouwde browser: naam/e-mail/bericht staan klaar op
   slaaptipsvoorbabys.nl/contact/ met de positionerings-tekst t.o.v. Slaaptips+),

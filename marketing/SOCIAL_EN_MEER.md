@@ -255,6 +255,19 @@ age group from baby to older adult and Duski automatically caps the volume
 at a safe level. No account needed, works fully offline, no data collection.
 ```
 
+### Nieuwe zoektocht (18 september 2026) — BabyScroll/SleepSpot(Dozling)/Indie App Santa bekeken, geen bruikbaar kanaal
+Gezocht naar aanvullende Engelstalige baby-slaap-/witte-ruis-appvergelijkingen en
+Android-directories naast de al bekende namen. Drie kandidaten afgevallen:
+- **BabyScroll** (babyscroll.app) ⛔ blijkt zelf een baby-app-fabrikant
+  ("Safe Baby Games & Toddler Screen Lock App") te zijn — content marketing voor
+  eigen product, geen onafhankelijke redactie.
+- **SleepSpot** (sleepspot.app) ⛔ redirect naar dozling.com — expliciet eigen
+  content marketing ("Dozling is our app. We've included it alongside
+  third-party recommendations"). Zelfde val als Momental/Sonora eerder.
+- **Indie App Santa** (indieappsanta.com) ⛔ betaald promotieplatform ("Promote
+  Your App"-knop naar prijspagina), geen gratis redactionele plek.
+Geen nieuw geschikt kanaal gevonden deze ronde.
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
