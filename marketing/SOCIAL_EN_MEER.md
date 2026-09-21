@@ -268,6 +268,19 @@ Android-directories naast de al bekende namen. Drie kandidaten afgevallen:
   Your App"-knop naar prijspagina), geen gratis redactionele plek.
 Geen nieuw geschikt kanaal gevonden deze ronde.
 
+### Nieuwe zoektocht (21 september 2026) — Android Police en Project Slaap bekeken, niet gemaild
+- **Android Police** (androidpolice.com/contact/) — alleen contactformulier ("Have a News Tip?" /
+  "Editorial Inquiries"); een los tips-adres (tips@androidpolice.com) kwam alleen uit een
+  zoekresultaat en is niet op de site zelf geverifieerd, dus niet gemaild. Grote redactie,
+  lage kans op vermelding van een kleine indie-app. Kandidaat voor een webformulier dat Ed
+  zelf kan invullen (formulier, dus niet door Claude in te sturen).
+- **Project Slaap** (projectslaap.nl, judith@projectslaap.nl) ⛔ betaalde slaapcoach-dienst
+  (0-4 jaar) met gratis WhatsApp-tipsgroep — zelfde categorie als Eindelijk Slapen: commercieel
+  coachingbedrijf, geen onafhankelijke redactie; niet benaderd.
+- Ook nog steeds openstaand voor Ed (webformulier/account): Zozwanger, Slaaptipsvoorbabys,
+  mindful.technology, liveworksleep.com, AndroidB.com, r/IndieAppNews.
+Geen nieuw direct-mailbaar kanaal gevonden deze ronde.
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
