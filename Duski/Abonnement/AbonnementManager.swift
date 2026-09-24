@@ -61,6 +61,17 @@ final class AbonnementManager: ObservableObject {
         }
     }
 
+    /// "Aankopen herstellen": synchroniseert met de App Store, bv. na herinstallatie
+    /// of op een nieuw toestel.
+    func herstelAankopen() async {
+        do {
+            try await AppStore.sync()
+            await werkAbonnementStatusBij()
+        } catch {
+            laadFout = error.localizedDescription
+        }
+    }
+
     func werkAbonnementStatusBij() async {
         var actief = false
         for await entitlement in Transaction.currentEntitlements {

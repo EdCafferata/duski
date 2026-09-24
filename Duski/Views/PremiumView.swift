@@ -33,19 +33,45 @@ struct PremiumView: View {
                 }
 
                 ForEach(abonnement.producten) { product in
-                    Button {
-                        Task { await abonnement.koop(product) }
-                    } label: {
-                        Text("Start gratis proefperiode — daarna \(product.displayPrice)/maand")
-                            .frame(maxWidth: .infinity)
+                    VStack(spacing: 8) {
+                        // Guideline 3.1.2(c): naam, looptijd en prijs van het abonnement
+                        // moeten in de koopflow zichtbaar zijn.
+                        Text("\(product.displayName) — 1 maand, \(product.displayPrice) per maand")
+                            .font(.headline)
+                            .multilineTextAlignment(.center)
+
+                        Button {
+                            Task { await abonnement.koop(product) }
+                        } label: {
+                            Text("Start gratis proefperiode — daarna \(product.displayPrice)/maand")
+                                .frame(maxWidth: .infinity)
+                        }
+                        .buttonStyle(.borderedProminent)
+                        .controlSize(.large)
+
+                        Text("De eerste 30 dagen zijn gratis. Daarna wordt het abonnement automatisch elke maand verlengd tegen \(product.displayPrice), tenzij je het minstens 24 uur vóór het einde van de lopende periode opzegt via de abonnementsinstellingen van je Apple-account.")
+                            .font(.caption2)
+                            .foregroundStyle(.secondary)
+                            .multilineTextAlignment(.center)
                     }
-                    .buttonStyle(.borderedProminent)
-                    .controlSize(.large)
                 }
 
                 if abonnement.producten.isEmpty && abonnement.laadFout == nil {
                     ProgressView()
                 }
+
+                Button("Aankopen herstellen") {
+                    Task { await abonnement.herstelAankopen() }
+                }
+                .font(.footnote)
+
+                // Guideline 3.1.2(c): werkende links naar de gebruiksvoorwaarden (EULA)
+                // en het privacybeleid in de app zelf.
+                HStack(spacing: 16) {
+                    Link("Gebruiksvoorwaarden (EULA)", destination: URL(string: "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/")!)
+                    Link("Privacybeleid", destination: URL(string: "https://cafferata.info/duski/privacy.html")!)
+                }
+                .font(.footnote)
 
                 Spacer()
             }
