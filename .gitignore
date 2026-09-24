@@ -40,3 +40,6 @@ fastlane/test_output
 
 # macOS
 .DS_Store
+
+# gegenereerde marketing-clips (binair, niet in git)
+marketing/clips/
