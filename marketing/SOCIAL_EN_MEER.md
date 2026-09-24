@@ -281,6 +281,13 @@ Geen nieuw geschikt kanaal gevonden deze ronde.
   mindful.technology, liveworksleep.com, AndroidB.com, r/IndieAppNews.
 Geen nieuw direct-mailbaar kanaal gevonden deze ronde.
 
+### Android Headlines ✅ nieuw gevonden (24 september 2026), gemaild
+Grote Android-nieuwssite met een eigen Apps-rubriek. Op androidheadlines.com/news-tips
+staat een algemeen tips-adres: **press@androidheadlines.com** — tips mogen "about
+anything you deem important" zijn, geen betaling of account nodig, geen
+zelfpromotie-/AI-verbod gevonden. Gemaild op 24 september 2026 via het SMTP-script
+met de generieke indie-app-pitch (licht aangepast als app-tip).
+
 ## Nog te onderzoeken (volgende rondes)
 - Parenting/mommy-blogs (Engelstalig) met baby-slaap-content
 - Meditatie/mindfulness-app-directories (naast AlternativeTo/SaaSHub, zie
@@ -321,6 +328,7 @@ Geen nieuw direct-mailbaar kanaal gevonden deze ronde.
 - [x] Sleep Foundation — press@sleepfoundation.org — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
 - [x] AndroidGuys — reviews@androidguys.com — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
 - [ ] AndroidB.com — webformulier voorbereid (7 september 2026, zie boven), wacht op verzending door Ed (geen e-mailadres beschikbaar)
+- [x] Android Headlines — press@androidheadlines.com — 24 september 2026, verzonden via het SMTP-script (tip voor de Apps-sectie)
 
 ---
 
