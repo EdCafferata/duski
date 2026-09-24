@@ -6,7 +6,7 @@ _Kant-en-klaar om te filmen & uploaden. Claude kan niet posten/inloggen — dit 
 Ed koos een **studio-account** (alle apps), niet Duski-only. Ingesteld in TikTok:
 - **Handle:** `@cafferatae` (bestaand, laten staan). **Naam:** `The IT Crowd` ✅ (opgeslagen; naam kan pas over 7 dagen weer wijzigen).
 - **Bio:** `Wij bouwen handige apps 📱 Duski (rustig slapen) · Riskonacci (agile)` ✅ (69/80).
-- **Nog te doen (Ed):** (1) **profielfoto** — The IT Crowd/Duski-logo uploaden (geef me het bestand, dan upload ik 'm via de extensie, of doe het zelf); (2) **klikbare link in bio** kan pas bij een **zakelijk account** of **1000+ volgers** — overweeg omschakelen naar een Business-account (Instellingen → Account → Overschakelen naar zakelijk account) zodat je een store-link kunt tonen; (3) voorwaarden-melding wegklikken (akkoord = jouw keuze).
+- **Profielfoto:** ✅ oranje iT CROWD-logo geüpload (cafferata.info/assets/icons/theitcrowd.png). **Nog te doen (Ed):** (1) **klikbare link in bio** kan pas bij een **zakelijk account** of **1000+ volgers** — overweeg omschakelen naar een Business-account (Instellingen → Account → Overschakelen naar zakelijk account) zodat je een store-link kunt tonen; (3) voorwaarden-melding wegklikken (akkoord = jouw keuze).
 - **Content-mix:** primair Duski-slaapcontent (TikTok-vriendelijke niche); af en toe een Riskonacci-clip. Bij livegang op Apple: store-CTA. **Duski is al live op Google Play** → Play-link mag nu al in bio/CTA.
 
 ## Postritme
