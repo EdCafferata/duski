@@ -22,7 +22,7 @@ Hook in de eerste 1–2s (tekst + beeld) → 5–12s sfeer/payoff → zachte CTA
 ### 1. "POV: het is 2u 's nachts en je hoofd staat niet uit"
 - **Hook-tekst (0–2s):** "POV: 2:00 en je hoofd staat niet uit 🧠🌙"
 - **Beeld:** donkere slaapkamer, plafond, telefoon-glow → dan Duski-scherm met regen-layer die aangaat.
-- **Payoff:** geluid van regen zwelt aan; tekst: "1 laag regen. 1 laag onweer. Klaar." 
+- **Payoff:** geluid van regen zwelt aan; tekst: "1 laag regen. 1 laag bruine ruis. Klaar." 
 - **Caption:** "Werkt dit bij jou ook? 😮‍💨 #cantsleep #sleep #rain"
 - **Hashtags:** #cantsleep #insomnia #sleepsounds #rain #relax #studytok
 
@@ -34,7 +34,7 @@ Hook in de eerste 1–2s (tekst + beeld) → 5–12s sfeer/payoff → zachte CTA
 
 ### 3. "Layers mixen" — product als content
 - **Hook:** "je eigen slaapmix in 10 seconden"
-- **Beeld:** schermopname: regen aan → onweer aan → haardvuur zacht erbij → volume schuiven.
+- **Beeld:** schermopname: regen aan → bruine ruis erbij → kampvuur zacht erbij → volume schuiven.
 - **Payoff:** tekst "jouw perfecte mix. elke nacht anders."
 - **Caption:** "Welke mix wil jij? ⬇️ #sleepsounds #whitenoise #app"
 
@@ -46,7 +46,7 @@ Hook in de eerste 1–2s (tekst + beeld) → 5–12s sfeer/payoff → zachte CTA
 
 ### 5. "3 geluiden die je sneller in slaap krijgen"
 - **Hook:** "3 geluiden die je sneller in slaap krijgen 😴"
-- **Beeld:** snelle cuts: regen → oceaan → nachtelijke krekels (allemaal uit de app).
+- **Beeld:** snelle cuts: regen → golven → kampvuur (allemaal uit de app).
 - **Caption:** "Welke is jouw favoriet? #sleep #relax #nature"
 
 ### 6. Relatable: partner snurkt
@@ -74,10 +74,10 @@ Hook in de eerste 1–2s (tekst + beeld) → 5–12s sfeer/payoff → zachte CTA
 - **Beeld:** links onrustig scrollen / plafond staren; rechts rustige mix + ogen dicht.
 - **Caption:** "Kleine gewoonte, groot verschil 😴 #sleeproutine #selfcare"
 
-### 11. Sfeer: onweer in de verte
-- **Hook:** "onweer in de verte = instant slaap voor mij ⛈️"
-- **Beeld:** raam, verre bliksem-glow, rollende donder uit de app.
-- **Caption:** "Bewaar voor vanavond 🔖 #thunderstorm #sleepsounds #asmr"
+### 11. Sfeer: kampvuur met wind
+- **Hook:** "knisperend vuur + zachte wind = instant slaap voor mij 🔥"
+- **Beeld:** warm, donker beeld + Duski-mix Kampvuur + Wind.
+- **Caption:** "Bewaar voor vanavond 🔖 #campfire #sleepsounds #asmr"
 
 ### 12. Reageer-haakje (community)
 - **Hook:** "noem 1 geluid waar jij van in slaap valt 👇"
@@ -85,6 +85,10 @@ Hook in de eerste 1–2s (tekst + beeld) → 5–12s sfeer/payoff → zachte CTA
 - **Caption:** "Ik lees ze allemaal 🌙 top-antwoorden maak ik na met de app #sleep #asmr"
 
 ---
+
+> **Correctie 2026-09-25:** concepten #1, #3, #5 en #11 noemden onweer/oceaan/krekels — die geluiden
+> zitten **niet** in Duski. Aangepast naar echte app-geluiden (bruine ruis, golven, kampvuur, wind), zodat
+> geen enkele clip iets belooft wat de app niet kan.
 
 ## Hashtag-banken (rouleren, mix groot + niche)
 - **Groot:** #sleep #asmr #relax #whitenoise #sleepsounds #cantsleep #insomnia

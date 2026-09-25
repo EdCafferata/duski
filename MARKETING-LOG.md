@@ -26,3 +26,13 @@
      `fastlane/metadata/*/*_url.txt` gelijkgetrokken met live (cafferata.info/duski/…, alle 200).
   2. **Launch-kit** (`marketing/LAUNCH-KIT.md`): persbericht NL (bij livegang), 1-op-1-pitchtemplate, EN-press release +
      Product-Hunt-draft (beide pas na EN-UI). Ed-checklist aangevuld (v1.1-akkoord, citaat, promocodes, PH-account).
+- **Routine 21:12 (2 acties, drafts — Apple nog WAITING_FOR_REVIEW via ASC-API; geen nieuwe mail van Ed):**
+  1. **Monetisatie-voorstel** (`marketing/MONETISATIE-VOORSTEL.md`): review-prompt-timing (v1.1), jaarabonnement met
+     3 prijsvarianten ter keuze, trial-lengte (pas na data), offer codes voor pers, win-back, sterkere paywall-copy
+     (3.1.2(c)-elementen blijven). **Niets doorgevoerd — beslissingen Ed**; ook gevlagd: Play Console had op 30 aug
+     nog geen abonnementsproduct.
+  2. **YouTube long-form-pakket** (`marketing/YOUTUBE-LONGFORM.md`): 6 evergreen video's (titels/thumbnail-tekst NL,
+     EN na v1.1), beschrijvingssjabloon met baby-veiligheidsregel, rechten-check (100 % procedureel + publiek-domein-
+     composities), ffmpeg-productierecept (60 min opname → 8–10 u).
+  - **Correctie:** TikTok-batch-01 (#1/#3/#5/#11) en MARKETING-PLAN §3 noemden onweer/oceaan/krekels — die
+    geluiden zitten **niet** in Duski → vervangen door echte app-geluiden (geen misleidende clips).

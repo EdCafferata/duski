@@ -29,7 +29,7 @@ Kort verticaal video is het krachtigste gratis kanaal voor een sfeer/rust-app.
 - **Kanalen (Ed maakt aan, ik lever naam/bio/kunst/content):** TikTok, Instagram (Reels), YouTube (Shorts + lange "8 uur regengeluid"-video's), Pinterest (slaap/rust pins), Facebook-pagina, evt. Threads/X.
 - **Handle-voorstel:** `@duskiapp` (of `@duski.sleep` als bezet) — overal consistent.
 - **Content-pilaren:**
-  1. **ASMR/sfeer-clips** (regen op raam, onweer, haardvuur) met zachte CTA — deelbaar, algoritme-vriendelijk.
+  1. **ASMR/sfeer-clips** (regen, golven, kampvuur, bruine ruis — alleen geluiden die écht in de app zitten) met zachte CTA — deelbaar, algoritme-vriendelijk.
   2. **"POV: je kunt niet slapen"** relatable/humor haakjes.
   3. **Slaap-tips & wetenschap** (white vs brown noise, slaaphygiëne) — waarde + autoriteit.
   4. **Behind-the-app** (layers mixen laten zien) — product-demo als content.
@@ -70,6 +70,8 @@ Kort verticaal video is het krachtigste gratis kanaal voor een sfeer/rust-app.
 - [ ] Mailchimp: account/toegang + verzenddomein verifiëren (zie ook OG-Consent alias-werk).
 - [ ] Eventueel klein ad-budget vrijgeven (later).
 - [ ] **v1.1 = Engelse (en later meer) UI-lokalisatie** akkoord — de app is nu alleen NL; voorwaarde voor internationale ASO/Product Hunt (zie marketing/LOKALISATIE-EN-ASO.md).
+- [ ] **Monetisatie-keuzes** (marketing/MONETISATIE-VOORSTEL.md): review-prompt v1.1, jaarabonnement + prijsvariant, aantal offer codes, Play-abonnementsproduct checken.
+- [ ] **YouTube-kanaal** + 60-min-opnames per video (marketing/YOUTUBE-LONGFORM.md).
 - [ ] Persbericht NL (marketing/LAUNCH-KIT.md): plaatsnaam + citaat goedkeuren; of/hoeveel Premium-promocodes voor pers.
 
 ## 10. Wat ik (Claude) doe in de routine
