@@ -69,6 +69,8 @@ Kort verticaal video is het krachtigste gratis kanaal voor een sfeer/rust-app.
 - [ ] Product Hunt: account + hunter regelen.
 - [ ] Mailchimp: account/toegang + verzenddomein verifiëren (zie ook OG-Consent alias-werk).
 - [ ] Eventueel klein ad-budget vrijgeven (later).
+- [ ] **v1.1 = Engelse (en later meer) UI-lokalisatie** akkoord — de app is nu alleen NL; voorwaarde voor internationale ASO/Product Hunt (zie marketing/LOKALISATIE-EN-ASO.md).
+- [ ] Persbericht NL (marketing/LAUNCH-KIT.md): plaatsnaam + citaat goedkeuren; of/hoeveel Premium-promocodes voor pers.
 
 ## 10. Wat ik (Claude) doe in de routine
 Per idle-run 2 acties, bijv.: ASO-teksten per taal schrijven, social-scripts/hooks batchen, persbericht/pitch-templates opstellen, Product-Hunt-launchpagina voorbereiden, screenshots-tekst-overlays specificeren, monetisatie-experimenten uitschrijven. Alles in drafts in deze repo (MARKETING-LOG.md bijhouden). Zodra Apple live is: mail-/info-acties daadwerkelijk uitvoeren (via Mailchimp / The IT Crowd).

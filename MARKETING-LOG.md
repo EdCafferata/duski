@@ -18,3 +18,11 @@
   4. Nieuwe posts staan default op **"Alleen ik"** → na plaatsen op de Content-pagina de privacy-dropdown op **"Iedereen"** zetten.
   5. **Screenshots time-outen** op TikTok Studio (zware pagina) → werk via read_page/find, niet screenshot.
   6. Post komt eerst "Content wordt beoordeeld" → wordt vanzelf publiek.
+- **Routine 15:12 (2 acties, drafts — Apple nog Waiting for Review, via ASC-API gecheckt):**
+  1. **Lokalisatie-gap + ASO** (`marketing/LOKALISATIE-EN-ASO.md`): bevinding — de iOS-UI is **alleen Nederlands**
+     (hardcoded, geen String Catalog), terwijl er een en-US-listing is. Daarom géén DE/FR/ES/…-store-teksten
+     gepubliceerd; wel v1.1-lokalisatieplan + gevalideerde ASO-drafts (tekenlimieten gecheckt) voor NL (nu bruikbaar),
+     EN en DE (na UI-vertaling) + keyword-richting FR/ES/PT/IT/JA + 6 screenshot-overlays. Lokale
+     `fastlane/metadata/*/*_url.txt` gelijkgetrokken met live (cafferata.info/duski/…, alle 200).
+  2. **Launch-kit** (`marketing/LAUNCH-KIT.md`): persbericht NL (bij livegang), 1-op-1-pitchtemplate, EN-press release +
+     Product-Hunt-draft (beide pas na EN-UI). Ed-checklist aangevuld (v1.1-akkoord, citaat, promocodes, PH-account).
