@@ -211,6 +211,12 @@ edcafferata@icloud.com
   `reference_cafferata_smtp_automation`) — werkt ook in geplande/onbeheerde runs
   zonder Mail.app-toegang
 - [x] Webwijzer.nl — info@webwijzer.nl — 6 september 2026, verzonden via het SMTP-script
+- [x] Androidworld.nl — redactie@androidworld.nl — 25 september 2026, verzonden via
+  het SMTP-script (Android-invalshoek: 100% on-device gegenereerd geluid, offline)
+- [ ] Android Planet — alleen tipformulier (androidplanet.nl/over-ons/tip-redactie/,
+  categorie "App"); het in zoekresultaten genoemde redactie@androidplanet.nl staat
+  niet op de site zelf, dus niet gemaild. Kandidaat voor webformulier-voorbereiding
+  (Androidworld-tekst hergebruiken), wacht op verzending door Ed
 
 ---
 
@@ -239,3 +245,15 @@ Met vriendelijke groet,
 Ed Cafferata — The IT Crowd
 edcafferata@icloud.com
 ```
+
+---
+
+## Nieuwe vondst (25 september 2026) — Nederlandse Android-techsites
+Tot nu toe lag de NL-focus op ouder-/slaap-/wellnesssites; de grote Nederlandstalige
+Android-sites waren nog niet benaderd, terwijl Duski (nog) alleen op Android staat.
+- **Androidworld.nl** ✅ — "grootste Nederlandse Android-community"; contactpagina
+  (androidworld.nl/over-ons/contact/) vraagt tips expliciet te mailen naar
+  **redactie@androidworld.nl**. Geen betaalmuur of zelfpromotieverbod gevonden.
+  Gemaild 25 september 2026 met een Android-/techgerichte variant van de NL-pitch.
+- **Android Planet** — alleen tipformulier, zie checklist.
+- Nog te checken: **Droidapp.nl** (volgende run).
