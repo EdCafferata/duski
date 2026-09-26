@@ -296,6 +296,14 @@ met de generieke indie-app-pitch (licht aangepast als app-tip).
   AlternativeTo voordat indienen kan — Ed moet dit zelf aanmaken)
 - Phandroid — contactformulier gevonden (phandroid.com/contact/) maar site
   wordt niet meer actief onderhouden, lage prioriteit
+- **Android Authority** ✅ (26 september 2026) — contactpagina noemt
+  news@androidauthority.com voor "Leaks, press releases, and news"; sponsoring
+  loopt apart via sales@ → gratis tip toegestaan. Gemaild.
+- Afgevallen 26 september 2026: **9to5Google** (alleen tipformulier; sponsored posts
+  apart), **Droid Life** (alleen contactformulier met "Apps"-categorie — kandidaat
+  voor formulier-voorbereiding door Ed), **Talk Android/XDA** (geen publiek
+  tip-adres gevonden), **Android Central** (alleen persoonlijke redacteursadressen,
+  niet ongevraagd gemaild)
 - r/sleep, r/whitenoise, r/insomnia — regels nog checken zodra Reddit weer
   bereikbaar is (browser blokkeerde reddit.com deze sessie)
 
@@ -329,6 +337,7 @@ met de generieke indie-app-pitch (licht aangepast als app-tip).
 - [x] AndroidGuys — reviews@androidguys.com — 2 september 2026, verzonden via Apple Mail (the-it-crowd@cafferata.info)
 - [ ] AndroidB.com — webformulier voorbereid (7 september 2026, zie boven), wacht op verzending door Ed (geen e-mailadres beschikbaar)
 - [x] Android Headlines — press@androidheadlines.com — 24 september 2026, verzonden via het SMTP-script (tip voor de Apps-sectie)
+- [x] Nieuwe vondst (26 september 2026) — Android Authority — news@androidauthority.com — 26 september 2026, verzonden via het SMTP-script (generieke pitch, audio-engine-invalshoek)
 
 ---
 

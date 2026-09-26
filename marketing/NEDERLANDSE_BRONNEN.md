@@ -217,6 +217,8 @@ edcafferata@icloud.com
   categorie "App"); het in zoekresultaten genoemde redactie@androidplanet.nl staat
   niet op de site zelf, dus niet gemaild. Kandidaat voor webformulier-voorbereiding
   (Androidworld-tekst hergebruiken), wacht op verzending door Ed
+- [x] Droidapp.nl — redactie@droidapp.nl — 26 september 2026, verzonden via het
+  SMTP-script (zelfde Android-/techinvalshoek als Androidworld)
 
 ---
 
@@ -256,4 +258,9 @@ Android-sites waren nog niet benaderd, terwijl Duski (nog) alleen op Android sta
   **redactie@androidworld.nl**. Geen betaalmuur of zelfpromotieverbod gevonden.
   Gemaild 25 september 2026 met een Android-/techgerichte variant van de NL-pitch.
 - **Android Planet** — alleen tipformulier, zie checklist.
-- Nog te checken: **Droidapp.nl** (volgende run).
+- **Droidapp.nl** ✅ — contactpagina (droidapp.nl/contact/): "Nieuwstips met
+  afbeeldingen kun je ook sturen naar redactie@droidapp.nl". Gesponsorde content
+  loopt apart "in overleg" — gratis tip is dus toegestaan, geen zelfpromotieverbod.
+  Gemaild 26 september 2026 (expliciet vermeld: geen verzoek om gesponsorde plaatsing).
+- Hiermee zijn de drie grote NL-Android-sites gedekt (Androidworld, Droidapp gemaild;
+  Android Planet alleen via formulier).
