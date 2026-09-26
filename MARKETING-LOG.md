@@ -36,3 +36,13 @@
      composities), ffmpeg-productierecept (60 min opname → 8–10 u).
   - **Correctie:** TikTok-batch-01 (#1/#3/#5/#11) en MARKETING-PLAN §3 noemden onweer/oceaan/krekels — die
     geluiden zitten **niet** in Duski → vervangen door echte app-geluiden (geen misleidende clips).
+
+## 2026-09-26
+- **Routine 03:12 (2 acties, drafts — Apple nog WAITING_FOR_REVIEW via ASC-API; geen nieuwe mail van Ed):**
+  1. **TikTok/Reels-pakket #02** (`marketing/tiktok-batch-02.md`): 12 nieuwe scripts (#13–#24) + serie "Mix van de week",
+     gericht op uitleg (kleur-ruis, regen), POV/humor (hotel, vliegtuig, trein, klok, schaapjes) en de nog ongebruikte
+     functies/geluiden (slaaptimer-fade, baby-modus-volumelimiet, föhn/sussen/baarmoeder, Satie/Debussy). Alles
+     gecheckt tegen de code; claimregels (geen medische beloftes, veilig-slapen bij baby-clips) vastgelegd.
+  2. **Launchdag-draaiboek** (`marketing/LAUNCHDAG-DRAAIBOEK.md`): trigger via ASC-API, volgorde van acties, site-snippets
+     voor cafferata.info, LinkedIn-launchtekst, 1-op-1-follow-up voor al gepitchte NL-sites. **Bevinding:** release staat
+     op **AFTER_APPROVAL** → Duski gaat automatisch live bij goedkeuring; routine moet dat zelf oppikken.
