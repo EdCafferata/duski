@@ -54,3 +54,11 @@
 - **Follow-up "Duski nu ook voor iPhone"** 1-op-1 gemaild aan Kek Mama en Webwijzer (zie `marketing/NEDERLANDSE_BRONNEN.md`).
 - Open voor Ed: LinkedIn-launchpost (tekst C), TikTok-launchclip, akkoord persbericht-citaat, follow-up Ouders van Nu/Baby portaal,
   v1.1-lokalisatie (EN-UI) vóór internationale marketing.
+- **Routine 15:12:** geen nieuwe opdracht van Ed (2 "Claude???"-mails = paywall-screenshots, al verwerkt in de sessie van 13:45).
+  ASC: v1.1 (build 7) = PREPARE_FOR_SUBMISSION → wacht op Eds Submit; v1.0 live. Download is gratis (ASC-prijsschema € 0,
+  iTunes-lookup NL/US/DE = gratis; de eerdere "0,99"-lookup was cache).
+  **Draft `marketing/V1.1-INTERNATIONALE-LAUNCH.md`:** feitenblad v1.1, EN-persbericht en Product-Hunt-tekst bijgewerkt
+  (8 talen, jaarabonnement € 9,99 / $ 8.99, "eerste maand gratis"), screenshot-overlays voor 6 schermen in alle 8 talen,
+  volgorde na livegang. Alles gated op v1.1 = READY_FOR_SALE; Android niet genoemd (Play heeft nog geen vertalingen/jaarplan).
+- Open voor Ed: Submit v1.1, citaat/plaatsnaam EN-persbericht, Android-update vóór of ná internationale pers, sessie voor
+  vertaalde screenshots, Product Hunt-account + datum.
