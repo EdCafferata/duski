@@ -10,14 +10,14 @@ struct PremiumView: View {
     var body: some View {
         NavigationStack {
             ScrollView {
-                VStack(spacing: 20) {
-                    Text("🌙").font(.system(size: 56))
+                VStack(spacing: 14) {
+                    Text("🌙").font(.system(size: 40))
 
                     Text("Ontgrendel alle geluiden")
                         .font(.system(.title, design: .rounded, weight: .bold))
                         .multilineTextAlignment(.center)
 
-                    Text("Bruine ruis, golven, kampvuur, baarmoedergeluiden, sussen en 5 klassieke stukken — zo vaak en zo lang je wilt.")
+                    Text("Bruine ruis, golven, kampvuur, baarmoedergeluiden, sussen en 5 klassieke stukken.")
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
                         .multilineTextAlignment(.center)

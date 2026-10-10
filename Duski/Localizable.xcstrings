@@ -800,49 +800,49 @@
         }
       }
     },
-    "Bruine ruis, golven, kampvuur, baarmoedergeluiden, sussen en 5 klassieke stukken — zo vaak en zo lang je wilt.": {
+    "Bruine ruis, golven, kampvuur, baarmoedergeluiden, sussen en 5 klassieke stukken.": {
       "extractionState": "manual",
       "localizations": {
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Braunes Rauschen, Wellen, Lagerfeuer, Mutterleibgeräusche, Sch-Laute und 5 klassische Stücke – so oft und so lange du möchtest."
+            "value": "Braunes Rauschen, Wellen, Lagerfeuer, Mutterleibgeräusche, Sch-Laute und 5 klassische Stücke."
           }
         },
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Brown noise, waves, campfire, womb sounds, shushing and 5 classical pieces — as often and as long as you like."
+            "value": "Brown noise, waves, campfire, womb sounds, shushing and 5 classical pieces."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ruido marrón, olas, hoguera, sonidos del útero, arrullo y 5 piezas clásicas, tantas veces y tanto tiempo como quieras."
+            "value": "Ruido marrón, olas, hoguera, sonidos del útero, arrullo y 5 piezas clásicas."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bruit brun, vagues, feu de camp, sons intra-utérins, chuchotements et 5 morceaux classiques — aussi souvent et aussi longtemps que vous le souhaitez."
+            "value": "Bruit brun, vagues, feu de camp, sons intra-utérins, chuchotements et 5 morceaux classiques."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Rumore marrone, onde, falò, suoni del grembo, sussurri e 5 brani classici — tutte le volte e per tutto il tempo che vuoi."
+            "value": "Rumore marrone, onde, falò, suoni del grembo, sussurri e 5 brani classici."
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "ブラウンノイズ、波、焚き火、胎内音、シーッという音、そしてクラシック5曲 — 好きなだけ、好きな時間だけ。"
+            "value": "ブラウンノイズ、波、焚き火、胎内音、シーッという音、そしてクラシック5曲。"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ruído marrom, ondas, fogueira, sons do útero, chiado calmante e 5 peças clássicas — quantas vezes e por quanto tempo quiser."
+            "value": "Ruído marrom, ondas, fogueira, sons do útero, chiado calmante e 5 peças clássicas."
           }
         }
       }
