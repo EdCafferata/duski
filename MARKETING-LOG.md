@@ -62,3 +62,9 @@
   volgorde na livegang. Alles gated op v1.1 = READY_FOR_SALE; Android niet genoemd (Play heeft nog geen vertalingen/jaarplan).
 - Open voor Ed: Submit v1.1, citaat/plaatsnaam EN-persbericht, Android-update vóór of ná internationale pers, sessie voor
   vertaalde screenshots, Product Hunt-account + datum.
+- **Routine 18:12:** geen nieuwe mail van Ed; ASC ongewijzigd (v1.1 = PREPARE_FOR_SUBMISSION, v1.0 live).
+  **Draft `marketing/SITE-V1.1-TEKSTEN.md`:** `cafferata.info/duski/` is alleen NL en noemt alleen het maandabonnement, terwijl
+  alle 8 store-locales ernaar linken en v1.1 het jaarabonnement toevoegt. Draft bevat de NL-aanpassingen (index/support/voorwaarden)
+  en volledige Engelse teksten voor `/duski/en/` (index, support, privacy, terms). **Niets op de site gewijzigd** — pas doorvoeren
+  bij v1.1 READY_FOR_SALE en na Eds akkoord op de EN-privacy/terms.
+- Open voor Ed (erbij): akkoord `/duski/en/`-opzet, EN-privacy/terms lezen, Android-jaarabonnement vs. "voorlopig alleen iPhone/iPad".
