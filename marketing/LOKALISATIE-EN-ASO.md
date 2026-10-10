@@ -1,5 +1,7 @@
 # Duski — lokalisatie-gap + ASO-roadmap (draft, 25 sep 2026)
 
+> **Update 10 okt 2026:** uitgevoerd in v1.1 build 6 — UI in nl/en/de/fr/es/pt-BR/it/ja (`Duski/Localizable.xcstrings`), store-teksten voor alle 8 locales in `fastlane/metadata/` en in ASC. Nog te doen: screenshots per taal, EN-versie van de support-/privacypagina.
+
 ## ⚠️ Bevinding: de iOS-app is alleen Nederlandstalig
 - Alle UI-teksten staan hardcoded in het Nederlands in de Swift-views (`Text("Voor wie is dit toestel?")`,
   `Text("Tik om terug te gaan")`, `"Sleeptimer"`, …). Er is geen String Catalog (`Localizable.xcstrings`);

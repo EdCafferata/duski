@@ -4,6 +4,11 @@ _Opgesteld 2026-09-25 door de marketing-routine. **Niets hiervan is doorgevoerd*
 abonnementen en trial-lengte zijn Eds beslissing. Dit document zet de opties op een rij zodat hij na
 de vakantie in één keer kan kiezen. Hoort bij MARKETING-PLAN.md §6._
 
+> **Update 10 okt 2026 (besluit Ed):** jaarabonnement **€9,99/jaar** aangemaakt in ASC (`info.cafferata.duski.premium.jaarlijks`,
+> 175 landen, 1 maand gratis proef) naast maand €0,99. v1.1 build 6 (8 talen, paywall met jaar + maand, review-prompt,
+> nieuwe paywall-copy) staat klaar in ASC; indienen = Eds klik. Punten 1, 2 en 6 hieronder zijn daarmee uitgevoerd.
+> Nog open: 3 (trial-lengte), 4 (offer codes), 5 (win-back) en Play Console (Android heeft nog geen abonnement).
+
 ## Huidige stand (feitelijk, gecheckt in code/ASC-memory)
 - **iOS:** één abonnement `info.cafferata.duski.premium.maandelijks` — laagste tier (€0,99/mnd),
   30 dagen gratis proef (introductory offer, geen einddatum), 175 landen. v1.0 build 5 = Waiting for Review.
