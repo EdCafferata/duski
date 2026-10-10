@@ -272,3 +272,23 @@ tekst D uit `LAUNCHDAG-DRAAIBOEK.md`) verstuurd via het SMTP-script als The IT C
 kwam (Kek Mama stuurde alleen een automatische ontvangstbevestiging). **Niet** nagemaild: Ouders van Nu en Baby
 portaal (eerste pitch ging vanaf Eds iCloud-adres; antwoorden daar zijn voor de routine niet zichtbaar → Ed beslist).
 Geen verdere follow-ups naar deze vier.
+
+### Persronde NL (10 oktober 2026) — persbericht iPhone-release ✅ verstuurd aan 8 redacties
+Door Ed vrijgegeven op 10 oktober 2026 (plaatsnaam Ommeren, beide citaten akkoord). Definitieve tekst:
+`PERSBERICHT-NL-2026-10-10.txt`. 1-op-1 verstuurd via het SMTP-script als The IT Crowd (dhr@cafferata.info), elk met een
+eigen korte aanhef, geen BCC/bulk. Contactadressen vooraf op de site zelf gecontroleerd.
+- [x] iCulture — redactie@iculture.nl (contactpagina nodigt ontwikkelaars uit te mailen; betaalde plaatsing loopt apart via advertentiekanaal)
+- [x] iPhoned — redactie@iphoned.nl (adres staat op de contact-/tip-pagina; de site verwijst voor tips ook naar een formulier)
+- [x] Emerce — redactie@emerce.nl ("Persberichten kun je sturen naar")
+- [x] Rush.nl (voorheen Numrush) — redactie@okgo.nl ("Stuur je persberichten rechtstreeks naar")
+- [x] Me to We — redactie@me-to-we.nl (redactie-adres voor artikelen/persberichten)
+- [x] J/M Ouders — info@jmouders.nl (algemeen adres op de contactpagina; geen apart redactie-adres gevonden)
+- [x] Happinez — info@happinez.nl (tweede en laatste bericht na de pitch van 2 september)
+- [x] How About Mom — app@howaboutmom.nl (tweede en laatste bericht na de pitch van 4 september)
+
+**Bewust niet gemaild:** Kek Mama en Webwijzer (kregen vandaag al de iPhone-follow-up; geen derde mail), Ouders van Nu
+en Baby portaal (eerste pitch ging vanaf Eds iCloud; eventuele antwoorden daar zijn niet zichtbaar → follow-up is aan Ed),
+Androidworld/Droidapp (iOS-release is voor hen geen nieuws), Mama's Liefste (blog met affiliate-/samenwerkingsmodel),
+Slaapwijsheid.nl (commerciële vergelijkingssite, advertorials), AppleTips/Tweakers/Android Planet (alleen tipformulier),
+Want.nl, Bright, Dutchcowboys, 24Baby, Ouders.nl, Gezondheidsnet (geen redactie-adres op de site kunnen bevestigen).
+Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijgt niets meer.
