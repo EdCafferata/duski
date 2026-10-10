@@ -1,14 +1,12 @@
 import Foundation
 
 /// Product-ID's zoals aangemaakt in Configuration.storekit (lokaal testen) en
-/// straks in App Store Connect (echte prijzen per land, laagste toegestane
-/// tier — zie onderzoek/00_PRODUCTCONCEPT.md).
-///
-/// Let op: zodra de app een definitieve naam heeft, moeten deze ID's + de
-/// bundle-ID overal consistent worden hernoemd vóórdat het product in App
-/// Store Connect wordt aangemaakt (product-ID's zijn daarna niet meer te wijzigen).
+/// in App Store Connect (subscription group "Premium"). Product-ID's zijn na
+/// aanmaken niet meer te wijzigen.
 enum AbonnementProductID {
     static let premiumMaandelijks = "info.cafferata.duski.premium.maandelijks"
+    static let premiumJaarlijks = "info.cafferata.duski.premium.jaarlijks"
 
-    static let alle: [String] = [premiumMaandelijks]
+    /// Volgorde = volgorde op de paywall: jaar eerst (voordeligst), dan maand.
+    static let alle: [String] = [premiumJaarlijks, premiumMaandelijks]
 }

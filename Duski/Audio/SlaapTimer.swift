@@ -35,6 +35,7 @@ final class SlaapTimer: ObservableObject {
         resterendeSeconden = nieuw
 
         if nieuw <= 0 {
+            BeoordelingsVerzoek.registreerGeslaagdeSessie()
             mixer.stopAlles()
             stop()
             return

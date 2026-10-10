@@ -86,10 +86,17 @@
 				};
 			};
 			buildConfigurationList = DDEAE1C62FA53D2900A6BB6A /* Build configuration list for PBXProject "Duski" */;
-			developmentRegion = en;
+			developmentRegion = nl;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				nl,
 				en,
+				de,
+				fr,
+				es,
+				"pt-BR",
+				it,
+				ja,
 				Base,
 			);
 			mainGroup = DDEAE1C22FA53D2900A6BB6A;
@@ -279,7 +286,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.duski;
 				PRODUCT_NAME = Duski;
 				SDKROOT = auto;
@@ -332,7 +339,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.duski;
 				PRODUCT_NAME = Duski;
 				SDKROOT = auto;

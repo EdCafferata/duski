@@ -28,14 +28,17 @@ final class AbonnementManager: ObservableObject {
     func laadProducten() async {
         laadFout = nil
         do {
-            producten = try await Product.products(for: AbonnementProductID.alle)
+            let volgorde = AbonnementProductID.alle
+            producten = try await Product.products(for: volgorde).sorted {
+                (volgorde.firstIndex(of: $0.id) ?? 0) < (volgorde.firstIndex(of: $1.id) ?? 0)
+            }
             // Product.products(for:) gooit GEEN fout als een product-ID niet gevonden
             // wordt — het geeft dan gewoon een lege array terug. Zonder deze check bleef
             // de paywall daardoor oneindig laden (App Review-afwijzing 2.1(b): "after
             // tapping the Premium button, the app loaded indefinitely"). Nu tonen we een
             // nette melding i.p.v. een eeuwige spinner.
             if producten.isEmpty {
-                laadFout = "Abonnement is momenteel niet beschikbaar. Probeer het later opnieuw."
+                laadFout = String(localized: "Abonnement is momenteel niet beschikbaar. Probeer het later opnieuw.")
             }
         } catch {
             laadFout = error.localizedDescription

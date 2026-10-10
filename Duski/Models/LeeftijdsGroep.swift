@@ -14,11 +14,11 @@ enum LeeftijdsGroep: String, CaseIterable, Codable, Identifiable {
 
     var titel: String {
         switch self {
-        case .baby: return "Baby (0-1 jaar)"
-        case .kind: return "Kind (1-12 jaar)"
-        case .tiener: return "Tiener (13-17 jaar)"
-        case .volwassene: return "Volwassene (18-64 jaar)"
-        case .oudere: return "Oudere (65+ jaar)"
+        case .baby: return String(localized: "Baby (0-1 jaar)")
+        case .kind: return String(localized: "Kind (1-12 jaar)")
+        case .tiener: return String(localized: "Tiener (13-17 jaar)")
+        case .volwassene: return String(localized: "Volwassene (18-64 jaar)")
+        case .oudere: return String(localized: "Oudere (65+ jaar)")
         }
     }
 

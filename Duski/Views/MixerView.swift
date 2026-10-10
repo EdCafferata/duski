@@ -10,9 +10,19 @@ struct MixerView: View {
     @StateObject private var mixer = GeluidsMixer()
     @StateObject private var slaapTimer = SlaapTimer()
     @StateObject private var abonnement = AbonnementManager()
-    @State private var toontPremium = false
+    @State private var toontPremium = Self.startMetPaywall
     @State private var toontScreensaver = false
     @State private var toontVeiligheidsBanner = true
+
+    /// Alleen in Debug: `-toonPaywall` als launch-argument opent direct de paywall
+    /// (voor review-screenshots via `simctl launch`, zonder UI-automatisering).
+    private static var startMetPaywall: Bool {
+        #if DEBUG
+        ProcessInfo.processInfo.arguments.contains("-toonPaywall")
+        #else
+        false
+        #endif
+    }
 
     var body: some View {
         NavigationStack {
@@ -55,7 +65,7 @@ struct MixerView: View {
                 }
                 .padding()
             }
-            .navigationTitle("\(leeftijdsGroep.emoji) \(leeftijdsGroep.titel)")
+            .navigationTitle(Text(verbatim: "\(leeftijdsGroep.emoji) \(leeftijdsGroep.titel)"))
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) {
                     if !abonnement.heeftPremium {
@@ -72,6 +82,13 @@ struct MixerView: View {
         }
         .onAppear {
             mixer.stelMaximaalVolumeIn(leeftijdsGroep.maximaalVolume)
+        }
+        .task(id: mixer.actieveOpties.isEmpty) {
+            // Minstens 20 minuten ononderbroken geluid telt als geslaagde sessie.
+            guard !mixer.actieveOpties.isEmpty else { return }
+            try? await Task.sleep(for: .seconds(BeoordelingsVerzoek.minutenVoorGeslaagdeSessie * 60))
+            guard !Task.isCancelled else { return }
+            BeoordelingsVerzoek.registreerGeslaagdeSessie()
         }
         .onChange(of: abonnement.heeftPremium) { _, heeftPremium in
             // Stopt een lopend premium-geluid zodra het abonnement verloopt
