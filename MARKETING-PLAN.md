@@ -3,9 +3,9 @@
 _Doel: Duski (slaapgeluiden-app, iOS + Android, Premium-abonnement met 30 dagen gratis proef) maximaal laten groeien in alle landen en omzet genereren. Opgezet 2026-09-24. Dit is een levend document; de 3-uurlijkse routine bouwt het uit (zie MARKETING-LOG.md)._
 
 ## 0. Status & gating
-- **Apple:** v1.0 build 5 = Waiting for Review (ingediend 24 sep 2026). Abonnement `info.cafferata.duski.premium.maandelijks`, €0,99/mnd, 30 dagen gratis, 175 landen.
+- **Apple:** v1.0 build 5 = **LIVE sinds 26 sep 2026** (READY_FOR_SALE, gecheckt via ASC-API 10 okt 2026) — https://apps.apple.com/app/id6806373286. Abonnement `info.cafferata.duski.premium.maandelijks`, €0,99/mnd, 30 dagen gratis, 175 landen.
 - **Google Play:** .aab + assets bestaan (~/Desktop/Duski-PlayStore-Assets, jul 2026) — **status listing bevestigen** (live? draft?). ACTIE: uitzoeken/afmaken.
-- **Regel:** losse mail-/info-acties worden pas ECHT verstuurd zodra Duski **live** is bij Apple. Tot dan: alles klaarzetten in drafts.
+- **Regel:** Duski is live bij Apple → losse 1-op-1 mail-/info-acties mogen nu echt verstuurd worden (bulk alleen via ESP; EN-pers/Product Hunt wacht op v1.1 met Engelse UI).
 
 ## 1. Positionering (basis voor alle content)
 - **Wat:** rustgevende slaapgeluiden met stapelbare geluidslagen (layers), zonder limieten in Premium.

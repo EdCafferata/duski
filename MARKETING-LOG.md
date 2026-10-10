@@ -46,3 +46,11 @@
   2. **Launchdag-draaiboek** (`marketing/LAUNCHDAG-DRAAIBOEK.md`): trigger via ASC-API, volgorde van acties, site-snippets
      voor cafferata.info, LinkedIn-launchtekst, 1-op-1-follow-up voor al gepitchte NL-sites. **Bevinding:** release staat
      op **AFTER_APPROVAL** → Duski gaat automatisch live bij goedkeuring; routine moet dat zelf oppikken.
+
+## 2026-10-10
+- **Routine 12:12 (na ~2 weken stilstand; app stond dicht van 26 sep t/m 10 okt):** ASC-API → **Duski iOS v1.0 = READY_FOR_SALE,
+  live sinds 26 sep 2026**. Launchdag-draaiboek fase 1 afgerond: site stond al goed (cafferata-site 5ee17f2), linkcheck 200,
+  `MARKETING-PLAN.md` §0 + draaiboek bijgewerkt.
+- **Follow-up "Duski nu ook voor iPhone"** 1-op-1 gemaild aan Kek Mama en Webwijzer (zie `marketing/NEDERLANDSE_BRONNEN.md`).
+- Open voor Ed: LinkedIn-launchpost (tekst C), TikTok-launchclip, akkoord persbericht-citaat, follow-up Ouders van Nu/Baby portaal,
+  v1.1-lokalisatie (EN-UI) vóór internationale marketing.

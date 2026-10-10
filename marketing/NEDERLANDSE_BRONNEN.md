@@ -264,3 +264,11 @@ Android-sites waren nog niet benaderd, terwijl Duski (nog) alleen op Android sta
   Gemaild 26 september 2026 (expliciet vermeld: geen verzoek om gesponsorde plaatsing).
 - Hiermee zijn de drie grote NL-Android-sites gedekt (Androidworld, Droidapp gemaild;
   Android Planet alleen via formulier).
+
+### Follow-up iPhone-release (10 oktober 2026) — Kek Mama + Webwijzer ✅ gemaild
+Duski staat sinds 26 september 2026 ook in de App Store. Eenmalige korte follow-up ("Duski nu ook voor iPhone",
+tekst D uit `LAUNCHDAG-DRAAIBOEK.md`) verstuurd via het SMTP-script als The IT Crowd aan **redactie@kekmama.nl** en
+**info@webwijzer.nl** — de twee adressen waar de eerste pitch vanaf the-it-crowd@ ging en waar geen afwijzing op
+kwam (Kek Mama stuurde alleen een automatische ontvangstbevestiging). **Niet** nagemaild: Ouders van Nu en Baby
+portaal (eerste pitch ging vanaf Eds iCloud-adres; antwoorden daar zijn voor de routine niet zichtbaar → Ed beslist).
+Geen verdere follow-ups naar deze vier.

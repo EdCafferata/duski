@@ -3,6 +3,12 @@
 _Doel: zodra v1.0 bij Apple live is, in één keer alles in de goede volgorde doen, zonder te improviseren. Alles
 hieronder verwijst naar drafts die al klaarstaan. **Status 26 sep 03:15: WAITING_FOR_REVIEW** (ASC-API)._
 
+> **Update 10 okt 2026: LIVE sinds 26 sep 2026** (READY_FOR_SALE). Fase 1 is af: site-links + badge staan live op
+> cafferata.info (commit 5ee17f2 in cafferata-site), linkcheck App Store/Play/support/privacy = 200. Fase 2 #8 deels
+> gedaan: follow-up (tekst D) verstuurd aan Kek Mama en Webwijzer. **Open voor Ed:** #5 LinkedIn, #6 TikTok, #7 akkoord
+> persbericht, en #8 voor Ouders van Nu + Baby portaal (die pitch ging destijds vanaf jouw iCloud-adres; eventuele
+> antwoorden kan de routine niet zien, dus daar is niet nagemaild).
+
 ## 0. Trigger — hoe weten we dat hij live is?
 ASC-API (Admin-key `5R3497VHF5`, issuer `69a6de7f-…`), app-id **6806373286**:
 `GET /v1/apps/6806373286/appStoreVersions?limit=1` → `appStoreState`.
