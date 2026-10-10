@@ -1,1 +1,4 @@
-First release of Duski: pick your age group, mix your own sleep sounds, set a sleep timer, and choose a calming screensaver.
+New in 1.1:
+• Duski now speaks English, German, French, Spanish, Portuguese, Italian and Japanese, next to Dutch
+• New yearly Premium plan, next to the monthly plan
+• Clearer Premium screen

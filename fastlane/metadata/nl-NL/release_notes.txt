@@ -1,1 +1,4 @@
-Eerste release van Duski: kies je leeftijdsgroep, mix je eigen slaapgeluiden, stel een sleeptimer in en kies een rustgevende screensaver.
+Nieuw in 1.1:
+• Duski is er nu ook in het Engels, Duits, Frans, Spaans, Portugees, Italiaans en Japans
+• Nieuw: jaarabonnement voor Premium, naast het maandabonnement
+• Duidelijker Premium-scherm

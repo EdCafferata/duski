@@ -1,4 +1,4 @@
-Duski helpt je sneller in slaap vallen met geluiden die 100% op je eigen toestel worden gegenereerd — geen opnames, geen streaming, geen rechtenrisico. Kies eerst voor wie het toestel is (baby, kind, tiener, volwassene of oudere): Duski past de content en een veilige volumelimiet automatisch aan.
+Duski helpt je sneller in slaap vallen met geluiden die 100% op je eigen toestel worden gegenereerd — geen opnames, geen streaming, geen account. Kies eerst voor wie het toestel is (baby, kind, tiener, volwassene of oudere): Duski past de content en een veilige volumelimiet automatisch aan.
 
 MIX JE EIGEN GELUID
 Kies losse geluidslagen en meng ze samen, elk met een eigen volume:
@@ -6,10 +6,10 @@ Kies losse geluidslagen en meng ze samen, elk met een eigen volume:
 • Ruis — witte, roze, bruine, grijze en blauwe ruis
 • Natuur — regen, golven, wind, kampvuur en een kabbelende beek
 • Lichaam & baby — hartslag, baarmoedergeluiden, ademhaling, sussen (shhh) en föhn
-• Overige — klankschaal, ventilator, trein, tikkende klok, vliegtuigcabine, autorijden, en klassieke stukken van Bach, Pachelbel, Satie en Debussy (eigen arrangementen, geïnspireerd op deze allang rechtenvrije composities)
+• Overige — klankschaal, ventilator, trein, tikkende klok, vliegtuigcabine, autorijden, en klassieke stukken van Bach, Pachelbel, Satie en Debussy (eigen arrangementen van deze rechtenvrije composities)
 
 SLEEPTIMER
-Stel in hoe lang het geluid speelt (15 tot 90 minuten) — Duski stopt vanzelf zodat de batterij niet leegloopt terwijl je slaapt.
+Stel in hoe lang het geluid speelt (15 tot 90 minuten) — Duski dooft rustig uit en stopt vanzelf.
 
 SCREENSAVER
 Kies een rustgevende animatie passend bij je categorie: sterrenhemel, schaapjes tellen, kaarsvlam, wolkendek en meer.
@@ -20,4 +20,10 @@ Bij de babymodus geldt een ingebouwde volumelimiet — onderzoek toont dat losse
 EERLIJK OVER DE WETENSCHAP
 We baseren Duski op onderzoek van AASM, WHO en Harvard Medical School, en zijn net zo duidelijk over wat niet onderbouwd is — geen pseudowetenschappelijke claims.
 
-30 dagen gratis, daarna een maandelijks abonnement voor de volledige bibliotheek. Op te zeggen wanneer je wilt.
+Vier geluiden zijn gratis. Duski Premium ontgrendelt alle 26, met de eerste maand gratis. Op te zeggen wanneer je wilt.
+
+ABONNEMENT
+Duski Premium is een automatisch verlengend abonnement, per maand of per jaar. Voor nieuwe abonnees is de eerste maand gratis; daarna betaal je de prijs die in de app staat. Het wordt automatisch verlengd tenzij je minstens 24 uur vóór het einde van de lopende periode opzegt; beheren en opzeggen doe je in de instellingen van je Apple-account.
+
+Gebruiksvoorwaarden (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacybeleid: https://cafferata.info/duski/privacy.html

@@ -1,0 +1,4 @@
+Nouveautés de la version 1.1 :
+• Duski est désormais disponible en français, anglais, allemand, espagnol, portugais, italien et japonais
+• Nouveau : abonnement Premium annuel, en plus du mensuel
+• Écran Premium plus clair

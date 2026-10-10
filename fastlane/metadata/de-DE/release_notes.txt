@@ -1,0 +1,4 @@
+Neu in 1.1:
+• Duski gibt es jetzt auf Deutsch, Englisch, Französisch, Spanisch, Portugiesisch, Italienisch und Japanisch
+• Neu: Premium-Jahresabo neben dem Monatsabo
+• Übersichtlicherer Premium-Bildschirm
