@@ -285,6 +285,9 @@ eigen korte aanhef, geen BCC/bulk. Contactadressen vooraf op de site zelf gecont
 - [x] J/M Ouders — info@jmouders.nl (algemeen adres op de contactpagina; geen apart redactie-adres gevonden)
 - [x] Happinez — info@happinez.nl (tweede en laatste bericht na de pitch van 2 september)
 - [x] How About Mom — app@howaboutmom.nl (tweede en laatste bericht na de pitch van 4 september)
+- [x] iCreate — redactie@icreatemagazine.nl — 11 oktober 2026, verzonden via het SMTP-script (negende redactie van de
+  persronde; NL Apple-magazine, contactpagina icreatemagazine.nl/contact/redactie/: "Persberichten en (nieuws)tips zijn
+  welkom"; geen betaalmuur of zelfpromotieverbod gevonden, adverteren loopt apart via FNL Media)
 
 **Bewust niet gemaild:** Kek Mama en Webwijzer (kregen vandaag al de iPhone-follow-up; geen derde mail), Ouders van Nu
 en Baby portaal (eerste pitch ging vanaf Eds iCloud; eventuele antwoorden daar zijn niet zichtbaar → follow-up is aan Ed),
@@ -292,3 +295,13 @@ Androidworld/Droidapp (iOS-release is voor hen geen nieuws), Mama's Liefste (blo
 Slaapwijsheid.nl (commerciële vergelijkingssite, advertorials), AppleTips/Tweakers/Android Planet (alleen tipformulier),
 Want.nl, Bright, Dutchcowboys, 24Baby, Ouders.nl, Gezondheidsnet (geen redactie-adres op de site kunnen bevestigen).
 Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijgt niets meer.
+
+### Zoekronde NL Apple-/iOS-kanalen (11 oktober 2026)
+- **iCreate** ✅ gemaild, zie persronde hierboven. Daarmee staat de persronde op 9 van de max. ~10 redacties.
+- **OneMoreThing** ⛔ bestaat niet meer als eigen site: onemorething.nl verwijst door naar want.nl/tech/apple (Want had
+  eerder al geen bevestigd redactie-adres).
+- **MacFreak** — contactpagina toont geen redactie-adres (alleen "Adverteren" en huisregels); niet gemaild.
+- **AppleTips** — blijft formulier-only: de contactpagina stuurt tips via het formulier (optie "Insturen van een tip",
+  soort "Apps"). Kandidaat voor formulier-voorbereiding door Ed.
+- Opnieuw gecheckt, nog steeds geen redactie-adres op de site: Gezondheidsnet, 24Baby, Ouders.nl, Apparata.
+- Status v1.1: de App Store toont op 11 oktober nog versie 1.0 → Engelstalige iOS-kanalen (9to5Mac e.d.) blijven dicht.
