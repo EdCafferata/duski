@@ -219,6 +219,8 @@ edcafferata@icloud.com
   (Androidworld-tekst hergebruiken), wacht op verzending door Ed
 - [x] Droidapp.nl — redactie@droidapp.nl — 26 september 2026, verzonden via het
   SMTP-script (zelfde Android-/techinvalshoek als Androidworld)
+- [x] Mama Baas (België/Vlaanderen) — lore@mamabaas.com — 12 oktober 2026, verzonden via het
+  SMTP-script (app-tip, iOS + Android, BE-App Store-link)
 
 ---
 
@@ -305,3 +307,13 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
   soort "Apps"). Kandidaat voor formulier-voorbereiding door Ed.
 - Opnieuw gecheckt, nog steeds geen redactie-adres op de site: Gezondheidsnet, 24Baby, Ouders.nl, Apparata.
 - Status v1.1: de App Store toont op 11 oktober nog versie 1.0 → Engelstalige iOS-kanalen (9to5Mac e.d.) blijven dicht.
+
+### Zoekronde 12 oktober 2026 — Vlaanderen als nieuw Nederlandstalig gebied
+- **Mama Baas** ✅ gemaild — grote Vlaamse oudercommunity (mamabaas.be, eigen app en redactie). Contactpagina noemt
+  **lore@mamabaas.com** voor inhoudelijke vragen (Community) naast aparte sales-adressen; de adverteerpagina beperkt
+  vermeldingen niet tot betaalde plaatsingen en noemt geen zelfpromotie-/AI-verbod. Gemaild als gewone tip ("geen
+  advertentieverzoek"), met de Belgische App Store-link + Google Play. Duski staat in de Belgische App Store en Play
+  Store (gecheckt). Vlaamse Nederlandstalige sites zijn hiermee een nieuwe hoek voor volgende runs (ouder-/tech-sites).
+- **GezondNu** — contactpagina toont alleen een formulier, geen redactie-adres; niet gemaild.
+- **Techpulse.be** — /contact geeft 404, nog geen adres bevestigd; kandidaat voor een volgende run.
+- Status v1.1: de App Store toont op 12 oktober nog versie 1.0 → Engelstalige iOS-kanalen (9to5Mac e.d.) blijven dicht.
