@@ -1,7 +1,7 @@
 # Duski — siteteksten voor v1.1 (DRAFT)
 
-_Draft 10 okt 2026 (routine 18:12). **Niets op cafferata.info gewijzigd.** Doorvoeren pas wanneer v1.1 =
-READY_FOR_SALE (nu PREPARE_FOR_SUBMISSION, wacht op Eds Submit)._
+_Draft 10 okt 2026. **Deel A (NL-pagina's) is op 13 okt 2026 doorgevoerd en gedeployed** (v1.1 = READY_FOR_SALE;
+cafferata-site ce026eb). Deel B (`/duski/en/`) wacht op Eds akkoord op de EN-privacy/terms._
 
 ## Waarom
 

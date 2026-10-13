@@ -74,3 +74,9 @@
   9471bd81 + 834963cb), beide abonnementen al APPROVED. Internationale launch/site-teksten blijven gated op READY_FOR_SALE.
 - **Reactie Happinez** (13 okt 08:39, Elke, info@happinez.nl) op het persbericht van 10 okt: "Dank - we kijken ernaar."
   Geen actie nodig; niet opnieuw mailen (was het tweede en laatste bericht).
+- **Routine 12:12:** Ed stuurde 11:09/11:22 drie Apple-mails door (geen opdracht erbij). **v1.1 = READY_FOR_SALE** (ASC + iTunes-lookup:
+  1.1, release 13 okt 09:44, gratis, 8 talen). **NL-siteteksten doorgevoerd en gedeployed** (`cafferata-site` ce026eb): `duski/index.html`
+  (maand- of jaarabonnement), `support.html` (proefperiode-tekst + vragen "wisselen maand/jaar" en "talen"), `voorwaarden.html`
+  (beide abonnementen, datum 13 okt). Afwijking van de draft: "jaarabonnement op Android vanaf versie 1.1" i.p.v. "voorlopig alleen
+  iPhone/iPad" (Play-jaarproduct bestaat, Android 1.1 wacht op Google-review).
+- **Niet gedaan (wacht op Ed):** `/duski/en/`-pagina's (EN-privacy/terms eerst lezen), internationale pers/Product Hunt, vertaalde screenshots.
