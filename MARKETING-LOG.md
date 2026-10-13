@@ -84,3 +84,8 @@
   `en/index.html`, `en/support.html`, `en/privacy.html`, `en/terms.html` + taalwissel (NL: "English", EN: "Nederlands"), hreflang,
   sitemap. Alle 8 pagina's HTTP 200, md5 op de NAS gelijk. EN-wisselvraag volgt de NL-tekst (Apple- of Google-account).
 - **Nog open (aan Ed gevraagd):** store-URL's van de 7 niet-NL-locales omzetten naar `/duski/en/…` (antwoord "URLs omzetten").
+- **Routine 18:12:** Ed antwoordde 16:20 **"URLs omzetten"**. ASC-API weigert het op de live versie 1.1 (409: `supportUrl`/`marketingUrl`
+  "cannot be edited at this time", `privacyPolicyUrl` "can not be modified in the current state") → de store-URL's zijn alleen bij een
+  nieuwe versie te wijzigen. Voorbereid: `fastlane/metadata/{en-US,de-DE,es-ES,fr-FR,it,ja,pt-BR}/{support,marketing,privacy}_url.txt`
+  wijzen nu naar `/duski/en/…` (nl-NL ongewijzigd). **Bij de volgende versie (1.1.1/1.2) via de API doorzetten vóór het indienen.**
+  Tot dan komen niet-NL-bezoekers op de NL-pagina met de "English"-wisselknop.

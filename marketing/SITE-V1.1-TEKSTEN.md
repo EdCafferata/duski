@@ -2,7 +2,8 @@
 
 _Draft 10 okt 2026. **Deel A (NL-pagina's) is op 13 okt 2026 doorgevoerd en gedeployed** (v1.1 = READY_FOR_SALE;
 cafferata-site ce026eb). **Deel B (`/duski/en/`) is op 13 okt 2026 15:12 gebouwd en gedeployed** na Eds "EN akkoord" (cafferata-site e90c3c5).
-Open: store-URL's van de niet-NL-locales omzetten (wacht op Ed)._
+Store-URL's van de 7 niet-NL-locales: Ed gaf 13 okt 16:20 akkoord ("URLs omzetten"); `fastlane/metadata/*/*_url.txt` staat nu op `/duski/en/…`,
+maar App Store Connect weigert de wijziging op een live versie (409) → gaat mee met de eerstvolgende versie._
 
 ## Waarom
 
