@@ -1,7 +1,8 @@
 # Duski — siteteksten voor v1.1 (DRAFT)
 
 _Draft 10 okt 2026. **Deel A (NL-pagina's) is op 13 okt 2026 doorgevoerd en gedeployed** (v1.1 = READY_FOR_SALE;
-cafferata-site ce026eb). Deel B (`/duski/en/`) wacht op Eds akkoord op de EN-privacy/terms._
+cafferata-site ce026eb). **Deel B (`/duski/en/`) is op 13 okt 2026 15:12 gebouwd en gedeployed** na Eds "EN akkoord" (cafferata-site e90c3c5).
+Open: store-URL's van de niet-NL-locales omzetten (wacht op Ed)._
 
 ## Waarom
 

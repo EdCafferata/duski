@@ -80,3 +80,7 @@
   (beide abonnementen, datum 13 okt). Afwijking van de draft: "jaarabonnement op Android vanaf versie 1.1" i.p.v. "voorlopig alleen
   iPhone/iPad" (Play-jaarproduct bestaat, Android 1.1 wacht op Google-review).
 - **Niet gedaan (wacht op Ed):** `/duski/en/`-pagina's (EN-privacy/terms eerst lezen), internationale pers/Product Hunt, vertaalde screenshots.
+- **Routine 15:12:** Ed antwoordde 12:46 **"EN akkoord"** → `/duski/en/` gebouwd en gedeployed (`cafferata-site` e90c3c5):
+  `en/index.html`, `en/support.html`, `en/privacy.html`, `en/terms.html` + taalwissel (NL: "English", EN: "Nederlands"), hreflang,
+  sitemap. Alle 8 pagina's HTTP 200, md5 op de NAS gelijk. EN-wisselvraag volgt de NL-tekst (Apple- of Google-account).
+- **Nog open (aan Ed gevraagd):** store-URL's van de 7 niet-NL-locales omzetten naar `/duski/en/…` (antwoord "URLs omzetten").
