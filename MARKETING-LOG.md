@@ -68,3 +68,9 @@
   en volledige Engelse teksten voor `/duski/en/` (index, support, privacy, terms). **Niets op de site gewijzigd** — pas doorvoeren
   bij v1.1 READY_FOR_SALE en na Eds akkoord op de EN-privacy/terms.
 - Open voor Ed (erbij): akkoord `/duski/en/`-opzet, EN-privacy/terms lezen, Android-jaarabonnement vs. "voorlopig alleen iPhone/iPad".
+
+## 13 oktober 2026
+- **Routine 09:12:** geen mail van Ed. ASC: **v1.1 = WAITING_FOR_REVIEW** (Ed heeft 13 okt 08:29 ingediend; submissions
+  9471bd81 + 834963cb), beide abonnementen al APPROVED. Internationale launch/site-teksten blijven gated op READY_FOR_SALE.
+- **Reactie Happinez** (13 okt 08:39, Elke, info@happinez.nl) op het persbericht van 10 okt: "Dank - we kijken ernaar."
+  Geen actie nodig; niet opnieuw mailen (was het tweede en laatste bericht).

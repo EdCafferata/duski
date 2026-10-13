@@ -285,7 +285,7 @@ eigen korte aanhef, geen BCC/bulk. Contactadressen vooraf op de site zelf gecont
 - [x] Rush.nl (voorheen Numrush) — redactie@okgo.nl ("Stuur je persberichten rechtstreeks naar")
 - [x] Me to We — redactie@me-to-we.nl (redactie-adres voor artikelen/persberichten)
 - [x] J/M Ouders — info@jmouders.nl (algemeen adres op de contactpagina; geen apart redactie-adres gevonden)
-- [x] Happinez — info@happinez.nl (tweede en laatste bericht na de pitch van 2 september)
+- [x] Happinez — info@happinez.nl (tweede en laatste bericht na de pitch van 2 september) — **reactie 13 okt: "Dank - we kijken ernaar." (Elke)**
 - [x] How About Mom — app@howaboutmom.nl (tweede en laatste bericht na de pitch van 4 september)
 - [x] iCreate — redactie@icreatemagazine.nl — 11 oktober 2026, verzonden via het SMTP-script (negende redactie van de
   persronde; NL Apple-magazine, contactpagina icreatemagazine.nl/contact/redactie/: "Persberichten en (nieuws)tips zijn
