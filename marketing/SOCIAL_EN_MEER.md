@@ -325,7 +325,8 @@ met de generieke indie-app-pitch (licht aangepast als app-tip).
   onderwerp/bericht staan klaar op mindful.technology/contact/), **niet
   verzonden** — wacht op controle + versturen door Ed zelf (tabblad is open
   gelaten)
-- [ ] 9to5Mac Indie App Spotlight — **wachten tot Duski ook op iOS live is**
+- [x] 9to5Mac Indie App Spotlight — michaelb@9to5mac.com — 14 oktober 2026, verzonden via het SMTP-script
+  (v1.1 met Engelse UI is sinds 13 oktober live; App Store- én Google Play-link)
 - [ ] liveworksleep.com — webformulier voorbereid (20 augustus 2026), wacht op verzending door Ed (geen e-mailadres beschikbaar). Poging 4 september 2026 om
   ook dit formulier in Eds Chrome in te vullen liep vast: dit domein had nog
   geen eerder verleende browsertoegang, en die kan niet worden aangevraagd in
@@ -385,3 +386,27 @@ Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
 
 Feedback welcome, happy to answer anything about the audio engine.
 ```
+
+---
+
+## Ronde 14 oktober 2026 — Engelstalige iOS-kanalen open (v1.1 live)
+Duski 1.1 staat sinds 13 oktober 2026 in de App Store (iTunes-lookup US: 1.1, 8 talen, gratis) en Google Play toont
+ook versie 1.1. De blokkade "eerst Engelse UI" is daarmee weg.
+- [x] **9to5Mac Indie App Spotlight** — michaelb@9to5mac.com — 14 oktober 2026 gemaild. Vooraf opnieuw gecheckt op
+  9to5mac.com/guides/indie-app-spotlight/: inzendingen per mail aan dit adres, geen kosten, rubriek is actief
+  (laatste aflevering 10 oktober 2026).
+- [x] **TapSmart, Indie Dev Monday, Springboard App Picks** — 14 oktober 2026, elk één korte 1-op-1 update
+  ("Duski is now on iPhone, v1.1 in English") via het SMTP-script. De pitch van 17 augustus was Android-only en dus
+  voor deze (deels iOS-gerichte) kanalen weinig bruikbaar. **Dit was de enige follow-up; geen derde mail.**
+- Teksten: zelfde feiten als het feitenblad in `V1.1-INTERNATIONALE-LAUNCH.md` (26 geluiden, 4 gratis, $0.99/mnd of
+  $8.99/jaar, eerste maand gratis), beide store-links. Geen citaat en geen persbericht gebruikt: het EN-persbericht
+  wacht nog op Eds akkoord (citaat + plaatsnaam).
+- **Indie App Catalog** — de blokkade (App Store-aanwezigheid in de VS) is weg; indienen gaat via het webformulier
+  indiecatalog.app/submit-app met de App Store-URL https://apps.apple.com/us/app/duski-by-the-it-crowd/id6806373286.
+  Niet door Claude ingediend (formulier/submit-knop) → wacht op Ed.
+- **Sleep Review** (sleepreviewmag.com, Amerikaans vakblad voor slaapprofessionals) — onderzocht: e-mailadressen op de
+  contactpagina zijn afgeschermd, alleen een "Submit a Press Release"-formulier. Geen adres bevestigd, niet gemaild;
+  kandidaat zodra het EN-persbericht door Ed is goedgekeurd (formulier, door Ed te versturen).
+- De oude kant-en-klare teksten hierboven noemen nog "free Android app"; voor nieuwe mails de tekst van deze ronde
+  gebruiken (iPhone + Android, 8 talen).
+
