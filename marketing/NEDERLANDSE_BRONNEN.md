@@ -290,6 +290,8 @@ eigen korte aanhef, geen BCC/bulk. Contactadressen vooraf op de site zelf gecont
 - [x] iCreate — redactie@icreatemagazine.nl — 11 oktober 2026, verzonden via het SMTP-script (negende redactie van de
   persronde; NL Apple-magazine, contactpagina icreatemagazine.nl/contact/redactie/: "Persberichten en (nieuws)tips zijn
   welkom"; geen betaalmuur of zelfpromotieverbod gevonden, adverteren loopt apart via FNL Media)
+- [x] Clickx (België/Vlaanderen) — redactie@bluepixlmedia.com — 14 oktober 2026, verzonden via het SMTP-script (tiende
+  en laatste redactie van de persronde; zie zoekronde 14 oktober hieronder)
 
 **Bewust niet gemaild:** Kek Mama en Webwijzer (kregen vandaag al de iPhone-follow-up; geen derde mail), Ouders van Nu
 en Baby portaal (eerste pitch ging vanaf Eds iCloud; eventuele antwoorden daar zijn niet zichtbaar → follow-up is aan Ed),
@@ -317,3 +319,15 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
 - **GezondNu** — contactpagina toont alleen een formulier, geen redactie-adres; niet gemaild.
 - **Techpulse.be** — /contact geeft 404, nog geen adres bevestigd; kandidaat voor een volgende run.
 - Status v1.1: de App Store toont op 12 oktober nog versie 1.0 → Engelstalige iOS-kanalen (9to5Mac e.d.) blijven dicht.
+
+### Zoekronde 14 oktober 2026 — Vlaanderen, vervolg
+- **Clickx** ✅ gemaild — "het meest gelezen computerblad van België" (clickx.be, uitgever Blue Pixl Media). De
+  redactiepagina (clickx.be/redactie) vraagt lezers met o.a. een nieuwstip contact op te nemen met de redactie; het
+  (Cloudflare-afgeschermde) adres in de footer is **redactie@bluepixlmedia.com**. Commerciële samenwerkingen worden er
+  apart gemarkeerd; geen zelfpromotie-/AI-verbod. Gestuurd: korte aanhef + het goedgekeurde persbericht van 10 oktober
+  ongewijzigd, met de Belgische App Store-link (gecheckt: BE-store toont v1.1, 8 talen) en Google Play.
+  **Hiermee staat de persronde op 10 redacties = het maximum.** Nieuwe NL/BE-redacties voortaan alleen nog met een
+  losse 1-op-1 app-tip, niet met het persbericht.
+- **Gezinsbond** (De Bond, Brieven aan Jonge Ouders) — alleen contactformulier + persberichten-site, geen
+  redactie-adres; niet gemaild. Kandidaat voor formulier-voorbereiding door Ed.
+- **Libelle Mama BE**, **Kiind** (heet nu Wilde Vrouw), **Techpulse.be** — geen redactie-adres gevonden.
