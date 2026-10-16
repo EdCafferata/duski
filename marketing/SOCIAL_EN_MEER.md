@@ -339,6 +339,7 @@ met de generieke indie-app-pitch (licht aangepast als app-tip).
 - [ ] AndroidB.com — webformulier voorbereid (7 september 2026, zie boven), wacht op verzending door Ed (geen e-mailadres beschikbaar)
 - [x] Android Headlines — press@androidheadlines.com — 24 september 2026, verzonden via het SMTP-script (tip voor de Apps-sectie)
 - [x] Nieuwe vondst (26 september 2026) — Android Authority — news@androidauthority.com — 26 september 2026, verzonden via het SMTP-script (generieke pitch, audio-engine-invalshoek)
+- [x] Nieuwe vondst (16 oktober 2026) — iDownloadBlog (iDB) — tips@idownloadblog.com — 16 oktober 2026, verzonden via het SMTP-script (korte app-tip v1.1, App Store + Google Play)
 
 ---
 
@@ -410,3 +411,16 @@ ook versie 1.1. De blokkade "eerst Engelse UI" is daarmee weg.
 - De oude kant-en-klare teksten hierboven noemen nog "free Android app"; voor nieuwe mails de tekst van deze ronde
   gebruiken (iPhone + Android, 8 talen).
 
+---
+
+## Zoekronde 16 oktober 2026 — Engelstalige iOS-kanalen, vervolg
+- [x] **iDownloadBlog (iDB)** — tips@idownloadblog.com — 16 oktober 2026 gemaild. Groot Engelstalig iPhone-nieuwsblog.
+  De eigen contactpagina (idownloadblog.com/contact/) noemt aparte adressen voor news tips (tips@), advertising en
+  editor; tips@ gekozen. Geen betaalde-review-route of AI-/zelfpromotieverbod vermeld. Gestuurd: korte 1-op-1
+  app-tip (geen persbericht — het EN-persbericht wacht nog op Eds akkoord) met de feiten uit het feitenblad
+  (`V1.1-INTERNATIONALE-LAUNCH.md`), App Store-link (US) + Google Play. Niet nog eens mailen zonder reactie.
+- **MacTrast** (contact@mactrast.com) — onderzocht: adres is volgens de contactpagina voor *exclusieve* nieuwstips
+  (tegen kleine beloning) en algemene vragen; app-pitches niet genoemd. Lage kans, niet gemaild; eventueel later.
+- **Cult of Mac** — alleen een ongeverifieerd tipadres (news@) via een derde partij gevonden, contactpagina gaf 404;
+  niet gemaild (geen gok op ongeverifieerde adressen).
+- **AppleInsider / The Mac Observer** — contactpagina's geven 403 aan geautomatiseerde toegang; niet geverifieerd.
