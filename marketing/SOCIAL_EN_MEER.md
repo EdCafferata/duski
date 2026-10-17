@@ -424,3 +424,16 @@ ook versie 1.1. De blokkade "eerst Engelse UI" is daarmee weg.
 - **Cult of Mac** — alleen een ongeverifieerd tipadres (news@) via een derde partij gevonden, contactpagina gaf 404;
   niet gemaild (geen gok op ongeverifieerde adressen).
 - **AppleInsider / The Mac Observer** — contactpagina's geven 403 aan geautomatiseerde toegang; niet geverifieerd.
+
+---
+
+## Zoekronde 17 oktober 2026 — Duitstalig (nieuw taalgebied sinds v1.1)
+Duski 1.1 heeft een Duitse UI, en de Duitse App Store-listing is Duitstalig (iTunes-lookup DE: 1.1, 8 talen, gratis).
+- [x] **appgefahren.de** — info@appgefahren.de — 17 oktober 2026 gemaild. Groot Duitstalig iPhone-/app-blog met
+  app-reviews en ontwikkelaarsinterviews. Het adres staat in het eigen Impressum (`info(at)appgefahren(punkt)de`);
+  de site gebruikt affiliate-links maar noemt geen betaalde reviews of zelfpromotie-/AI-verbod. Gestuurd: korte
+  Duitstalige 1-op-1 app-tip ("keine Anfrage für einen bezahlten Beitrag") met de feiten uit het feitenblad (4 gratis
+  geluiden, 26 Premium, € 0,99/mnd of € 9,99/jaar, gratis maand), DE-App Store-link + Google Play. Niet nog eens
+  mailen zonder reactie.
+- Volgende kandidaten in DE/FR/ES (één per run, adres eerst op de site zelf verifiëren): iphone-ticker.de,
+  Macerkopf, iTopnews (DE); iPhon.fr, iPhoneSoft (FR); Applesfera (ES).
