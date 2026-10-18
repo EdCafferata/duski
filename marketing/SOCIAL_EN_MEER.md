@@ -437,3 +437,11 @@ Duski 1.1 heeft een Duitse UI, en de Duitse App Store-listing is Duitstalig (iTu
   mailen zonder reactie.
 - Volgende kandidaten in DE/FR/ES (één per run, adres eerst op de site zelf verifiëren): iphone-ticker.de,
   Macerkopf, iTopnews (DE); iPhon.fr, iPhoneSoft (FR); Applesfera (ES).
+- [x] **iPhone-Ticker.de** — ifun.de@gmail.com — 18 oktober 2026 gemaild. Groot Duitstalig iPhone-nieuwsblog (zelfde
+  redactie als ifun.de — dat adres dus níet apart mailen). Contactpagina (iphone-ticker.de/kontakt/) nodigt expliciet
+  ontwikkelaars uit om te schrijven, met onderwerp "iPhone-Ticker Leser-Tipp"; geen betaald-/zelfpromotie-/AI-verbod
+  gevonden. Gestuurd: dezelfde Duitstalige 1-op-1 app-tip als appgefahren (feitenblad, DE-App Store + Google Play,
+  "keine Anfrage für einen bezahlten Beitrag"). Niet nog eens mailen zonder reactie.
+- Geverifieerd voor volgende runs (één per run): **iPhoneSoft** (FR) — redaction@iphonesoft.fr (mailto op de eigen
+  site); **iTopnews** (DE) — info@itopnews.de (Impressum). iPhon.fr heeft alleen een contactformulier; Macerkopf toont
+  geen adres in het Impressum. Applesfera (ES) nog nalopen.
