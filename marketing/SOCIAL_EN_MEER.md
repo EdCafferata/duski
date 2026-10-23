@@ -454,6 +454,9 @@ Duski 1.1 heeft een Duitse UI, en de Duitse App Store-listing is Duitstalig (iTu
   mail-inzending toegestaan, gratis (niet gegarandeerd), géén zelfpromotie-/AI-verbod, app moet live zijn, max 3
   outbound links (2 gebruikt). Engelse pitch met **beide** store-links (App Store + Google Play). Niet nog eens mailen
   zonder reactie.
+  ⚠️ **BOUNCE (22 okt 23:21):** `appreviews@appedus.com` bestaat niet (Google 550 5.1.1 NoSuchUser) → pitch is NIET
+  aangekomen. Niet opnieuw naar dit adres; alleen via het formulier op appedus.com/submit-app-for-review/ (door Ed,
+  of een ander adres op de contactpagina na verificatie).
 - ⚠️ **TapSmart** — per abuis een **DERDE** mail gestuurd (23 okt) terwijl TapSmart al 17 aug + 14 okt was gemaild.
   Oorzaak: de checklist was niet volledig ingelezen vóór verzending (een afgekapte file-fetch toonde alleen de kop).
   **Niet meer mailen.** Les: altijd eerst de volledige checklist in dit bestand lezen vóór een internationale mail.
