@@ -445,3 +445,19 @@ Duski 1.1 heeft een Duitse UI, en de Duitse App Store-listing is Duitstalig (iTu
 - Geverifieerd voor volgende runs (één per run): **iPhoneSoft** (FR) — redaction@iphonesoft.fr (mailto op de eigen
   site); **iTopnews** (DE) — info@itopnews.de (Impressum). iPhon.fr heeft alleen een contactformulier; Macerkopf toont
   geen adres in het Impressum. Applesfera (ES) nog nalopen.
+
+---
+
+## Ronde 23 oktober 2026 (nacht, autonoom)
+- [x] **Appedus** — appreviews@appedus.com — 23 oktober 2026, verzonden via het SMTP-script. **Eerste contact**
+  (nieuw gevonden gratis indie-app-reviewservice). Contactpagina (appedus.com/submit-app-for-review/) geverifieerd:
+  mail-inzending toegestaan, gratis (niet gegarandeerd), géén zelfpromotie-/AI-verbod, app moet live zijn, max 3
+  outbound links (2 gebruikt). Engelse pitch met **beide** store-links (App Store + Google Play). Niet nog eens mailen
+  zonder reactie.
+- ⚠️ **TapSmart** — per abuis een **DERDE** mail gestuurd (23 okt) terwijl TapSmart al 17 aug + 14 okt was gemaild.
+  Oorzaak: de checklist was niet volledig ingelezen vóór verzending (een afgekapte file-fetch toonde alleen de kop).
+  **Niet meer mailen.** Les: altijd eerst de volledige checklist in dit bestand lezen vóór een internationale mail.
+- Niet (opnieuw) benaderd want al gemaild: 9to5Mac, Indie Dev Monday, Springboard, Sleep Foundation, AndroidGuys,
+  Android Headlines, Android Authority, iDownloadBlog, appgefahren, iPhone-Ticker.
+- Verse kandidaten voor de volgende run (adres al geverifieerd, nog niet gemaild, één per run): **iPhoneSoft** (FR,
+  redaction@iphonesoft.fr), **iTopnews** (DE, info@itopnews.de), **Applesfera** (ES, nog nalopen).
