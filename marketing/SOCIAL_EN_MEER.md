@@ -464,3 +464,16 @@ Duski 1.1 heeft een Duitse UI, en de Duitse App Store-listing is Duitstalig (iTu
   Android Headlines, Android Authority, iDownloadBlog, appgefahren, iPhone-Ticker.
 - Verse kandidaten voor de volgende run (adres al geverifieerd, nog niet gemaild, één per run): **iPhoneSoft** (FR,
   redaction@iphonesoft.fr), **iTopnews** (DE, info@itopnews.de), **Applesfera** (ES, nog nalopen).
+
+---
+
+## Ronde 26 oktober 2026 — Franstalig (nieuw taalgebied sinds v1.1)
+Eerst de volledige checklist in dit bestand nagelopen: iPhoneSoft stond nog niet als gemaild.
+- [x] **iPhoneSoft** (FR): redaction@iphonesoft.fr, 26 oktober 2026 gemaild via het SMTP-script. **Eerste contact.**
+  Het adres staat als mailto ("Nous contacter") op de eigen site. Geen betaald-/zelfpromotie-/AI-verbod gevonden.
+  De FR-App Store-listing gecheckt (iTunes-lookup FR: v1.1, gratis, FR in de talenlijst). Gestuurd: een korte
+  Franstalige 1-op-1 app-tip ("pas une demande d'article sponsorisé") met de feiten uit het feitenblad (4 gratis
+  geluiden, 26 in totaal, € 0,99/mnd of € 9,99/jaar, eerste maand gratis, babymodus met volumelimiet),
+  FR-App Store + Google Play. Bewust **niet** geclaimd dat de Android-UI Frans is. Niet nog eens mailen zonder reactie.
+- Verse kandidaten voor de volgende run (één per run): **iTopnews** (DE, info@itopnews.de, Impressum
+  geverifieerd) en **Applesfera** (ES, nog nalopen).
