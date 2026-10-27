@@ -477,3 +477,17 @@ Eerst de volledige checklist in dit bestand nagelopen: iPhoneSoft stond nog niet
   FR-App Store + Google Play. Bewust **niet** geclaimd dat de Android-UI Frans is. Niet nog eens mailen zonder reactie.
 - Verse kandidaten voor de volgende run (één per run): **iTopnews** (DE, info@itopnews.de, Impressum
   geverifieerd) en **Applesfera** (ES, nog nalopen).
+
+---
+
+## Ronde 27 oktober 2026 — Duitstalig, vervolg
+Eerst de volledige checklist in dit bestand nagelopen: iTopnews stond nog niet als gemaild.
+- [x] **iTopnews** (DE): info@itopnews.de, 27 oktober 2026 gemaild via het SMTP-script. **Eerste contact.**
+  Impressum opnieuw gecheckt: info@ is het algemene contact én het adres achter "News-Tipp einsenden" (onderwerp
+  begonnen met "News-Tipp"); advertenties lopen apart via michael@. Geen betaald-/zelfpromotie-/AI-verbod gevonden.
+  DE-App Store-listing gecheckt (iTunes-lookup DE: v1.1, gratis, DE in de talenlijst). Gestuurd: dezelfde Duitstalige
+  1-op-1 app-tip als appgefahren (feitenblad, DE-App Store + Google Play, "keine Anfrage für einen bezahlten
+  Beitrag"). Niet nog eens mailen zonder reactie.
+- **Applesfera** (ES): geen redactie-adres gevonden (alleen een contactformulier volgens een oud redactieblog;
+  onderdeel van Webedia) → niet gemaild. Kandidaat voor formulier-voorbereiding door Ed.
+- Volgende run: een nieuw Spaanstalig of Italiaans iOS-blog zoeken (adres op de site zelf verifiëren).
