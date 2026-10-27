@@ -6,6 +6,7 @@ import StoreKit
 struct PremiumView: View {
     @ObservedObject var abonnement: AbonnementManager
     @Environment(\.dismiss) private var dismiss
+    @State private var toontCodeInwisselen = false
 
     var body: some View {
         NavigationStack {
@@ -45,8 +46,14 @@ struct PremiumView: View {
                         ProgressView()
                     }
 
-                    Button("Aankopen herstellen") {
-                        Task { await abonnement.herstelAankopen() }
+                    HStack(spacing: 16) {
+                        Button("Aankopen herstellen") {
+                            Task { await abonnement.herstelAankopen() }
+                        }
+                        // Offer codes (bv. uit App Store Connect) inwisselen via Apples eigen sheet.
+                        Button("Code inwisselen") {
+                            toontCodeInwisselen = true
+                        }
                     }
                     .font(.footnote)
 
@@ -65,6 +72,11 @@ struct PremiumView: View {
                     Button("Sluiten") { dismiss() }
                 }
             }
+        }
+        .offerCodeRedemption(isPresented: $toontCodeInwisselen) { _ in
+            // De transactie komt ook via Transaction.updates binnen; direct bijwerken
+            // zodat de paywall meteen sluit na een geslaagde inwisseling.
+            Task { await abonnement.werkAbonnementStatusBij() }
         }
         .task { await abonnement.laadProducten() }
         .onChange(of: abonnement.heeftPremium) { _, heeftPremium in
