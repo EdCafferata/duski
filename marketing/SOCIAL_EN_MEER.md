@@ -491,3 +491,27 @@ Eerst de volledige checklist in dit bestand nagelopen: iTopnews stond nog niet a
 - **Applesfera** (ES): geen redactie-adres gevonden (alleen een contactformulier volgens een oud redactieblog;
   onderdeel van Webedia) → niet gemaild. Kandidaat voor formulier-voorbereiding door Ed.
 - Volgende run: een nieuw Spaanstalig of Italiaans iOS-blog zoeken (adres op de site zelf verifiëren).
+
+---
+
+## Ronde 29 oktober 2026 — Spaans- en Italiaanstalig
+Eerst de volledige checklist in dit bestand nagelopen: iPhonea2, iSpazio en Macitynet stonden er nog niet in.
+- [x] **iPhonea2** (ES, netwerk Actualidad Blog): iphonea2@actualidadblog.com, 29 oktober 2026 gemaild via het
+  SMTP-script. **Eerste contact.** De eigen contactpagina (iphonea2.com/contacto) zegt letterlijk dat je voor contact
+  dit adres mailt; de ética-editorial-pagina noemt geen betaald-/zelfpromotie-/AI-verbod. ES-App Store-listing gecheckt
+  (iTunes-lookup ES: v1.1, gratis, ES in de talenlijst). Gestuurd: korte Spaanstalige 1-op-1 app-tip ("no es una
+  solicitud de artículo patrocinado") met de feiten uit het feitenblad, ES-App Store + Google Play. Bewust **niet**
+  geclaimd dat de Android-UI Spaans is. Niet nog eens mailen zonder reactie.
+  - Zusterblog **Actualidad iPhone** (zelfde netwerk) toont alleen een googlegroups-adres → bewust niet apart gemaild.
+- [ ] **iSpazio** (IT, groot Apple-blog sinds 2007) — alleen webformulier (ispazio.net/contatti, keuze "Segnalaci la
+  tua app per promuoverla su iSpazio": "Presentaci la tua app: la proviamo e, se ci convince, ne parliamo"). Gratis
+  route; betaalde QuickApp-slots/gesponsorde artikelen bestaan apart en zijn **niet** bedoeld. AI-beleid gaat alleen
+  over hun eigen redactie. Formulier voor Ed: motief "Segnalaci la tua app", link = IT-App Store-URL
+  (https://apps.apple.com/it/app/duski-by-the-it-crowd/id6806373286), bericht = Italiaanse versie van de
+  iPhonea2-tip (4 suoni gratuiti, 26 con Premium a 0,99 €/mese o 9,99 €/anno, primo mese gratis, tutto generato sul
+  dispositivo, nessun account, nessuna pubblicità; Google Play-link erbij). Wacht op verzending door Ed.
+- [ ] **Macitynet** (IT) — alleen webformulier (macitynet.it/contatti/, "Se volete segnalare … una applicazione …
+  potete usare il modulo"); app-reviews bij Andrea Gilardoni. Zelfde Italiaanse tekst als iSpazio. Wacht op
+  verzending door Ed.
+- Volgende run: een Portugees-/Braziliaans iOS-blog (macmagazine.com.br gaf 403) of Japans kanaal zoeken, adres op de
+  site zelf verifiëren.
