@@ -521,3 +521,23 @@ Eerst de volledige checklist in dit bestand nagelopen: iPhonea2, iSpazio en Maci
   verzending door Ed.
 - Volgende run: een Portugees-/Braziliaans iOS-blog (macmagazine.com.br gaf 403) of Japans kanaal zoeken, adres op de
   site zelf verifiëren.
+
+---
+
+## Ronde 30 oktober 2026 — Portugeestalig
+Eerst de volledige checklist in dit bestand nagelopen: MacMagazine en Pplware stonden er nog niet in.
+- [ ] **MacMagazine** (BR, groot Apple-blog) — alleen webformulier (macmagazine.com.br/contato/, dat expliciet
+  "sugestões de aplicativos" en "contato de desenvolvedores" noemt). Geen betaald-/AI-regel op die pagina. PT-App
+  Store-lookup: v1.1, gratis, PT in de talenlijst. Tekst voor Ed, wacht op verzending door Ed:
+  > Olá, equipe do MacMagazine! Uma sugestão de app: Duski, um app de sons para dormir que criamos, com a interface
+  > em português. Você combina sons como ruído marrom, chuva ou batimentos cardíacos, cada um com seu volume, e usa um
+  > temporizador com fade-out. O modo bebê tem limite de volume. Todo o som é gerado no próprio aparelho, sem conta e
+  > sem anúncios. Download grátis com 4 sons; o Premium (26 sons) tem o primeiro mês grátis. Não é um pedido de
+  > artigo patrocinado.
+  > App Store: https://apps.apple.com/br/app/duski-by-the-it-crowd/id6806373286
+  > Google Play: https://play.google.com/store/apps/details?id=info.cafferata.duski
+- **Pplware** (PT): niet gemaild. Productpromotie wordt volgens de zoekindex naar het commerciële adres (pub@) verwezen,
+  dus dat lijkt een betaalde route. geral@ is geen tip-ingang.
+- Ook bekeken: iPhoneAddict, MacG, Tuttoandroid, iPhoneros (geen adres op de contactpagina), ipadizate (alleen
+  krantenredactie van El Nacional), iPhoneItalia en iHelp BR (blokkeren geautomatiseerde toegang) → overgeslagen.
+- Volgende run: een Japans kanaal, of de nog niet nagelopen iHelp BR/iPhoneItalia via de browser.

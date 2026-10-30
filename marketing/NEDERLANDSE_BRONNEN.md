@@ -331,3 +331,10 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
 - **Gezinsbond** (De Bond, Brieven aan Jonge Ouders) — alleen contactformulier + persberichten-site, geen
   redactie-adres; niet gemaild. Kandidaat voor formulier-voorbereiding door Ed.
 - **Libelle Mama BE**, **Kiind** (heet nu Wilde Vrouw), **Techpulse.be** — geen redactie-adres gevonden.
+
+## Ronde 30 oktober 2026
+- [x] **Mamaliefde.nl** (familieplatform, actief in 2026): mamaliefde@gmail.com, 30 oktober 2026 gemaild via het
+  SMTP-script. **Eerste contact.** De eigen contactpagina noemt dit adres voor vragen, suggesties en persberichten;
+  advertorials/betaalde samenwerkingen bestaan apart en zijn niet gevraagd. Geen concurrerende app achter de site gezien.
+  Gestuurd: korte tip met feitenblad-feiten, App Store + Google Play, "geen verzoek om een betaalde samenwerking".
+  Niet nog eens mailen zonder reactie.
