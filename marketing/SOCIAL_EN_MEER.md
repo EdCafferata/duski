@@ -312,6 +312,12 @@ met de generieke indie-app-pitch (licht aangepast als app-tip).
 ## Checklist
 
 - [x] TapSmart — tomjrolfe@intelligenti.com — 17 augustus 2026, verzonden via iCloud Mail
+  - ↪ 29 oktober 2026: Tom Rolfe antwoordde (op de 22 okt-mail van The IT Crowd): hij
+    vertrekt bij TapSmart (neemt dit soort pitches niet meer aan, inbox sluit binnenkort).
+    Hij runt nog **Swipe** (swipemag.app) → nieuw adres **tom@swipemag.app**; de Indie Apps
+    Showcase loopt door via een **Google-formulier** voor app-pitches (link in zijn mail).
+    ⬜ **Ed doet dit:** formulier invullen (indienen = Eds actie). Oude intelligenti-adres
+    niet meer gebruiken.
 - [x] Indie Dev Monday — lookatme@indiedevmonday.com — 17 augustus 2026, verzonden via iCloud Mail
 - [x] Springboard App Picks — springboard@darylbaxter.com — 17 augustus 2026, verzonden via iCloud Mail
 - [ ] r/IndieAppNews — "App Introduction"-post — tekst voorbereid (3 september
