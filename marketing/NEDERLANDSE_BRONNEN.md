@@ -338,3 +338,13 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
   advertorials/betaalde samenwerkingen bestaan apart en zijn niet gevraagd. Geen concurrerende app achter de site gezien.
   Gestuurd: korte tip met feitenblad-feiten, App Store + Google Play, "geen verzoek om een betaalde samenwerking".
   Niet nog eens mailen zonder reactie.
+
+## Ronde 31 oktober 2026
+- [x] **MamsatWork.nl** (food-/lifestylesite met ouderschapsrubriek, Joyce van de Pas): info@mamsatwork.nl, 31 oktober
+  2026 gemaild via het SMTP-script. **Eerste contact.** De contactpagina noemt dit adres voor vragen over bloggen,
+  adverteren, gastblogs en overige berichten; betaalde plaatsing bestaat mogelijk apart en is niet gevraagd. De eigen
+  app van de site is een recepten-app, dus geen concurrent. Gestuurd: korte tip met feitenblad-feiten, App Store +
+  Google Play, "geen verzoek om een betaalde samenwerking". Niet nog eens mailen zonder reactie.
+- Aandachtspunt babyhoek: VRT NWS (5 december 2025) waarschuwt voor gewenning aan witte ruis bij baby's, en een
+  secundaire bron meldt dat het NCJ het afraadt (origineel niet gecontroleerd). In pitches daarom alleen de feiten noemen
+  (babymodus met volumelimiet), geen slaap- of gezondheidsbelofte.

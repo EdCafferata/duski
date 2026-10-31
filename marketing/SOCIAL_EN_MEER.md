@@ -541,3 +541,15 @@ Eerst de volledige checklist in dit bestand nagelopen: MacMagazine en Pplware st
 - Ook bekeken: iPhoneAddict, MacG, Tuttoandroid, iPhoneros (geen adres op de contactpagina), ipadizate (alleen
   krantenredactie van El Nacional), iPhoneItalia en iHelp BR (blokkeren geautomatiseerde toegang) → overgeslagen.
 - Volgende run: een Japans kanaal, of de nog niet nagelopen iHelp BR/iPhoneItalia via de browser.
+
+---
+
+## Ronde 31 oktober 2026 — Japans
+Eerst de volledige checklist in dit bestand nagelopen: geen van onderstaande stond erin. JP-App Store-lookup: v1.1,
+gratis, JA in de talenlijst. Geen enkel kanaal gemaild of klaargezet.
+- **isuta** ⛔ gesloten per 30 november 2025 (iphone-girl.jp verwijst daarheen).
+- **Appliv** (app-liv.jp): de zoekindex beschrijft een gratis reviewaanvraag, maar die pagina geeft nu 404, en de site is
+  een affiliatesite met een eigen route "app-promotie". Niet bruikbaar zonder actuele aanvraagpagina.
+- **iPhone Mania, AppBank, Danshi Hack, taisy0**: contactpagina bereikbaar, geen e-mailadres in de paginabron; de
+  formulieren zijn niet nagelopen op regels. **Appllio, macotakara, Gizmodo JP, Lifehacker JP**: contact-URL gaf 404.
+- Volgende run: de vier formulierkandidaten beoordelen op regels, of iHelp BR/iPhoneItalia via de browser.
