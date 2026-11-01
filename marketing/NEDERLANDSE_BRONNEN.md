@@ -348,3 +348,12 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
 - Aandachtspunt babyhoek: VRT NWS (5 december 2025) waarschuwt voor gewenning aan witte ruis bij baby's, en een
   secundaire bron meldt dat het NCJ het afraadt (origineel niet gecontroleerd). In pitches daarom alleen de feiten noemen
   (babymodus met volumelimiet), geen slaap- of gezondheidsbelofte.
+
+## Ronde 1 november 2026
+- [x] **MamaKletst.nl** (lifestyle- en moederblog, nieuwste artikel 6 oktober 2026): contact@mamakletst.nl, 1 november
+  2026 gemaild via het SMTP-script. **Eerste contact.** De contactpagina noemt dit adres voor vragen en samenwerkingen;
+  regels over promotie of AI staan er niet, en een eigen slaap-app heeft de site niet. Gestuurd: korte tip met feiten,
+  App Store + Google Play, "geen verzoek om een betaalde samenwerking". Niet nog eens mailen zonder reactie.
+- Ook bekeken: **De Betere Wereld** (debeterewereld.nl, slaaprubriek): alleen contactformulier, kandidaat voor
+  voorbereiding door Ed; redactionele richtlijnen nog niet gelezen. **MAX Vandaag**: formulier zonder tip- of persoptie,
+  overgeslagen. **Lifehacking.nl**: verwijst nu door naar id.nl, niet verder bekeken.
