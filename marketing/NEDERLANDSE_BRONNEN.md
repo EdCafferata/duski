@@ -357,3 +357,13 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
 - Ook bekeken: **De Betere Wereld** (debeterewereld.nl, slaaprubriek): alleen contactformulier, kandidaat voor
   voorbereiding door Ed; redactionele richtlijnen nog niet gelezen. **MAX Vandaag**: formulier zonder tip- of persoptie,
   overgeslagen. **Lifehacking.nl**: verwijst nu door naar id.nl, niet verder bekeken.
+
+## Ronde 2 november 2026 — senioren als nieuwe NL-hoek
+- [x] **SeniorWeb** (seniorweb.nl, vereniging die ouderen helpt met computer, tablet en smartphone; tijdschrift Enter,
+  wekelijkse nieuwsbrieven, tips over apps): info@seniorweb.nl, 2 november 2026 gemaild via het SMTP-script. **Eerste
+  contact.** Dit adres staat zowel op de contactpagina als op de perspagina. Geen zelfpromotie-/AI-verbod of betaalde
+  route gevonden; geen eigen slaap-app. Invalshoek: leeftijdsgroepen tot "oudere", eenvoudig, geen account, offline.
+  Gestuurd: korte tip met feitenblad-feiten (incl. gratis deel en Premiumprijs), App Store + Google Play, "geen verzoek om
+  een betaalde samenwerking". Niet nog eens mailen zonder reactie.
+- Seniorenmedia zijn nog niet verder verkend; kandidaten voor volgende runs: PlusOnline, 50PlusToday, ANBO-magazine
+  (eerst redactie-adres en regels controleren). MAX Vandaag bleek op 1 november al formulier-only.
