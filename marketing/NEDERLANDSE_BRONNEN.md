@@ -367,3 +367,15 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
   een betaalde samenwerking". Niet nog eens mailen zonder reactie.
 - Seniorenmedia zijn nog niet verder verkend; kandidaten voor volgende runs: PlusOnline, 50PlusToday, ANBO-magazine
   (eerst redactie-adres en regels controleren). MAX Vandaag bleek op 1 november al formulier-only.
+
+## Ronde 7 november 2026 — senioren (vervolg)
+- [x] **ANBO-PCOB** (anbo-pcob.nl, seniorenbond na samenvoeging ANBO + PCOB; ledenmagazine *Ouder en Wijzer*, 8x per
+  jaar per post): contact@anbo-pcob.nl, 7 november 2026 gemaild via het SMTP-script. **Eerste contact.** Geen apart
+  redactie-/persadres gevonden (contact-, magazine- en mediapagina tonen alleen contact@ en adviesteam@), dus gevraagd
+  de tip door te sturen naar de redactie van Ouder en Wijzer. Adverteren is een aparte (betaalde) route; die is niet
+  gebruikt. Geen zelfpromotie-/AI-verbod gevonden. Gestuurd: korte tip met feitenblad-feiten (leeftijdsgroep tot
+  "oudere", geen account/tracking, sleeptimer, 30 dagen gratis, Premium € 0,99/mnd), App Store + Google Play,
+  "geen verzoek om een betaalde samenwerking of advertentie". Niet nog eens mailen zonder reactie.
+- **PlusOnline / Plus Magazine** (Roularta Media Nederland): contactpagina zit achter een Roularta-login, geen
+  redactieadres gevonden (alleen consumentenservice); overgeslagen. **50PlusToday**: domein 50plustoday.nl bestaat
+  niet (meer). Overige seniorenkandidaten voor een volgende run: KBO-Brabant (eigen ledenblad), Seniorenkoepel NOOM.
