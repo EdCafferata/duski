@@ -379,3 +379,14 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
 - **PlusOnline / Plus Magazine** (Roularta Media Nederland): contactpagina zit achter een Roularta-login, geen
   redactieadres gevonden (alleen consumentenservice); overgeslagen. **50PlusToday**: domein 50plustoday.nl bestaat
   niet (meer). Overige seniorenkandidaten voor een volgende run: KBO-Brabant (eigen ledenblad), Seniorenkoepel NOOM.
+
+## Ronde 11 november 2026 — senioren (vervolg)
+- [x] **ONS magazine** (Senioren Brabant-Zeeland, voorheen KBO-Brabant; 11x per jaar, ca. 122.000 leden, rubrieken
+  met o.a. ontspanningstips): **redactie@onsmagazine.nl** (redactie, contactpersoon Jacquelien Cuppers; vermeld op
+  seniorenbrabantzeeland.nl/ons-magazine/ en onsmagazine.nl/contact/), 11 november 2026 gemaild via het SMTP-script.
+  **Eerste contact.** Adverteren loopt apart via Performis (betaald), niet gebruikt. Geen zelfpromotie-/AI-verbod
+  gevonden. Gestuurd: korte tip voor de ontspannings-/slaaprubriek (rustige geluiden, sleeptimer met fade-out,
+  Nederlandstalig, geen account/reclame/tracking, werkt offline, 4 gratis geluiden, Premium 30 dagen gratis, daarna
+  € 0,99/mnd of € 9,99/jaar), App Store + Google Play, "geen verzoek om een betaalde samenwerking of advertentie".
+  Niet nog eens mailen zonder reactie.
+- Volgende seniorenkandidaat: Seniorenkoepel NOOM (redactieadres en regels nog controleren).
