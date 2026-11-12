@@ -390,3 +390,15 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
   € 0,99/mnd of € 9,99/jaar), App Store + Google Play, "geen verzoek om een betaalde samenwerking of advertentie".
   Niet nog eens mailen zonder reactie.
 - Volgende seniorenkandidaat: Seniorenkoepel NOOM (redactieadres en regels nog controleren).
+
+## Ronde 12 november 2026 — senioren (Vlaanderen)
+- **Seniorenkoepel NOOM**: blijkt een netwerk van organisaties van oudere migranten, zonder eigen ledenblad of
+  redactieadres → overgeslagen.
+- [x] **OKRA** (Vlaamse seniorenvereniging, ledenblad OKRA-magazine + nieuwsbrief): geen apart redactieadres; de
+  perspagina okra.be/pers noemt **communicatie@okra.be** (pers/communicatie). 12 november 2026 gemaild via het
+  SMTP-script. **Eerste contact.** Advertenties lopen via Trevi plus (betaald), niet gebruikt. Geen
+  zelfpromotie-/AI-verbod gevonden. Gestuurd: tip voor het magazine/de nieuwsbrief (rustige geluiden, sleeptimer met
+  fade-out, Nederlandstalig, geen account/reclame/tracking, offline, 4 gratis geluiden, Premium 30 dagen gratis, daarna
+  € 0,99/mnd of € 9,99/jaar), App Store (BE) + Google Play, "geen verzoek om een betaalde samenwerking of
+  advertentie". Niet nog eens mailen zonder reactie.
+- Volgende seniorenkandidaat: Vief (Vlaanderen) of S-Plus (redactieadres en regels nog controleren).
