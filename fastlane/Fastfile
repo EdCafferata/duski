@@ -111,4 +111,24 @@ platform :ios do
     )
   end
 
+  # ─── 1.2 indienen: reeds geuploade build 8 + ASO-metadata, voor review ─────
+  desc "Versie 1.2 aanmaken, build 8 koppelen, metadata uploaden en indienen"
+  lane :submit_12 do
+    upload_to_app_store(
+      api_key:                            API_KEY,
+      app_identifier:                     BUNDLE_ID,
+      app_version:                        "1.2",
+      build_number:                       "8",
+      skip_binary_upload:                 true,
+      skip_screenshots:                   true,
+      metadata_path:                      "fastlane/metadata",
+      submit_for_review:                  true,
+      automatic_release:                  false,
+      force:                              true,
+      run_precheck_before_submit:         false,
+      precheck_include_in_app_purchases:  false,
+      submission_information:             { add_id_info_uses_idfa: false }
+    )
+  end
+
 end

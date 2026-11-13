@@ -1,4 +1,1 @@
-New in 1.1:
-• Duski now speaks English, German, French, Spanish, Portuguese, Italian and Japanese, next to Dutch
-• New yearly Premium plan, next to the monthly plan
-• Clearer Premium screen
+Small refinements under the hood for a smoother night's sleep. Thank you for using Duski!
