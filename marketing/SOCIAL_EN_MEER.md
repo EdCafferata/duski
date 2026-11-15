@@ -561,3 +561,6 @@ gratis, JA in de talenlijst. Geen enkel kanaal gemaild of klaargezet.
   geplaatst; Facebook-delen voor deze post uitgezet: https://www.instagram.com/p/DfxouQsB1_l/
 - Reacties op de influencer-DM's (15 november 2026 gecheckt): nog geen echte reactie. Alleen Azzurra Spreafico
   stuurde een automatisch welkomstantwoord met een link naar haar (betaalde) diensten. Geen berichtverzoeken.
+- [x] Facebook (15 november 2026): Duski meegenomen in één openbare post op Eds persoonlijke profiel (samen met
+  Dicom Viewer, App Store + Google Play-links); geplaatst door Ed. Details in de DICOM-player-repo,
+  `marketing/SOCIAL_EN_MEER.md`.
