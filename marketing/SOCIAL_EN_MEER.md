@@ -553,3 +553,11 @@ gratis, JA in de talenlijst. Geen enkel kanaal gemaild of klaargezet.
 - **iPhone Mania, AppBank, Danshi Hack, taisy0**: contactpagina bereikbaar, geen e-mailadres in de paginabron; de
   formulieren zijn niet nagelopen op regels. **Appllio, macotakara, Gizmodo JP, Lifehacker JP**: contact-URL gaf 404.
 - Volgende run: de vier formulierkandidaten beoordelen op regels, of iHelp BR/iPhoneItalia via de browser.
+
+## Instagram (15 november 2026) — eerste Duski-post op @ed_cafferata ✅ gepost
+- [x] Post "Rustig in slaap vallen" (onboarding-screenshot met de vijf leeftijdsgroepen, 4:5): live gegenereerde
+  geluiden zonder hoorbare herhaling, babymodus met begrensd volume, geen account/reclame, offline, 4 gratis geluiden,
+  iPhone + Android, link in bio. Nederlandstalig (NL-iOS-kanaal mag). Op verzoek van Ed via Claude in Chrome
+  geplaatst; Facebook-delen voor deze post uitgezet: https://www.instagram.com/p/DfxouQsB1_l/
+- Reacties op de influencer-DM's (15 november 2026 gecheckt): nog geen echte reactie. Alleen Azzurra Spreafico
+  stuurde een automatisch welkomstantwoord met een link naar haar (betaalde) diensten. Geen berichtverzoeken.
