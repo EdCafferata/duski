@@ -402,3 +402,15 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
   € 0,99/mnd of € 9,99/jaar), App Store (BE) + Google Play, "geen verzoek om een betaalde samenwerking of
   advertentie". Niet nog eens mailen zonder reactie.
 - Volgende seniorenkandidaat: Vief (Vlaanderen) of S-Plus (redactieadres en regels nog controleren).
+
+## Ronde 15 november 2026 — senioren (Vlaanderen)
+- **Vief**: geen eigen site/redactieadres te vinden (vief.be niet bereikbaar, zoekresultaten leveren alleen
+  bedrijfsregistraties op) → overgeslagen.
+- [x] **Neos vzw** (Vlaamse seniorenvereniging, Sint-Niklaas; ledenblad Neos-Magazine + nieuwsbrief/digizine):
+  geen apart redactieadres; contactpagina neosvzw.be/contact en het magazine zelf noemen **welkom@neosvzw.be**.
+  15 november 2026 gemaild via het SMTP-script. **Eerste contact.** Geen advertentievoorwaarden of
+  zelfpromotie-/AI-verbod gevonden. Gestuurd: tip voor het magazine/de nieuwsbrief (rustige geluiden, sleeptimer met
+  fade-out, Nederlandstalig, geen account/reclame/tracking, offline, 4 gratis geluiden, Premium 30 dagen gratis, daarna
+  € 0,99/mnd of € 9,99/jaar), App Store (BE) + Google Play, "geen verzoek om een betaalde samenwerking of
+  advertentie". Niet nog eens mailen zonder reactie.
+- Volgende seniorenkandidaat: S-Plus (redactieadres en regels nog controleren).
