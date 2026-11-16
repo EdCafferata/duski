@@ -414,3 +414,20 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
   € 0,99/mnd of € 9,99/jaar), App Store (BE) + Google Play, "geen verzoek om een betaalde samenwerking of
   advertentie". Niet nog eens mailen zonder reactie.
 - Volgende seniorenkandidaat: S-Plus (redactieadres en regels nog controleren).
+
+## Ronde 16 november 2026 — nieuwe hoek: oorsuizen/slechthorendheid
+- **S-Plus** (Vlaamse seniorenvereniging): alleen regionale adressen (bv. brabant@s-plusvzw.be), geen landelijk
+  redactieadres van een ledenblad gevonden, dus overgeslagen. De seniorenhoek in NL/Vlaanderen is daarmee vrijwel
+  uitgeput.
+- [x] **Stichting Hoormij·NVVS** (patiëntenvereniging voor slechthorendheid, tinnitus en hyperacusis; magazine
+  HOREN, nieuwsbrief, Tinnituscommissie): de contactpagina stichtinghoormij.nl/contact noemt
+  **redactie@stichtinghoormij.nl** voor pers- en communicatievragen. Gemaild op 16 november 2026 via het
+  SMTP-script. **Eerste contact.** Adverteren is een aparte (betaalde) route en is niet gebruikt. Geen
+  zelfpromotie-/AI-verbod gevonden. Invalshoek: een zacht achtergrondgeluid bij het inslapen (witte/roze/bruine
+  ruis, regen, sleeptimer met fade-out). **Expliciet vermeld dat het geen behandeling of medisch hulpmiddel is.**
+  Verder: geen account/reclame/tracking, offline, 4 gratis geluiden, Premium 30 dagen gratis en daarna € 0,99/mnd
+  of € 9,99/jaar, App Store + Google Play, "geen verzoek om een betaalde samenwerking of advertentie". Niet nog
+  eens mailen zonder reactie.
+- Kandidaten voor een volgende run in dezelfde hoek: tinnitus@stichtinghoormij.nl niet ook mailen, want het is
+  dezelfde organisatie. Mogelijk wel Belgische tinnitus- of hoorverenigingen (bv. Tinnitus Liga, VLAPO), adres en
+  regels nog controleren.
