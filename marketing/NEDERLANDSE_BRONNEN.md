@@ -431,3 +431,20 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
 - Kandidaten voor een volgende run in dezelfde hoek: tinnitus@stichtinghoormij.nl niet ook mailen, want het is
   dezelfde organisatie. Mogelijk wel Belgische tinnitus- of hoorverenigingen (bv. Tinnitus Liga, VLAPO), adres en
   regels nog controleren.
+
+## Ronde 17 november 2026 — nieuwe hoek: gezinsorganisaties (Vlaanderen)
+- **Belgische tinnitusverenigingen**: "Tinnitus Liga" bestaat in België niet (alleen de Duitse Deutsche
+  Tinnitus-Liga). **VLATI** (Vlaamse tinnitusvereniging, blad enkele keren per jaar) wordt in VRT NWS genoemd, maar
+  er is geen site of adres te vinden → overgeslagen.
+- [x] **Gezinsbond** (grootste Vlaamse gezinsorganisatie; ledenmagazine De Bond, 10x per jaar, plus nieuwsbrieven):
+  geen redactieadres op gezinsbond.be (contactpagina heeft alleen een formulier). De persroom nieuws.gezinsbond.be
+  noemt **pers@gezinsbond.be** (persmedewerker Lien Swinnen). Gemaild op 17 november 2026 via het SMTP-script.
+  **Eerste contact.** Geen advertentievoorwaarden of zelfpromotie-/AI-verbod gevonden; "samenwerken met de
+  Gezinsbond" gaat over lokale activiteiten, niet over bedrijven. Gestuurd: tip voor De Bond/de nieuwsbrief
+  (rustige geluiden voor baby's, kinderen en ouders, eigen mix met volume per geluid, sleeptimer met fade-out,
+  babymodus met begrensd volume, Nederlandstalig, geen account/reclame/tracking, offline, 4 gratis geluiden, Premium
+  30 dagen gratis, daarna € 0,99/mnd of € 9,99/jaar), App Store (BE) + Google Play, "geen verzoek om een betaalde
+  samenwerking of advertentie". Niet nog eens mailen zonder reactie.
+- Kandidaten voor een volgende run: **Kind en Gezin / Opgroeien** (Vlaams agentschap; nagaan of tips van apps
+  überhaupt worden opgenomen) of de Nederlandse **NVOK/Bond van Grote Gezinnen**-hoek. Adres en regels nog
+  controleren.
