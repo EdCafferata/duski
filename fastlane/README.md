@@ -55,6 +55,14 @@ Upload beschrijving en release notes naar App Store Connect
 
 Update promotional tekst op de live versie
 
+### ios submit_12
+
+```sh
+[bundle exec] fastlane ios submit_12
+```
+
+Versie 1.2 aanmaken, build 8 koppelen, metadata uploaden en indienen
+
 ----
 
 This README.md is auto-generated and will be re-generated every time [_fastlane_](https://fastlane.tools) is run.

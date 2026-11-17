@@ -89,3 +89,17 @@
   nieuwe versie te wijzigen. Voorbereid: `fastlane/metadata/{en-US,de-DE,es-ES,fr-FR,it,ja,pt-BR}/{support,marketing,privacy}_url.txt`
   wijzen nu naar `/duski/en/…` (nl-NL ongewijzigd). **Bij de volgende versie (1.1.1/1.2) via de API doorzetten vóór het indienen.**
   Tot dan komen niet-NL-bezoekers op de NL-pagina met de "English"-wisselknop.
+
+## 6 november 2026 (sessie met Ed)
+- **TikTok re-post:** POV-clip ("brain won't shut up", `scratch_marketing/duski-tiktok.mp4`) opnieuw geplaatst via TikTok Studio
+  met een frisse EN-caption + hashtags (#cantsleep #insomnia #sleepsounds #brownnoise #rainsounds #sleeptok #asmr #duski),
+  openbaar, account **The IT Crowd** (@cafferatae). Ed tikte zelf "Plaatsen". De 2 eerdere posts liepen nog niet (74 & 89
+  weergaven, 0 likes). **Afgesproken: morgen een paar NIEUWE clips opnemen** uit de 24 concepten (`marketing/tiktok-batch-01/02.md`) —
+  dezelfde clip vaker herposten knijpt het bereik af, nieuwe content is nodig.
+- **Influencer-outreach (IG, gift iOS offer codes):** 3 nieuwe, live-geverifieerde baby-slaap-creators benaderd —
+  @thehappysleepcompany (Erin, 27,9k), @lisas_little_sleepers (Lisa, 25,9k), @themamacoach.marina (Marina RN, 4,7k).
+  Nu **9 verstuurd in november, 36 codes over**, nog geen DM-reacties op de 9. Tracker + codelijst: `scratch_marketing/`.
+
+## 17 nov 2026
+- **Mama Baas (BE, Lannoo)** heeft Duski opgenomen in een artikel over handige apps van ouders: https://www.mamabaas.be/momlife/algemeen/van-slaaprituelen-tot-gezinsplanning-deze-apps-maken-het-leven-van-ouders-net-iets (antwoord Lore De Vilder op onze tip van 12 okt). Zaterdag 21 nov gedeeld op hun Facebookpagina.
+- Jesse Giezen (NL) maakt TikTok-filmpjes; iOS-code + 9 concepten gemaild.
