@@ -448,3 +448,17 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
 - Kandidaten voor een volgende run: **Kind en Gezin / Opgroeien** (Vlaams agentschap; nagaan of tips van apps
   überhaupt worden opgenomen) of de Nederlandse **NVOK/Bond van Grote Gezinnen**-hoek. Adres en regels nog
   controleren.
+
+## Ronde 18 november 2026 — ouderbladen (NL)
+- **OneMoreThing/WANT.nl** opnieuw gecontroleerd: onemorething.nl verwijst nog steeds door naar want.nl/tech/apple,
+  en want.nl was deze run niet bereikbaar. Blijft ⛔ (zie hierboven).
+- [x] **WIJ** (WIJ Special Media: WIJ jonge ouders, de jaarlijkse WIJ Baby): de contactpagina noemt geen apart
+  redactieadres, alleen **contact@wij.nl** (algemeen) en consumentenservice@wij.nl. Gemaild op 18 november 2026 via
+  het SMTP-script naar contact@wij.nl, met het verzoek het door te sturen als het niet de juiste ingang is.
+  **Eerste contact.** Geen zelfpromotie- of AI-verbod gevonden; advertenties lopen apart. Gestuurd: tip voor het blad
+  of de nieuwsbrief (eigen mix met volume per geluid, sleeptimer met fade-out, babymodus met begrensd volume,
+  Nederlandstalig, geen account/reclame/tracking, offline, 4 gratis geluiden, Premium 30 dagen gratis, daarna
+  € 0,99/mnd of € 9,99/jaar), App Store (NL) + Google Play, "geen verzoek om een betaalde samenwerking of
+  advertentie". Niet nog eens mailen zonder reactie.
+- Kandidaten voor een volgende run (nog open uit 17 november): **Kind en Gezin / Opgroeien** (Vlaanderen) en de
+  kraamzorghoek (bijvoorbeeld een nieuwsbrief van een grote kraamzorgorganisatie). Adres en regels nog controleren.
