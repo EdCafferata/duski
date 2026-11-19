@@ -462,3 +462,13 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
   advertentie". Niet nog eens mailen zonder reactie.
 - Kandidaten voor een volgende run (nog open uit 17 november): **Kind en Gezin / Opgroeien** (Vlaanderen) en de
   kraamzorghoek (bijvoorbeeld een nieuwsbrief van een grote kraamzorgorganisatie). Adres en regels nog controleren.
+
+## Ronde 19 november 2026 — geen NL-mail
+- **Kind en Gezin / Opgroeien** (Vlaanderen): alleen contactformulieren, geen persadres gevonden (een persmap op
+  pers.opgroeien.be noemt geen adres). Het magazine "Kind op komst" wordt via de eigen contactmomenten verspreid; het
+  is een overheidsagentschap dat waarschijnlijk geen commerciële apps tipt → overgeslagen.
+- Kraamzorg-nieuwsbrieven en een Nederlandse patiëntenvereniging voor slaapproblemen gezocht: geen redactieadres
+  gevonden. Ouders van Nu kwam weer boven, maar die kreeg al een pitch en een follow-up → geen derde mail.
+- Deze run is Duski daarom internationaal gegaan (MacDailyNews, zie `SOCIAL_EN_MEER.md`).
+- Kandidaten voor een volgende run: een grote kraamzorgorganisatie met een eigen nieuwsbrief of blog (bijv. Naviva,
+  Kraamzorg De Waarden). Adres en regels nog controleren.

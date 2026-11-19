@@ -564,3 +564,14 @@ gratis, JA in de talenlijst. Geen enkel kanaal gemaild of klaargezet.
 - [x] Facebook (15 november 2026): Duski meegenomen in één openbare post op Eds persoonlijke profiel (samen met
   Dicom Viewer, App Store + Google Play-links); geplaatst door Ed. Details in de DICOM-player-repo,
   `marketing/SOCIAL_EN_MEER.md`.
+
+## Ronde 19 november 2026 — Engelstalig iOS-nieuws
+- [x] **MacDailyNews** (VS, Apple-nieuwssite met een tag "app release"): de contactpagina (macdailynews.com/contact/)
+  noemt de redacteur **Steve Jack, stevejackr@macdailynews.com**. Geen apart tipsadres; er zijn wel "Advertise"- en
+  "Contribute"-pagina's, maar die zijn niet gebruikt. Geen zelfpromotie- of AI-verbod gevonden. Gemaild op
+  19 november 2026 via het SMTP-script. **Eerste contact.** Inhoud: 26 geluiden (4 gratis), eigen mix met volume per
+  geluid, sleeptimer met fade-out, babymodus met begrensd volume, 8 talen, geen account/reclame/tracking, offline,
+  eerste maand Premium gratis, App Store (US) + Google Play, "not a paid promotion or an advertising request". Niet
+  nog eens mailen zonder reactie.
+- **iLounge** ("Submit App News"-pagina): de URL uit de zoekresultaten gaf een 404. Niet gemaild; een volgende run kan
+  de actuele contactpagina zoeken.
