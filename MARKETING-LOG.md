@@ -103,3 +103,6 @@
 ## 17 nov 2026
 - **Mama Baas (BE, Lannoo)** heeft Duski opgenomen in een artikel over handige apps van ouders: https://www.mamabaas.be/momlife/algemeen/van-slaaprituelen-tot-gezinsplanning-deze-apps-maken-het-leven-van-ouders-net-iets (antwoord Lore De Vilder op onze tip van 12 okt). Zaterdag 21 nov gedeeld op hun Facebookpagina.
 - Jesse Giezen (NL) maakt TikTok-filmpjes; iOS-code + 9 concepten gemaild.
+
+## 19 nov 2026
+- Perstip "Tip: Duski, a calm sleep sound app for iPhone and Android" aan stevejackr@macdailynews.com is **gebounced** (550 5.1.1, adres bestaat niet, 22:27). Niet opnieuw proberen op dat adres; MacDailyNews alleen via hun tipformulier als Ed dat wil.
