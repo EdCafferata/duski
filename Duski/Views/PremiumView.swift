@@ -8,6 +8,15 @@ struct PremiumView: View {
     @Environment(\.dismiss) private var dismiss
     @State private var toontCodeInwisselen = false
 
+    /// Privacybeleid in de taal van de app: NL-pagina voor Nederlands, anders de Engelse
+    /// (cafferata.info/duski/ heeft alleen NL + /en/).
+    static var privacyURL: URL {
+        let taal = Bundle.main.preferredLocalizations.first ?? "en"
+        return URL(string: taal.hasPrefix("nl")
+                   ? "https://cafferata.info/duski/privacy.html"
+                   : "https://cafferata.info/duski/en/privacy.html")!
+    }
+
     var body: some View {
         NavigationStack {
             ScrollView {
@@ -61,7 +70,7 @@ struct PremiumView: View {
                     // en het privacybeleid in de app zelf.
                     HStack(spacing: 16) {
                         Link("Gebruiksvoorwaarden (EULA)", destination: URL(string: "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/")!)
-                        Link("Privacybeleid", destination: URL(string: "https://cafferata.info/duski/privacy.html")!)
+                        Link("Privacybeleid", destination: Self.privacyURL)
                     }
                     .font(.footnote)
                 }
