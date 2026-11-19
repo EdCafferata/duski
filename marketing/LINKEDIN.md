@@ -21,6 +21,22 @@
 <!-- Nieuwste bovenaan. Elke entry: datum, welke app, status (klaargezet/
      gepost), de tekst zelf. -->
 
+## 2026-11-19 — Duski
+**Status:** alleen tekst klaargezet (geen browserverbinding). Er was geen Chrome-extensie verbonden. NB: de run draaide pas donderdagavond in plaats van woensdagochtend. Invalshoek: v1.2 live, 1.3 in voorbereiding (min. iOS 18). Over 1.3 staat er bewust niet "nu beschikbaar" in, want die versie is nog niet ingediend.
+
+Een slaapgeluid voor je baby hoort rust te brengen, niet een fel scherm, reclame of een account dat je eerst moet aanmaken.
+
+Daarom genereert Duski alle geluiden (regen, golven, ruis, een hartslag) op je eigen telefoon. Geen opnames, geen account, geen dataverzameling. Elke leeftijdsgroep krijgt een eigen geluidenmix met een veilige volumelimiet, en de sleeptimer laat het geluid rustig uitdoven.
+
+Versie 1.2 staat sinds vorige week live, en deze week werkte ik aan 1.3. Daarmee werkt Duski straks ook op iPhones met iOS 18, zodat ouders met een wat ouder toestel niet meer buiten de boot vallen. De App Store-pagina krijgt er screenshots in alle acht talen bij.
+
+Downloaden is gratis, en Premium probeer je 30 dagen gratis.
+
+👉 iOS: https://apps.apple.com/nl/app/duski-by-the-it-crowd/id6806373286
+👉 Android: https://play.google.com/store/apps/details?id=info.cafferata.duski
+
+#indiedev #iosdev #buildinpublic
+
 ## 2026-10-23 — Duski
 **Status:** alleen tekst klaargezet (geen browserverbinding) — Chrome-extensie was verbonden, maar de toestemmingsprompt voor linkedin.com bleef 5 minuten onbeantwoord (onbemande run), dus de composer is niet geopend. Eerste Duski-post sinds de app live staat (App Store sinds 26 sep, v1.1 sinds 13 okt). NB: run draaide pas op vrijdag i.p.v. woensdag.
 
