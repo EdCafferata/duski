@@ -575,3 +575,16 @@ gratis, JA in de talenlijst. Geen enkel kanaal gemaild of klaargezet.
   nog eens mailen zonder reactie.
 - **iLounge** ("Submit App News"-pagina): de URL uit de zoekresultaten gaf een 404. Niet gemaild; een volgende run kan
   de actuele contactpagina zoeken.
+
+## Ronde 20 november 2026 — Engelstalig iOS-nieuws (Canada)
+Eerst de checklist in dit bestand nagelopen: iPhone in Canada stond er nog niet in.
+- [x] **iPhone in Canada** (CA, Apple-nieuwssite): de eigen contact- en about-pagina's tonen in de header een
+  "Submit tips"-link naar **tips@iphoneincanada.ca**. De site gebruikt affiliate-links en heeft advertenties via de
+  contactpagina; die zijn niet gebruikt. Geen zelfpromotie- of AI-verbod gevonden. Gemaild op 20 november 2026 via
+  het SMTP-script. **Eerste contact.** Inhoud: 26 geluiden (4 gratis), eigen mix met volume per geluid, sleeptimer
+  met fade-out, babymodus met begrensd volume, 8 talen (ook Engels en Frans, belangrijk voor Canada), geen
+  account/reclame/tracking, offline, eerste maand Premium gratis, App Store (CA) + Google Play, "not a paid promotion
+  or an advertising request". Niet nog eens mailen zonder reactie.
+- **iLounge**: actuele contactpagina gevonden (ilounge.com/contact-us). Daar staat letterlijk dat iLounge geen
+  persberichten wil, en er is geen tipsadres (alleen support@, ads@, privacy@) ⛔. Niet mailen.
+- **AppAdvice**: appadvice.com was op 20 november 2026 niet bereikbaar (DNS-fout) ⛔. Overgeslagen.
