@@ -588,3 +588,15 @@ Eerst de checklist in dit bestand nagelopen: iPhone in Canada stond er nog niet 
 - **iLounge**: actuele contactpagina gevonden (ilounge.com/contact-us). Daar staat letterlijk dat iLounge geen
   persberichten wil, en er is geen tipsadres (alleen support@, ads@, privacy@) ⛔. Niet mailen.
 - **AppAdvice**: appadvice.com was op 20 november 2026 niet bereikbaar (DNS-fout) ⛔. Overgeslagen.
+
+## Ronde 21 november 2026 — Engelstalig iOS-nieuws (India/internationaal)
+- [x] **iGeeksBlog** (iPhone-/Apple-how-to- en app-site, Ahmedabad): de contactpagina (igeeksblog.com/contact/)
+  noemt **info@igeeksblog.com**, en het formulier heeft een eigen onderwerp "Review Request", los van "Advertise".
+  Geen prijslijst voor reviews en geen zelfpromotie- of AI-verbod gevonden. Gemaild op 21 november 2026 via het
+  SMTP-script. **Eerste contact.** Inhoud: 26 geluiden (4 gratis), eigen mix met volume per geluid, sleeptimer met
+  fade-out, babymodus met begrensd volume, 8 talen (ook Engels), geen account/reclame/tracking, offline, eerste maand
+  Premium gratis, App Store (US) + Google Play, "not a paid promotion or an advertising request". Vraagt iGeeksBlog
+  geld voor een review, dan niet op ingaan (geen betaalde kanalen). Niet nog eens mailen zonder reactie.
+- NL-hoek (kraamzorg-nieuwsbrieven, Naviva): weer geen pers- of redactieadres gevonden, dus overgeslagen.
+- Kandidaten voor een volgende run: **iClarified** of **AppleMagazine** (staan nog niet in dit bestand). Adres en
+  regels nog controleren.
