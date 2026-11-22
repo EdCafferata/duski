@@ -11,6 +11,19 @@ PROJECT      = "Duski.xcodeproj"
 BUNDLE_ID    = "info.cafferata.duski"
 SCREENSHOTS  = "AppStore/Screenshots"
 
+# AppStore/Screenshots/<locale>/<toestel>/<naam>.png → fastlane/screenshots_flat/<locale>/<toestel>-<naam>.png
+def flat_screenshots
+  root = File.expand_path("..", __dir__)
+  dst  = File.join(root, "fastlane", "screenshots_flat")
+  FileUtils.rm_rf(dst)
+  Dir.glob(File.join(root, SCREENSHOTS, "*", "*", "*.png")).each do |f|
+    locale, device = f.split("/")[-3], f.split("/")[-2]
+    FileUtils.mkdir_p(File.join(dst, locale))
+    FileUtils.cp(f, File.join(dst, locale, "#{device.gsub(/[^A-Za-z0-9.]+/, "_")}-#{File.basename(f)}"))
+  end
+  dst
+end
+
 platform :ios do
 
   # ─── TestFlight ────────────────────────────────────────────────────────────
@@ -67,17 +80,22 @@ platform :ios do
   end
 
   # ─── Alleen screenshots uploaden ───────────────────────────────────────────
-  desc "Upload screenshots naar App Store Connect"
-  lane :screenshots do
+  # deliver leest alleen PNG's direct in <locale>/, niet in toestel-submappen →
+  # eerst plat neerzetten in fastlane/screenshots_flat (gitignored). Werkt op de
+  # versie in voorbereiding (niet op de live versie). fastlane screenshots version:1.3
+  desc "Upload screenshots naar de versie in voorbereiding"
+  lane :screenshots do |o|
     upload_to_app_store(
       api_key:                              API_KEY,
       app_identifier:                       BUNDLE_ID,
+      app_version:                          o[:version],
       skip_binary_upload:                   true,
       skip_metadata:                        true,
+      skip_app_version_update:              true,
+      overwrite_screenshots:                true,
       force:                                true,
-      edit_live:                            true,
       run_precheck_before_submit:           false,
-      screenshots_path:                     SCREENSHOTS,
+      screenshots_path:                     flat_screenshots,
       ignore_language_directory_validation: true
     )
   end
@@ -93,6 +111,30 @@ platform :ios do
       force:                      true,
       run_precheck_before_submit: false,
       metadata_path:              "fastlane/metadata"
+    )
+  end
+
+  # ─── Nieuwe versie klaarzetten (NIET indienen) ─────────────────────────────
+  # fastlane prepare version:1.3 build:9 → maakt de versie aan, koppelt de build,
+  # uploadt metadata + screenshots. Indienen blijft Eds klik in ASC, na de
+  # pre-release-check (skill pre-release-app-review).
+  desc "Versie aanmaken, build koppelen, metadata + screenshots uploaden (zonder indienen)"
+  lane :prepare do |o|
+    upload_to_app_store(
+      api_key:                              API_KEY,
+      app_identifier:                       BUNDLE_ID,
+      app_version:                          o[:version],
+      build_number:                         o[:build].to_s,
+      skip_binary_upload:                   true,
+      skip_screenshots:                     false,
+      overwrite_screenshots:                true,
+      screenshots_path:                     flat_screenshots,
+      metadata_path:                        "fastlane/metadata",
+      submit_for_review:                    false,
+      automatic_release:                    false,
+      force:                                true,
+      run_precheck_before_submit:           false,
+      ignore_language_directory_validation: true
     )
   end
 

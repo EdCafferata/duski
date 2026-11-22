@@ -44,3 +44,4 @@ fastlane/test_output
 # gegenereerde marketing-clips (binair, niet in git)
 marketing/clips/
 marketing/youtube/*.mp4
+fastlane/screenshots_flat/
