@@ -62,6 +62,18 @@ struct MixerView: View {
                         toontScreensaverKnop: !mixer.actieveOpties.isEmpty,
                         onScreensaver: { toontScreensaver = true }
                     )
+
+                    // Handmatige beoordeelknop (#1). Apple raadt voor een knop de
+                    // write-review-link aan; de automatische vraag (requestReview)
+                    // blijft daarnaast in ContentView/BeoordelingsVerzoek.
+                    Link(destination: URL(string: "https://apps.apple.com/app/id6806373286?action=write-review")!) {
+                        Label("Beoordeel Duski", systemImage: "star")
+                            .font(.footnote.weight(.semibold))
+                            .foregroundStyle(.secondary)
+                    }
+                    .tint(.secondary)
+                    .frame(maxWidth: .infinity)
+                    .padding(.top, 8)
                 }
                 .padding()
             }

@@ -1,1 +1,5 @@
-Pequenos ajustes nos bastidores para noites mais tranquilas. Obrigado por usar o Duski!
+Novidades da 1.3:
+• Botão "Sempre ligado": o som toca a noite toda, sem diminuir nem parar sozinho.
+• O Duski retoma o som sozinho depois de uma ligação, alarme ou Siri.
+• Agora funciona a partir do iOS 18, em muito mais iPhones e iPads.
+• Informações de privacidade no seu idioma e um botão para avaliar o Duski.

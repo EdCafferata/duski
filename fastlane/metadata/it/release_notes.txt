@@ -1,1 +1,5 @@
-Piccole rifiniture dietro le quinte per notti più serene. Grazie per usare Duski!
+Novità della 1.3:
+• Pulsante "Sempre attivo": il suono continua tutta la notte, senza dissolvenza né arresto automatico.
+• Duski riprende il suono da solo dopo una chiamata, una sveglia o Siri.
+• Ora funziona da iOS 18 in poi, su molti più iPhone e iPad.
+• Informazioni sulla privacy nella tua lingua e un pulsante per valutare Duski.

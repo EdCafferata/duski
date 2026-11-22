@@ -21,7 +21,7 @@ struct SlaapTimerKaart: View {
                             Image(systemName: "moon.stars.fill")
                                 .font(.system(size: 20))
                                 .foregroundStyle(.indigo)
-                                .frame(width: 60, height: 60)
+                                .frame(minWidth: 44, maxWidth: 60, minHeight: 44, maxHeight: 60).aspectRatio(1, contentMode: .fit)
                                 .background(Color.indigo.opacity(0.18), in: .circle)
                         }
                         .buttonStyle(.plain)
@@ -49,7 +49,7 @@ struct SlaapTimerKaart: View {
                             Image(systemName: "moon.stars.fill")
                                 .font(.system(size: 20))
                                 .foregroundStyle(.indigo)
-                                .frame(width: 60, height: 60)
+                                .frame(minWidth: 44, maxWidth: 60, minHeight: 44, maxHeight: 60).aspectRatio(1, contentMode: .fit)
                                 .background(Color.indigo.opacity(0.18), in: .circle)
                         }
                         .buttonStyle(.plain)
@@ -65,7 +65,7 @@ struct SlaapTimerKaart: View {
                                 Text("min")
                                     .font(.caption2)
                             }
-                            .frame(width: 60, height: 60)
+                            .frame(minWidth: 44, maxWidth: 60, minHeight: 44, maxHeight: 60).aspectRatio(1, contentMode: .fit)
                             .background(Color(.systemGray5), in: .circle)
                         }
                         .buttonStyle(.plain)

@@ -1,1 +1,5 @@
-Kleine verfijningen onder de motorkap voor een rustiger nachtje slaap. Bedankt dat je Duski gebruikt!
+Nieuw in 1.3:
+• Knop "Altijd aan": het geluid speelt de hele nacht door, zonder uitfaden of automatische stop.
+• Duski hervat het geluid vanzelf na een telefoontje, wekker of Siri.
+• Werkt nu vanaf iOS 18, dus op veel meer iPhones en iPads.
+• Privacy-informatie in je eigen taal en een knop om Duski te beoordelen.

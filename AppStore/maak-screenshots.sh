@@ -43,4 +43,8 @@ for f in glob.glob(f"{out}/*.png"):
         ImageDraw.Draw(im).rectangle((W-90, H-90, W, H), fill=im.getpixel((W-120, H-120)))
     os.makedirs(f"{dst}/{loc}/{dev}", exist_ok=True); im.save(f"{dst}/{loc}/{dev}/{name}")
 EOF
+# Extra ASO-locales (alleen voor extra zoekwoorden) krijgen de set van hun basistaal.
+for p in en-GB:en-US en-AU:en-US es-MX:es-ES; do
+  rm -rf "AppStore/Screenshots/${p%%:*}"; cp -R "AppStore/Screenshots/${p#*:}" "AppStore/Screenshots/${p%%:*}"
+done
 echo "Klaar: $(find AppStore/Screenshots -name '*.png' | wc -l | tr -d ' ') screenshots"
