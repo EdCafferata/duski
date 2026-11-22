@@ -6,12 +6,31 @@ import Combine
 /// te stoppen.
 final class SlaapTimer: ObservableObject {
     @Published private(set) var resterendeSeconden: Int?
+    /// "Altijd aan": geen aftelling, geen uitfaden, geen automatische stop.
+    @Published private(set) var isAltijdAan = false
+
+    /// Na zoveel seconden "Altijd aan" telt de sessie als geslaagd (review-vraag).
+    private let geslaagdNaSeconden = 3600
+    private var altijdAanSeconden = 0
 
     private var timer: Timer?
     private var volumesBijStartUitfaden: [String: Float] = [:]
     private let uitfadeDuur: Int = 30
 
-    var isActief: Bool { resterendeSeconden != nil }
+    var isActief: Bool { resterendeSeconden != nil || isAltijdAan }
+
+    func startAltijdAan() {
+        stop()
+        isAltijdAan = true
+        altijdAanSeconden = 0
+        timer = Timer.scheduledTimer(withTimeInterval: 1, repeats: true) { [weak self] _ in
+            guard let self else { return }
+            self.altijdAanSeconden += 1
+            if self.altijdAanSeconden == self.geslaagdNaSeconden {
+                BeoordelingsVerzoek.registreerGeslaagdeSessie()
+            }
+        }
+    }
 
     func start(minuten: Int, mixer: GeluidsMixer) {
         stop()
@@ -26,6 +45,8 @@ final class SlaapTimer: ObservableObject {
         timer?.invalidate()
         timer = nil
         resterendeSeconden = nil
+        isAltijdAan = false
+        altijdAanSeconden = 0
         volumesBijStartUitfaden.removeAll()
     }
 

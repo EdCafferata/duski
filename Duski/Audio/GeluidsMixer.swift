@@ -18,6 +18,26 @@ final class GeluidsMixer: ObservableObject {
         let sessie = AVAudioSession.sharedInstance()
         try? sessie.setCategory(.playback, mode: .default, options: [.mixWithOthers])
         try? sessie.setActive(true)
+
+        let centrum = NotificationCenter.default
+        // Na een telefoontje, wekker of Siri het geluid weer hervatten (#6).
+        centrum.addObserver(forName: AVAudioSession.interruptionNotification, object: sessie, queue: .main) { [weak self] melding in
+            guard let info = melding.userInfo,
+                  let ruw = info[AVAudioSessionInterruptionTypeKey] as? UInt,
+                  AVAudioSession.InterruptionType(rawValue: ruw) == .ended else { return }
+            let opties = AVAudioSession.InterruptionOptions(rawValue: info[AVAudioSessionInterruptionOptionKey] as? UInt ?? 0)
+            if opties.contains(.shouldResume) { self?.hervat() }
+        }
+        // Wisseling van audio-route (koptelefoon, Bluetooth) stopt de engine.
+        centrum.addObserver(forName: .AVAudioEngineConfigurationChange, object: engine, queue: .main) { [weak self] _ in
+            self?.hervat()
+        }
+    }
+
+    private func hervat() {
+        guard !actieveOpties.isEmpty, !engine.isRunning else { return }
+        try? AVAudioSession.sharedInstance().setActive(true)
+        try? engine.start()
     }
 
     func stelMaximaalVolumeIn(_ waarde: Float) {
