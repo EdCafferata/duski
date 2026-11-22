@@ -600,3 +600,17 @@ Eerst de checklist in dit bestand nagelopen: iPhone in Canada stond er nog niet 
 - NL-hoek (kraamzorg-nieuwsbrieven, Naviva): weer geen pers- of redactieadres gevonden, dus overgeslagen.
 - Kandidaten voor een volgende run: **iClarified** of **AppleMagazine** (staan nog niet in dit bestand). Adres en
   regels nog controleren.
+
+## Ronde 22 november 2026 — Engelstalig iOS-nieuws
+- [x] **Cult of Mac** (groot Apple-nieuws- en reviewblog, VS): de pagina cultofmac.com/about noemt
+  **reviews@cultofmac.com** voor productreviews ("Get your product reviewed"), los van advertising@ voor sponsored
+  posts. Geen prijslijst voor reviews en geen zelfpromotie- of AI-verbod gevonden. Gemaild op 22 november 2026 via
+  het SMTP-script. **Eerste contact.** Inhoud: 26 geluiden (4 gratis), eigen mix met volume per geluid, sleeptimer met
+  fade-out, babymodus met begrensd volume, 8 talen (ook Engels), geen account/reclame/tracking, offline, eerste maand
+  Premium gratis, App Store (US) + Google Play, "not a paid promotion or an advertising request". Niet nog eens
+  mailen zonder reactie.
+- **iClarified** ⛔: alleen een tipformulier (iclarified.com/tips), geen e-mailadres. Overgeslagen.
+- **AppleMagazine** ⛔: de contactpagina noemt alleen ads@ en support@, geen redactieadres. Overgeslagen.
+- **The Mac Observer** ⛔: alleen een contactformulier (macobserver.com/contact/). Overgeslagen.
+- Kandidaten voor een volgende run: **MacStories** of **iMore** (staan nog niet in dit bestand). Adres en regels nog
+  controleren.
