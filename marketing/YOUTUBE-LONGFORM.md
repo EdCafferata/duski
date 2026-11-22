@@ -82,3 +82,11 @@ op reacties (geen nep-reacties, geen gekochte views).
 - [ ] Per video 60 min opname maken (recept hierboven), of vragen of Claude de ffmpeg-/thumbnail-stappen
       doet zodra de opname op de NAS staat.
 - [ ] Na Apple-livegang: App Store-link toevoegen aan alle beschrijvingen.
+
+## Stand 22 nov 2026 — kanaal = Eds eigen kanaal
+- **Kanaal:** Eds bestaande YouTube-kanaal (Studio-ID `UCGeWzAsQJVRy__mm8AmGEyg`, IT Crowd-logo). Geen apart Duski-kanaal (zelfde besluit als Instagram). Ed: "je mag alles daar doen" → Claude mag uploaden én publiceren.
+- **Audio komt nu écht uit de app-engine:** `marketing/youtube/duskigen-main.swift` compileert met de originele `Duski/Audio/*Generator.swift` (zie `~/duski-youtube/gen`) en rendert raw float32 → ffmpeg. Frames/thumbnails: `youtube/frames.py`, Shorts: `youtube/shorts.py`.
+- **3 Shorts gepubliceerd (22 nov, EN, openbaar, niet voor kinderen):** white vs brown noise (youtube.com/shorts/Fmh74FyFGZ4), womb sounds + heartbeat, rain that never loops.
+- **Lange video #3 "White Noise for Babies – 10 Hours" gepubliceerd 22 nov** (Ed uploadde, Claude vulde in; https://youtu.be/usmuSMMy… — openbaar zodra YouTube de SD-versie verwerkt heeft). Eigen thumbnail werkte al. Afspeellijst "Sleep Sounds for Babies & Adults (Duski)" aangemaakt (openbaar).
+- **Links in beschrijvingen zijn pas klikbaar na eenmalige telefoonverificatie van het kanaal** (Studio meldt dit) — Ed doet dat; ook nodig voor eigen thumbnails bij lange video's.
+- Ritme voorstel: 2–3 Shorts per week (zelfde script, andere geluiden/hooks) + 1 lange video per week.
