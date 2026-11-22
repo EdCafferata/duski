@@ -28,6 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1DC8BD8B13E38720630B61D3"
+               BuildableName = "DuskiTests.xctest"
+               BlueprintName = "DuskiTests"
+               ReferencedContainer = "container:Duski.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43C7261F678B3BACDA2284EF"
+               BuildableName = "DuskiUITests.xctest"
+               BlueprintName = "DuskiUITests"
+               ReferencedContainer = "container:Duski.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction

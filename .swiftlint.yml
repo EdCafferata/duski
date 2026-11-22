@@ -1,0 +1,24 @@
+# SwiftLint voor Duski — bewust mild: vangt echte fouten, geen stijlgevechten.
+# Nederlandse namen en lange generator-formules zijn prima.
+included:
+  - Duski
+  - DuskiTests
+  - DuskiUITests
+excluded:
+  - build
+  - fastlane
+disabled_rules:
+  - identifier_name
+  - type_name
+  - trailing_comma
+  - todo
+  - nesting
+  - function_body_length
+  - type_body_length
+  - file_length
+  - cyclomatic_complexity
+line_length:
+  warning: 160
+  error: 250
+large_tuple:
+  warning: 4

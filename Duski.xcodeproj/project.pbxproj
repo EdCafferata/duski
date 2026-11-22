@@ -6,11 +6,50 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		3AE26EF8D823DC9E3B3A1767 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95505F70300BA1526AD5801C /* Foundation.framework */; };
+		98D8B3D6651E116B319A31F7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95505F70300BA1526AD5801C /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BCC5C48928213F7C265F485A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDEAE1C32FA53D2900A6BB6A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DDEAE1CA2FA53D2900A6BB6A;
+			remoteInfo = Duski;
+		};
+		F16164704D19D9F912571F7F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDEAE1C32FA53D2900A6BB6A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DDEAE1CA2FA53D2900A6BB6A;
+			remoteInfo = Duski;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		95505F70300BA1526AD5801C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		98933AF770EFD8E0DC060143 /* DuskiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DuskiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2631AF5EEE37AFD9C38D212 /* DuskiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DuskiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDEAE1CB2FA53D2900A6BB6A /* Duski.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Duski.app; path = Duski.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		3153DA848A989A094BB1C31E /* DuskiUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
+			path = DuskiUITests;
+			sourceTree = "<group>";
+		};
+		4BB9154D9BA388A611FF6893 /* DuskiTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
+			path = DuskiTests;
+			sourceTree = "<group>";
+		};
 		DDEAE1CD2FA53D2900A6BB6A /* Duski */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -21,6 +60,22 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		4086FF26AB7BD1177E8E3F89 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AE26EF8D823DC9E3B3A1767 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A42A0EECAC02B4A5D9D22BA6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98D8B3D6651E116B319A31F7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DDEAE1C82FA53D2900A6BB6A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -31,11 +86,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		36EFF1ABBF7049C88BB94701 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D049AFE1D870313FA8661249 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D049AFE1D870313FA8661249 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				95505F70300BA1526AD5801C /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
 		DDEAE1C22FA53D2900A6BB6A = {
 			isa = PBXGroup;
 			children = (
 				DDEAE1CD2FA53D2900A6BB6A /* Duski */,
 				DDEAE1CC2FA53D2900A6BB6A /* Products */,
+				36EFF1ABBF7049C88BB94701 /* Frameworks */,
+				4BB9154D9BA388A611FF6893 /* DuskiTests */,
+				3153DA848A989A094BB1C31E /* DuskiUITests */,
 			);
 			sourceTree = "<group>";
 		};
@@ -43,6 +117,8 @@
 			isa = PBXGroup;
 			children = (
 				DDEAE1CB2FA53D2900A6BB6A /* Duski.app */,
+				D2631AF5EEE37AFD9C38D212 /* DuskiTests.xctest */,
+				98933AF770EFD8E0DC060143 /* DuskiUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -50,6 +126,48 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		1DC8BD8B13E38720630B61D3 /* DuskiTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E585607ECA904F14983FCBA1 /* Build configuration list for PBXNativeTarget "DuskiTests" */;
+			buildPhases = (
+				F6F595CBCEDBD14EB0E4883C /* Sources */,
+				A42A0EECAC02B4A5D9D22BA6 /* Frameworks */,
+				1D3D3A21036937DC8D84DD48 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D029D3EF770F5D2A429AAF2E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4BB9154D9BA388A611FF6893 /* DuskiTests */,
+			);
+			name = DuskiTests;
+			productName = DuskiTests;
+			productReference = D2631AF5EEE37AFD9C38D212 /* DuskiTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		43C7261F678B3BACDA2284EF /* DuskiUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 056BBB3059AB02128CB518EA /* Build configuration list for PBXNativeTarget "DuskiUITests" */;
+			buildPhases = (
+				ECF931EEE70838FE9DA767A2 /* Sources */,
+				4086FF26AB7BD1177E8E3F89 /* Frameworks */,
+				AA7673A64F22BAF50F699869 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				11DE17593B8B985BE416F39F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3153DA848A989A094BB1C31E /* DuskiUITests */,
+			);
+			name = DuskiUITests;
+			productName = DuskiUITests;
+			productReference = 98933AF770EFD8E0DC060143 /* DuskiUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 		DDEAE1CA2FA53D2900A6BB6A /* Duski */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = DDEAE1EC2FA53D2C00A6BB6A /* Build configuration list for PBXNativeTarget "Duski" */;
@@ -107,11 +225,27 @@
 			projectRoot = "";
 			targets = (
 				DDEAE1CA2FA53D2900A6BB6A /* Duski */,
+				1DC8BD8B13E38720630B61D3 /* DuskiTests */,
+				43C7261F678B3BACDA2284EF /* DuskiUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		1D3D3A21036937DC8D84DD48 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AA7673A64F22BAF50F699869 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DDEAE1C92FA53D2900A6BB6A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -129,9 +263,122 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		ECF931EEE70838FE9DA767A2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F6F595CBCEDBD14EB0E4883C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		11DE17593B8B985BE416F39F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Duski;
+			target = DDEAE1CA2FA53D2900A6BB6A /* Duski */;
+			targetProxy = BCC5C48928213F7C265F485A /* PBXContainerItemProxy */;
+		};
+		D029D3EF770F5D2A429AAF2E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Duski;
+			target = DDEAE1CA2FA53D2900A6BB6A /* Duski */;
+			targetProxy = F16164704D19D9F912571F7F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		00F54F7D893424B61FCBE836 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9J2S23WJH3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.DuskiTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Duski.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Duski";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		56A510EF163217427C8665A0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9J2S23WJH3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.DuskiTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Duski.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Duski";
+			};
+			name = Debug;
+		};
+		602C45BE8AF35574A25CAF52 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9J2S23WJH3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.DuskiUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Duski;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6254F0E870CA1C73A0F87BF4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9J2S23WJH3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = info.cafferata.DuskiUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Duski;
+			};
+			name = Debug;
+		};
 		DDEAE1EA2FA53D2C00A6BB6A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -272,11 +519,11 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Duski;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
-				INFOPLIST_KEY_UIBackgroundModes = audio;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UIBackgroundModes = audio;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
@@ -325,11 +572,11 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Duski;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
-				INFOPLIST_KEY_UIBackgroundModes = audio;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UIBackgroundModes = audio;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
@@ -357,6 +604,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		056BBB3059AB02128CB518EA /* Build configuration list for PBXNativeTarget "DuskiUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				602C45BE8AF35574A25CAF52 /* Release */,
+				6254F0E870CA1C73A0F87BF4 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		DDEAE1C62FA53D2900A6BB6A /* Build configuration list for PBXProject "Duski" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -371,6 +627,15 @@
 			buildConfigurations = (
 				DDEAE1ED2FA53D2C00A6BB6A /* Debug */,
 				DDEAE1EE2FA53D2C00A6BB6A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E585607ECA904F14983FCBA1 /* Build configuration list for PBXNativeTarget "DuskiTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00F54F7D893424B61FCBE836 /* Release */,
+				56A510EF163217427C8665A0 /* Debug */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
