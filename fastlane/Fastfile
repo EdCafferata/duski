@@ -29,7 +29,13 @@ platform :ios do
   # ─── TestFlight ────────────────────────────────────────────────────────────
   desc "Build en upload naar TestFlight"
   lane :beta do
-    increment_build_number(xcodeproj: PROJECT)
+    # Altijd hoogste TestFlight-build + 1. (Kaal increment_build_number nam het nummer
+    # van de testtargets als basis en zette alles op 2 — 23 nov 2026.)
+    increment_build_number(
+      xcodeproj:    PROJECT,
+      build_number: ([get_build_number(xcodeproj: PROJECT).to_i,
+                     latest_testflight_build_number(api_key: API_KEY, app_identifier: BUNDLE_ID).to_i].max + 1).to_s
+    )
     # Automatic signing + cloud-managed distribution via de Admin-key 5R3497VHF5
     # (Apple maakt/beheert het profiel automatisch). Vervangt de oude `match`-opzet,
     # waarvan het profiel na de Mac-herinstallatie niet meer geïnstalleerd was.
@@ -53,7 +59,11 @@ platform :ios do
   # ─── App Store release ─────────────────────────────────────────────────────
   desc "Build, upload naar App Store en dien in ter beoordeling"
   lane :release do
-    increment_build_number(xcodeproj: PROJECT)
+    increment_build_number(
+      xcodeproj:    PROJECT,
+      build_number: ([get_build_number(xcodeproj: PROJECT).to_i,
+                     latest_testflight_build_number(api_key: API_KEY, app_identifier: BUNDLE_ID).to_i].max + 1).to_s
+    )
     build_app(
       project:           PROJECT,
       scheme:            SCHEME,
