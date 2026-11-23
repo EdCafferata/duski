@@ -6,7 +6,11 @@ final class LokalisatieTests: XCTestCase {
         let bestand = URL(fileURLWithPath: #filePath)
             .deletingLastPathComponent().deletingLastPathComponent()
             .appendingPathComponent("Duski/Localizable.xcstrings")
-        let json = try XCTUnwrap(JSONSerialization.jsonObject(with: Data(contentsOf: bestand)) as? [String: Any])
+        // Vanaf een netwerkschijf (NAS) mag de simulator-sandbox de bron niet lezen; dan overslaan.
+        guard let data = try? Data(contentsOf: bestand) else {
+            throw XCTSkip("Localizable.xcstrings niet leesbaar vanuit de simulator (\(bestand.path))")
+        }
+        let json = try XCTUnwrap(JSONSerialization.jsonObject(with: data) as? [String: Any])
         let strings = try XCTUnwrap(json["strings"] as? [String: [String: Any]])
         let talen = ["de", "en", "es", "fr", "it", "ja", "pt-BR"]
         var ontbrekend: [String] = []
