@@ -9,6 +9,7 @@ final class FohnGenerator: GeluidGenerator {
 
     func volgendeSample(sampleRate: Double) -> Float {
         faseMotor += Float(1.0 / sampleRate) * 100
+        if faseMotor >= 1 { faseMotor -= 1 }  // fase binnen 0..<1 houden: een eindeloos oplopende Float verliest na enkele minuten precisie
         let motor = sin(faseMotor * 2 * .pi) * 0.25
 
         let wit = Float.random(in: -1...1)

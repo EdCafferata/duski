@@ -13,6 +13,7 @@ final class SussenGenerator: GeluidGenerator {
         let hoog = wit - hoogToestand
 
         faseRitme += Float(1.0 / sampleRate) * 0.5
+        if faseRitme >= 1 { faseRitme -= 1 }  // fase binnen 0..<1 houden: een eindeloos oplopende Float verliest na enkele minuten precisie
         let ritme = 0.6 + 0.4 * sin(faseRitme * 2 * .pi)
 
         return hoog * ritme * 0.55

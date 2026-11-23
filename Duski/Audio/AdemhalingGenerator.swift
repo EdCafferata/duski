@@ -13,6 +13,7 @@ final class AdemhalingGenerator: GeluidGenerator {
         laagdoorlaatToestand += 0.08 * (wit - laagdoorlaatToestand)
 
         faseCyclus += Float(1.0 / sampleRate) * 0.17
+        if faseCyclus >= 1 { faseCyclus -= 1 }  // fase binnen 0..<1 houden: een eindeloos oplopende Float verliest na enkele minuten precisie
         let raw = 0.5 + 0.5 * sin(faseCyclus * 2 * .pi)
         let envelope = pow(raw, 1.4)
 

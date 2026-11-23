@@ -14,6 +14,7 @@ final class GolvenGenerator: GeluidGenerator {
 
         // Golfritme: een aanrollende golf duurt ongeveer 6-8 seconden.
         faseGolf += Float(1.0 / sampleRate) * 0.14
+        if faseGolf >= 1 { faseGolf -= 1 }  // fase binnen 0..<1 houden: een eindeloos oplopende Float verliest na enkele minuten precisie
         let golf = 0.5 + 0.5 * sin(faseGolf * 2 * .pi)
         // Golven rollen sneller aan dan ze terugtrekken — asymmetrische curve.
         let asymmetrisch = pow(golf, 1.6)
