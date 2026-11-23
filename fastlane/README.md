@@ -37,7 +37,7 @@ Build, upload naar App Store en dien in ter beoordeling
 [bundle exec] fastlane ios screenshots
 ```
 
-Upload screenshots naar App Store Connect
+Upload screenshots naar de versie in voorbereiding
 
 ### ios metadata
 
@@ -46,6 +46,14 @@ Upload screenshots naar App Store Connect
 ```
 
 Upload beschrijving en release notes naar App Store Connect
+
+### ios prepare
+
+```sh
+[bundle exec] fastlane ios prepare
+```
+
+Versie aanmaken, build koppelen, metadata + screenshots uploaden (zonder indienen)
 
 ### ios promo
 

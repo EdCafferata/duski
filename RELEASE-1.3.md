@@ -38,3 +38,9 @@ kleine iPhones, extra ASO-locales en-GB/en-AU/es-MX (extra zoekwoorden), minOS i
 
 **Indienen (Ed):** ASC → Duski → 1.3 → "Add for Review" → "Submit to App Review". Release staat op MANUAL
 (handmatig vrijgeven na goedkeuring); zet op automatisch als je dat liever hebt.
+
+## 23 nov 2026 (avond) — kritieke fix na Eds toesteltest
+Ed: "als ik de telefoon vergrendel stopt het geluid direct". Oorzaak: `UIBackgroundModes=audio` stond **niet** in de
+gebouwde Info.plist (`INFOPLIST_KEY_UIBackgroundModes` wordt door Xcode genegeerd) → achtergrondaudio werkte nooit,
+ook niet in 1.0–1.2. Fix: `Duski-Info.plist` (samengevoegd met de gegenereerde) + regressietest `InfoPlistTests`.
+**1.3 gebruikt nu build 2** (build 9 eraf gehaald). Opnieuw testen op het toestel vóór indienen.
