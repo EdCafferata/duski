@@ -1,5 +1,5 @@
 Nouveautés de la 1.3 :
 • Bouton « Toujours actif » : le son joue toute la nuit, sans fondu ni arrêt automatique.
-• Duski reprend le son tout seul après un appel, une alarme ou Siri.
+• Le son continue désormais écran verrouillé, et reprend tout seul après un appel, une alarme ou Siri.
 • Fonctionne désormais à partir d'iOS 18, donc sur beaucoup plus d'iPhone et d'iPad.
 • Informations de confidentialité dans votre langue et un bouton pour noter Duski.

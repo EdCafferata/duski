@@ -1,5 +1,5 @@
 Neu in 1.3:
 • Taste „Immer an": Das Geräusch läuft die ganze Nacht, ohne Ausblenden oder automatisches Stoppen.
-• Duski setzt das Geräusch nach einem Anruf, Wecker oder Siri automatisch fort.
+• Das Geräusch läuft jetzt auch bei gesperrtem Bildschirm weiter und setzt nach einem Anruf, Wecker oder Siri automatisch fort.
 • Läuft jetzt ab iOS 18 – auf viel mehr iPhones und iPads.
 • Datenschutzhinweise in deiner Sprache und eine Taste, um Duski zu bewerten.

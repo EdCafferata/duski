@@ -44,3 +44,8 @@ Ed: "als ik de telefoon vergrendel stopt het geluid direct". Oorzaak: `UIBackgro
 gebouwde Info.plist (`INFOPLIST_KEY_UIBackgroundModes` wordt door Xcode genegeerd) → achtergrondaudio werkte nooit,
 ook niet in 1.0–1.2. Fix: `Duski-Info.plist` (samengevoegd met de gegenereerde) + regressietest `InfoPlistTests`.
 **1.3 gebruikt nu build 2** (build 9 eraf gehaald). Opnieuw testen op het toestel vóór indienen.
+
+## 23 nov 2026 19:33 — INGEDIEND (WAITING_FOR_REVIEW)
+Ed testte build 2 op zijn iPhone: geluid speelt door met vergrendeld scherm, wekker onderbreekt en daarna gaat het
+netjes verder, beoordeelknop OK. Ed: "je mag alles aanbieden aan Apple". Release-notes aangevuld ("speelt nu door met
+vergrendeld scherm"), releaseType AFTER_APPROVAL, review-submission `4fab9988-753a-40f4-9680-d79fb12e346c`.

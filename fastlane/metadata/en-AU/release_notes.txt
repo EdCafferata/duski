@@ -1,5 +1,5 @@
 New in 1.3:
 • "Always on" button: the sound plays all night, with no fade-out or automatic stop.
-• Duski now resumes the sound by itself after a phone call, alarm or Siri.
+• The sound now keeps playing with the screen locked, and resumes by itself after a phone call, alarm or Siri.
 • Now works on iOS 18 and later, so on many more iPhones and iPads.
 • Privacy information in your own language and a button to rate Duski.
