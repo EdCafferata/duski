@@ -1,5 +1,6 @@
 Novedades de la 1.3:
 • Botón «Siempre activo»: el sonido suena toda la noche, sin desvanecerse ni detenerse solo.
 • El sonido ahora sigue sonando con la pantalla bloqueada y se reanuda solo tras una llamada, una alarma o Siri.
+• Sonidos como las olas, la lluvia y la respiración ya no se congelan tras unos minutos.
 • Ahora funciona desde iOS 18, en muchos más iPhone y iPad.
 • Información de privacidad en tu idioma y un botón para valorar Duski.

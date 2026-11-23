@@ -15,6 +15,7 @@ case "baarmoeder": g = BaarmoederGenerator()
 case "fohn": g = FohnGenerator()
 case "sussen": g = SussenGenerator()
 case "regen": g = RegenGenerator()
+case "autorijden": g = AutorijdenGenerator()
 default: fatalError("onbekend geluid")
 }
 var buf = [Float](repeating: 0, count: 48000)
