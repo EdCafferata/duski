@@ -49,3 +49,10 @@ ook niet in 1.0–1.2. Fix: `Duski-Info.plist` (samengevoegd met de gegenereerde
 Ed testte build 2 op zijn iPhone: geluid speelt door met vergrendeld scherm, wekker onderbreekt en daarna gaat het
 netjes verder, beoordeelknop OK. Ed: "je mag alles aanbieden aan Apple". Release-notes aangevuld ("speelt nu door met
 vergrendeld scherm"), releaseType AFTER_APPROVAL, review-submission `4fab9988-753a-40f4-9680-d79fb12e346c`.
+
+## 23 nov 2026 ~20:45 — opnieuw ingediend met build 11
+Gevonden bij het maken van de autorijden-video: 9 modulatiefases (golven, regen, ademhaling, sussen, vliegtuig,
+föhn, ventilator, autorijden) liepen als Float eindeloos op → na 2–8 min bevroren/scheef (86de84b + LangeSessieTests).
+1.3 uit review gehaald (Ed akkoord), build 11 gekoppeld, release-notes aangevuld, opnieuw ingediend:
+submission `c881dfbc-66f2-48ec-865f-349148e551e8`, WAITING_FOR_REVIEW, AFTER_APPROVAL.
+Android: 1.2 (vc5) is al LIVE; 1.2.1 (vc6) met dezelfde fase-fix staat op intern, Ed promoot naar productie.
