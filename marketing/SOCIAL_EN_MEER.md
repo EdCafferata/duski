@@ -614,3 +614,19 @@ Eerst de checklist in dit bestand nagelopen: iPhone in Canada stond er nog niet 
 - **The Mac Observer** ⛔: alleen een contactformulier (macobserver.com/contact/). Overgeslagen.
 - Kandidaten voor een volgende run: **MacStories** of **iMore** (staan nog niet in dit bestand). Adres en regels nog
   controleren.
+
+## Ronde 23 november 2026 — Engelstalig iOS-nieuws
+- [x] **MacStories** (bekende Apple-/app-site, Italië/VS): de pagina macstories.net/about zegt dat je het team mailt
+  via de adressen die daar staan. De managing editor, **John Voorhees (voorhees@macstories.net)**, schrijft de meeste
+  app-reviews en is daarom gemaild. Op dezelfde pagina staat: "We have never done and never will do paid reviews". Er is een
+  advertentiepagina, maar die is niet gebruikt. MacStories gebruikt zelf geen generatieve AI voor zijn artikelen. Er
+  is geen verbod op pitches of zelfpromotie, dus de pitch is kort en persoonlijk gehouden. Gemaild op 23 november 2026
+  via het SMTP-script. **Eerste contact.** Inhoud: geluiden die live op het toestel worden gegenereerd (geen loops), 26
+  geluiden (4 gratis), eigen mix met volume per geluid, sleeptimer met fade-out, babymodus met begrensd volume, 8 talen
+  (ook Engels), geen account/reclame/tracking, offline, eerste maand Premium gratis, App Store (US) + Google Play, "not
+  a paid promotion or an advertising request". Niet nog eens mailen zonder reactie.
+- **iMore** ⛔: de app-gids van iMore (laatst bijgewerkt in 2018) noemt iosapps@imore.com, maar zegt ook "If it's not
+  written by a human, it's not reasonable to expect it to be read by a human". Dat komt neer op een AI-bezwaar, dus
+  niet gemaild. De contactpagina gaf een 404.
+- Kandidaten voor een volgende run: **AppleInsider** (appleinsider.com/contact) of **9to5Mac** Indie App Spotlight
+  (Engelse UI is live). Adres en regels nog controleren.
