@@ -630,3 +630,17 @@ Eerst de checklist in dit bestand nagelopen: iPhone in Canada stond er nog niet 
   niet gemaild. De contactpagina gaf een 404.
 - Kandidaten voor een volgende run: **AppleInsider** (appleinsider.com/contact) of **9to5Mac** Indie App Spotlight
   (Engelse UI is live). Adres en regels nog controleren.
+
+## Ronde 24 november 2026 — Engelstalig iOS-nieuws
+- [x] **AppleInsider** (groot Apple-nieuwsplatform, VS): de contactpagina (appleinsider.com/contact, eerder 403 voor
+  geautomatiseerde toegang, nu via de browser gelezen) noemt **news@appleinsider.com** voor tips, met daarnaast een
+  anoniem tipformulier en Signal/SecureDrop. Geen weigering van persberichten/app-tips, geen prijslijst voor reviews en
+  geen AI-verbod gevonden. Gemaild op 24 november 2026 via het SMTP-script. **Eerste contact.** Inhoud: geluiden die
+  live op het toestel worden gegenereerd (geen loops), 26 geluiden (4 gratis), eigen mix met volume per geluid,
+  sleeptimer met fade-out en doorspelen met vergrendeld scherm, babymodus met begrensd volume, 8 talen (ook Engels),
+  geen account/reclame/tracking, offline, eerste maand Premium gratis, App Store (US) + Google Play, "not a paid
+  promotion or an advertising request". Niet nog eens mailen zonder reactie.
+- **9to5Mac Indie App Spotlight**: al gemaild op 14 oktober 2026 (zie hierboven), dus niet opnieuw.
+- **TidBITS** ⛔: het stuk "How to pitch apps to TidBITS in the AI era" (juli 2026) vraagt om eerst lid te worden van
+  de community (account + meedoen in TidBITS Talk) vóór je een app pitcht. Claude maakt geen accounts aan; niet gemaild.
+- Kandidaat voor een volgende run: **Macworld** (contact-/tipsadres en regels nog controleren).
