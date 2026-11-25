@@ -655,6 +655,9 @@ Eerst de checklist in dit bestand nagelopen: iPhone in Canada stond er nog niet 
   volume, 8 talen, geen account/reclame/tracking, offline, eerste maand Premium gratis (daarna €0,99/mnd), App Store
   (US) + Google Play, aanbod van een promocode, "not a paid promotion or an advertising request". Niet nog eens mailen
   zonder reactie.
+  ⚠️ **BOUNCE (25 nov 10:52):** Mimecast/Exchange `5.4.1 Recipient address rejected: Access denied` voor
+  reviews@macworld.com → pitch is NIET aangekomen. Het adres op de contactpagina accepteert geen externe mail (meer).
+  On hold: niet opnieuw proberen zonder nieuw, geverifieerd adres (letters@ is voor de redactie, niet voor reviews).
 - **Apple World Today** ⛔: alleen een webformulier, en "we do not accept unsolicited items" voor reviews. Overgeslagen.
 - **MacTrast**: al eerder afgevallen (adres alleen voor exclusieve nieuwstips, zie hierboven). Niet opnieuw.
 - Kandidaat voor een volgende run: **OSXDaily** (contactpagina en regels nog controleren) of een NL-ouderkanaal.
