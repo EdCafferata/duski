@@ -644,3 +644,17 @@ Eerst de checklist in dit bestand nagelopen: iPhone in Canada stond er nog niet 
 - **TidBITS** ⛔: het stuk "How to pitch apps to TidBITS in the AI era" (juli 2026) vraagt om eerst lid te worden van
   de community (account + meedoen in TidBITS Talk) vóór je een app pitcht. Claude maakt geen accounts aan; niet gemaild.
 - Kandidaat voor een volgende run: **Macworld** (contact-/tipsadres en regels nog controleren).
+
+## Ronde 25 november 2026 — Engelstalig iOS-nieuws
+- [x] **Macworld** (VS, groot Apple-magazine van Foundry): de contactpagina (macworld.com/about/contact) noemt
+  **reviews@macworld.com** voor productreviews, los van letters@ voor de redactie. Er staat dat de redactie geen guest
+  posts of ongevraagde (artikel)inzendingen plaatst; gesponsorde posts gaan via sales en zijn niet gebruikt. Een
+  reviewverzoek via het reviewadres is de bedoelde route. Geen AI-verbod gevonden. Gemaild op 25 november 2026 via het
+  SMTP-script. **Eerste contact.** Inhoud: geluiden die live op het toestel worden gegenereerd, 26 geluiden (4 gratis),
+  eigen mix met volume per geluid, sleeptimer met fade-out en doorspelen met vergrendeld scherm, babymodus met begrensd
+  volume, 8 talen, geen account/reclame/tracking, offline, eerste maand Premium gratis (daarna €0,99/mnd), App Store
+  (US) + Google Play, aanbod van een promocode, "not a paid promotion or an advertising request". Niet nog eens mailen
+  zonder reactie.
+- **Apple World Today** ⛔: alleen een webformulier, en "we do not accept unsolicited items" voor reviews. Overgeslagen.
+- **MacTrast**: al eerder afgevallen (adres alleen voor exclusieve nieuwstips, zie hierboven). Niet opnieuw.
+- Kandidaat voor een volgende run: **OSXDaily** (contactpagina en regels nog controleren) of een NL-ouderkanaal.
