@@ -11,6 +11,8 @@ final class GeluidsMixer: ObservableObject {
 
     @Published private(set) var actieveOpties: Set<String> = []
     @Published var volumes: [String: Float] = [:]
+    /// Speelt nu de "Voor jou"-mix van de leeftijdsgroep (altijd gratis, ook met premium-lagen).
+    @Published private(set) var voorJouActief = false
 
     private var maximaalVolume: Float = 1.0
 
@@ -59,6 +61,14 @@ final class GeluidsMixer: ObservableObject {
     /// Slechts één geluid tegelijk actief: een nieuwe keuze stopt eerst alle
     /// andere lagen, zodat altijd de laatste keuze overblijft.
     func schakel(_ optie: GeluidOptie) {
+        if voorJouActief {
+            // Na de "Voor jou"-mix: lagen weer op het standaardvolume laten starten.
+            let mixLagen = actieveOpties
+            stopAlles()
+            for id in mixLagen { volumes[id] = nil }
+            startLaag(optie)
+            return
+        }
         if isActief(optie) {
             stopLaag(id: optie.id)
         } else {
@@ -67,6 +77,18 @@ final class GeluidsMixer: ObservableObject {
             }
             startLaag(optie)
         }
+    }
+
+    /// Start de "Voor jou"-mix: stopt wat er speelt en start alle lagen tegelijk,
+    /// elk op het eigen volume (begrensd door de leeftijdslimiet).
+    func speelVoorJou(_ mix: VoorJouMix) {
+        for id in Array(actieveOpties) { stopLaag(id: id) }
+        for laag in mix.lagen {
+            guard let optie = GeluidCategorie.optie(id: laag.id) else { continue }
+            volumes[optie.id] = min(laag.volume, maximaalVolume)
+            startLaag(optie)
+        }
+        voorJouActief = !actieveOpties.isEmpty
     }
 
     private func startLaag(_ optie: GeluidOptie) {
@@ -112,6 +134,7 @@ final class GeluidsMixer: ObservableObject {
         actieveOpties.remove(id)
 
         if actieveOpties.isEmpty {
+            voorJouActief = false
             engine.stop()
         }
     }
@@ -125,6 +148,7 @@ final class GeluidsMixer: ObservableObject {
         nodes.removeAll()
         generators.removeAll()
         actieveOpties.removeAll()
+        voorJouActief = false
         engine.stop()
     }
 }

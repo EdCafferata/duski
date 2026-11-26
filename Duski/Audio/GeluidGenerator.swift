@@ -54,6 +54,12 @@ enum GeluidGeneratorFabriek {
             return GymnopedieGenerator()
         case .clairDeLune:
             return ClairDeLuneGenerator()
+        case .onweer:
+            return OnweerGenerator()
+        case .stofzuiger:
+            return StofzuigerGenerator()
+        case .speeldoos:
+            return SpeeldoosGenerator()
         }
     }
 }

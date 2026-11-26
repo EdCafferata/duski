@@ -37,6 +37,7 @@ enum GeluidCategorie: String, CaseIterable, Codable, Identifiable {
                 GeluidOptie(id: "wind", titel: String(localized: "Wind"), emoji: "🍃", type: .wind, isPremium: true),
                 GeluidOptie(id: "vuur", titel: String(localized: "Kampvuur"), emoji: "🔥", type: .vuur, isPremium: true),
                 GeluidOptie(id: "beek", titel: String(localized: "Beek"), emoji: "🏞️", type: .beek, isPremium: true),
+                GeluidOptie(id: "onweer", titel: String(localized: "Onweer"), emoji: "⛈️", type: .onweer, isPremium: true),
             ]
         case .lichaam:
             return [
@@ -45,6 +46,7 @@ enum GeluidCategorie: String, CaseIterable, Codable, Identifiable {
                 GeluidOptie(id: "ademhaling", titel: String(localized: "Ademhaling"), emoji: "🫁", type: .ademhaling, isPremium: true),
                 GeluidOptie(id: "sussen", titel: String(localized: "Sussen (shhh)"), emoji: "🤫", type: .sussen, isPremium: true),
                 GeluidOptie(id: "fohn", titel: String(localized: "Föhn"), emoji: "💨", type: .fohn, isPremium: true),
+                GeluidOptie(id: "stofzuiger", titel: String(localized: "Stofzuiger"), emoji: "🧹", type: .stofzuiger, isPremium: true),
             ]
         case .overige:
             return [
@@ -54,6 +56,7 @@ enum GeluidCategorie: String, CaseIterable, Codable, Identifiable {
                 GeluidOptie(id: "klok", titel: String(localized: "Tikkende klok"), emoji: "🕰️", type: .klok, isPremium: true),
                 GeluidOptie(id: "vliegtuigcabine", titel: String(localized: "Vliegtuigcabine"), emoji: "✈️", type: .vliegtuigcabine, isPremium: true),
                 GeluidOptie(id: "autorijden", titel: String(localized: "Autorijden"), emoji: "🚗", type: .autorijden, isPremium: true),
+                GeluidOptie(id: "speeldoos", titel: String(localized: "Speeldoos-slaapliedjes"), emoji: "🎠", type: .speeldoos, isPremium: true),
                 GeluidOptie(id: "bachprelude", titel: String(localized: "Bach – Prelude in C"), emoji: "🎹", type: .bachPrelude, isPremium: true),
                 GeluidOptie(id: "bachair", titel: String(localized: "Bach – Air"), emoji: "🎻", type: .bachAir, isPremium: true),
                 GeluidOptie(id: "canon", titel: String(localized: "Pachelbel – Canon in D"), emoji: "🎼", type: .canon, isPremium: true),
@@ -66,6 +69,11 @@ enum GeluidCategorie: String, CaseIterable, Codable, Identifiable {
     /// Hoeveel geluiden in deze categorie premium zijn — gebruikt voor de
     /// slotjes-teller op de paywall.
     var aantalPremiumOpties: Int { opties.filter(\.isPremium).count }
+
+    /// Alle geluiden uit alle categorieën.
+    static var alleOpties: [GeluidOptie] { allCases.flatMap(\.opties) }
+
+    static func optie(id: String) -> GeluidOptie? { alleOpties.first { $0.id == id } }
 }
 
 /// Eén losse, mixbare geluidslaag. `isPremium` bepaalt of het abonnement nodig
@@ -102,6 +110,9 @@ enum GeluidType: Codable, Hashable {
     case canon
     case gymnopedie
     case clairDeLune
+    case onweer
+    case stofzuiger
+    case speeldoos
 }
 
 enum RuisKleur: String, Codable {

@@ -13,6 +13,7 @@ struct MixerView: View {
     @State private var toontPremium = Self.startMetPaywall
     @State private var toontScreensaver = false
     @State private var toontVeiligheidsBanner = true
+    @Environment(\.dynamicTypeSize) private var tekstgrootte
 
     /// Alleen in Debug: `-toonPaywall` als launch-argument opent direct de paywall
     /// (voor review-screenshots via `simctl launch`, zonder UI-automatisering).
@@ -34,6 +35,8 @@ struct MixerView: View {
                         })
                         .transition(.opacity.combined(with: .move(edge: .top)))
                     }
+
+                    VoorJouKaart(groep: leeftijdsGroep, mixer: mixer)
 
                     ForEach(GeluidCategorie.allCases) { categorie in
                         VStack(alignment: .leading, spacing: 12) {
@@ -92,6 +95,8 @@ struct MixerView: View {
                 }
             }
         }
+        // 65+: standaard wat grotere letters en knoppen (wie zelf al groter heeft, houdt dat).
+        .environment(\.dynamicTypeSize, leeftijdsGroep == .oudere ? max(tekstgrootte, .xLarge) : tekstgrootte)
         .onAppear {
             mixer.stelMaximaalVolumeIn(leeftijdsGroep.maximaalVolume)
         }
@@ -105,10 +110,10 @@ struct MixerView: View {
         .onChange(of: abonnement.heeftPremium) { _, heeftPremium in
             // Stopt een lopend premium-geluid zodra het abonnement verloopt
             // (bv. opgezegd terwijl de app op de achtergrond draaide).
-            guard !heeftPremium else { return }
-            let alleOpties = GeluidCategorie.allCases.flatMap(\.opties)
+            // De "Voor jou"-mix is altijd gratis en mag doorspelen.
+            guard !heeftPremium, !mixer.voorJouActief else { return }
             for id in mixer.actieveOpties {
-                if alleOpties.first(where: { $0.id == id })?.isPremium == true {
+                if GeluidCategorie.optie(id: id)?.isPremium == true {
                     mixer.stopAlles()
                     break
                 }
