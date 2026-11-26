@@ -661,3 +661,17 @@ Eerst de checklist in dit bestand nagelopen: iPhone in Canada stond er nog niet 
 - **Apple World Today** ⛔: alleen een webformulier, en "we do not accept unsolicited items" voor reviews. Overgeslagen.
 - **MacTrast**: al eerder afgevallen (adres alleen voor exclusieve nieuwstips, zie hierboven). Niet opnieuw.
 - Kandidaat voor een volgende run: **OSXDaily** (contactpagina en regels nog controleren) of een NL-ouderkanaal.
+
+## Ronde 26 november 2026 — Engelstalig iOS-nieuws
+- [x] **OSXDaily** (VS, Apple-tipsblog, dekt ook iPhone/iPad): contact- en about-pagina noemen de groepsinbox
+  **osxdailycom@gmail.com** (contact@osxdaily.com komt op dezelfde plek uit; het contactformulier is weggehaald).
+  "Tips are often suggested by and submitted to us through email". Advertenties/affiliates bestaan maar beïnvloeden de
+  dekking niet volgens de site; niet gebruikt. Geen verbod op app-tips, zelfpromotie of AI-content gevonden. Gemaild op
+  26 november 2026 via het SMTP-script. **Eerste contact.** Inhoud: geluiden live op het toestel gegenereerd (geen
+  loops), 26 geluiden (4 gratis), eigen mix met volume per geluid, sleeptimer met fade-out en doorspelen met
+  vergrendeld scherm, babymodus met begrensd volume, geen account/reclame/tracking, offline, 8 talen (Engelse UI
+  gecontroleerd via de iTunes-lookup), eerste maand Premium gratis (daarna €0,99/mnd), App Store (US) + Google Play,
+  aanbod van een promocode, "not a paid promotion or an advertising request", met afmeldregel. Niet nog eens mailen
+  zonder reactie.
+- Kandidaat voor een volgende run: een **NL-ouderkanaal** (al een paar runs alleen Engelstalig iOS-nieuws gedaan) of
+  **9to5Mac Indie App Spotlight** (Engelse UI is nu live; route en regels nog controleren in de checklist).
