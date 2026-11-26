@@ -5,6 +5,8 @@ import SwiftUI
 /// screensaver-animaties in plaats van geluiden.
 struct ScreensaverKiezerView: View {
     let onSluiten: () -> Void
+    /// Alleen voor screenshots (Debug): open meteen deze screensaver.
+    var startOptieID: String? = nil
 
     @State private var gekozenOptie: ScreensaverOptie?
 
@@ -37,6 +39,11 @@ struct ScreensaverKiezerView: View {
                 ToolbarItem(placement: .topBarLeading) {
                     Button("Terug", action: onSluiten)
                 }
+            }
+        }
+        .onAppear {
+            if let id = startOptieID {
+                gekozenOptie = GeluidCategorie.allCases.flatMap(\.screensaverOpties).first { $0.id == id }
             }
         }
         .fullScreenCover(item: $gekozenOptie) { optie in

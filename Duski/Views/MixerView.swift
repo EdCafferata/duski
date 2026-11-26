@@ -27,6 +27,7 @@ struct MixerView: View {
 
     var body: some View {
         NavigationStack {
+            ScrollViewReader { scroller in
             ScrollView {
                 VStack(alignment: .leading, spacing: 28) {
                     if leeftijdsGroep == .baby && toontVeiligheidsBanner {
@@ -65,6 +66,7 @@ struct MixerView: View {
                         toontScreensaverKnop: !mixer.actieveOpties.isEmpty,
                         onScreensaver: { toontScreensaver = true }
                     )
+                    .id("timer")
 
                     // Handmatige beoordeelknop (#1). Apple raadt voor een knop de
                     // write-review-link aan; de automatische vraag (requestReview)
@@ -79,6 +81,18 @@ struct MixerView: View {
                     .padding(.top, 8)
                 }
                 .padding()
+            }
+            .task {
+                // Alleen in Debug: startsituaties voor screenshots (zie Demo).
+                if Demo.aan("demoVoorJou") { mixer.speelVoorJou(VoorJouMix.voor(leeftijdsGroep)) }
+                if let id = Demo.tekst("demoGeluid"), let optie = GeluidCategorie.optie(id: id) { mixer.schakel(optie) }
+                if let minuten = Demo.tekst("demoTimer").flatMap(Int.init) {
+                    slaapTimer.start(minuten: minuten, mixer: mixer)
+                    try? await Task.sleep(for: .seconds(0.6))
+                    scroller.scrollTo("timer", anchor: .bottom)
+                }
+                if Demo.tekst("demoScreensaver") != nil { toontScreensaver = true }
+            }
             }
             .navigationTitle(Text(verbatim: "\(leeftijdsGroep.emoji) \(leeftijdsGroep.titel)"))
             .toolbar {
@@ -123,7 +137,7 @@ struct MixerView: View {
             PremiumView(abonnement: abonnement)
         }
         .fullScreenCover(isPresented: $toontScreensaver) {
-            ScreensaverKiezerView(onSluiten: { toontScreensaver = false })
+            ScreensaverKiezerView(onSluiten: { toontScreensaver = false }, startOptieID: Demo.tekst("demoScreensaver"))
         }
     }
 }

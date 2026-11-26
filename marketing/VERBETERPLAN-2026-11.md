@@ -97,6 +97,12 @@ Zonder tracking in de app, alleen met de cijfers van Apple en Google:
 | Premium-proeven en -omzettingen | ASC Abonnementen | meer proeven na fase 2 |
 
 ## 3. Beslissingen voor Ed
+
+**26 nov 2026: Ed zei "ja op alle vier".** Stand van uitvoering:
+- 1.4 gebouwd (commit 2b0b9fa): "Voor jou"-kaart per leeftijd (altijd gratis, ook met premium-lagen), onweer, stofzuiger, speeldoos-slaapliedjes, grotere tekst voor 65+. Ed testte op zijn iPhone: "ziet er goed uit".
+- ASC: versie 1.4 aangemaakt, categorie Gezondheid en fitness + Lifestyle (gaat in met 1.4), "Wat is er nieuw" en beschrijving (29 geluiden, "Voor jou") in 11 locales, 8 screenshots met koptekst per toestel in 8 talen (`AppStore/1.4/`).
+- Nog: build 12 uploaden en koppelen, pre-release-check, Ed dient in. Daarna: Play (categorie via Play Console door Ed; Android-versie van 1.4), preview-video, A/B-test en aangepaste productpagina's.
+
 1. **Categorie** naar Gezondheid en fitness? (advies: ja)
 2. **Gratis laag ruimer** (de "Voor jou"-mix altijd gratis)? (advies: ja)
 3. **Volgorde nieuwe geluiden**: akkoord met onweer, stofzuiger, speeldoos als eerste drie?
