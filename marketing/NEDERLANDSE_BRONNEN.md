@@ -472,3 +472,17 @@ Geen herinneringsreeks: hooguit één reactie afwachten; wie niet reageert krijg
 - Deze run is Duski daarom internationaal gegaan (MacDailyNews, zie `SOCIAL_EN_MEER.md`).
 - Kandidaten voor een volgende run: een grote kraamzorgorganisatie met een eigen nieuwsbrief of blog (bijv. Naviva,
   Kraamzorg De Waarden). Adres en regels nog controleren.
+
+## Ronde 28 november 2026 — nieuwe hoek: meerlingouders
+- [x] **NVOM** (Nederlandse Vereniging voor Ouders van Meerlingen; Meerlingen Magazine, events tot in 2027): de
+  site nvom.nl noemt als enig adres **info@nvom.nl** (in de footer, Cloudflare-versleuteld en gedecodeerd); het oude
+  redactieadres meerlingenmagazine@nvom.nl uit een PDF van 2019 staat niet meer op de site en is daarom niet
+  gebruikt. Geen advertentie- of kopijregels en geen zelfpromotie-/AI-verbod gevonden. Gemaild op 28 november 2026
+  via het SMTP-script, met het verzoek het door te sturen naar de redactie. **Eerste contact.** Invalshoek: slapen
+  bij een tweeling/meerling. Inhoud: live gegenereerde geluiden, eigen mix met volume per geluid, sleeptimer met
+  fade-out, babymodus met begrensd volume, geen account/reclame/tracking, offline, basisgeluiden gratis, Premium 30
+  dagen gratis en daarna € 0,99/mnd of € 9,99/jaar, App Store (NL) + Google Play, "geen verzoek om een betaalde
+  samenwerking of advertentie", met afmeldregel. Niet nog eens mailen zonder reactie.
+- Let op: de App Store-link heet sinds 1.4 **apps.apple.com/nl/app/duski-witte-ruis-slaap/id6806373286** (iTunes-lookup
+  28 november 2026); de oude "duski-by-the-it-crowd"-link werkt nog, maar gebruik voortaan de nieuwe.
+- Kandidaat voor een volgende run: **Vereniging Groot Gezin** (grootgezin.nl; adres en regels nog controleren).
